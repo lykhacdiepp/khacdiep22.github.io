@@ -1,0 +1,188 @@
+
+
+--------------------------
+
+SA-MP Server: 0.3.DL-R1
+
+
+
+Exception At Address: 0x71A57087 Module: (MSVCR90.dll)
+
+
+
+Registers:
+
+EAX: 0x0019FB94	EBX: 0x00000001	ECX: 0x00000000	EDX: 0x28656369
+
+ESI: 0x027B818A	EDI: 0x00000007	EBP: 0x0019E8FC	ESP: 0x0019E8C4
+
+EFLAGS: 0x00010246
+
+
+
+Stack:
+
++0000: 0x00000000   0x71A56FF7   0x71AB7408   0x00000000
+
++0010: 0x0019FB94   0x00000001   0x00000000   0x00000000
+
++0020: 0x10000000   0x00000000   0x00000000   0x00000000
+
++0030: 0x00000000   0xCBAC1AB9   0x0019FBE0   0x027B284C
+
++0040: 0x00000000   0x027B8188   0x0019FB94   0x75C8F550
+
++0050: 0x022A9508   0x022A8F98   0x70747468   0x682F2F3A
+
++0060: 0x6F2E3230   0x6D2F6772   0x2F637369   0x3F72657NGG Optimized
+
++0070: 0x474E3D61   0x6D612E47   0x31333A78   0x39313734
+
++0080: 0x612F3934   0x2E6D696E   0x3A786D61   0x30333031
+
++0090: 0x652F3635   0x72657478   0x2E726F69   0x3A786D61
+
++00A0: 0x35303432   0x692F3930   0x7265746E   0x2E726F69
+
++00B0: 0x3A786D61   0x31353337   0x2F303338   0x76726573
+
++00C0: 0x612E7265   0x383A786D   0x30333238   0x796D2F34
+
++00D0: 0x2E6C7173   0x3A6C6C64   0x35333538   0x732F3430
+
++00E0: 0x6E616373   0x6C642E66   0x30333A6C   0x2F383032
+
++00F0: 0x65727473   0x72656D61   0x6C6C642E   0x3034NGG Optimized
+NGG Optimized
++0100: 0x2F303436   0x72696857   0x6F6F706C   0x6C64NGG Optimized
+NGG Optimized
++0110: 0x31333A6C   0x2F343437   0x00000000   0x0000NGG Optimized
+NGG Optimized
++0120: 0x00000000   0x00000000   0x00000000   0x0000NGG Optimized
+
++0130: 0x00000000   0x00000000   0x00000000   0x00000000
+
+
+
+--------------------------
+
+
+
+Loaded Modules:
+
+samp-server.exe	A: 0x00400000 - 0x0051F000	(D:\SAMP\GM\NGG Optimized v2\samp-server.exe)
+NGG Optimized
+ntdll.dll	A: 0x76FB0000 - 0x77153000	(C:\Windows\SYSTNGG Optimized
+
+KERNEL32.DLL	A: 0x75C70000 - 0x75D60000	(C:\Windows\System32\KERNEL32.DLL)
+
+KERNELBASE.dll	A: 0x76D80000 - 0x76F94000	(C:\Windows\System32\KERNELBASE.dll)
+
+apphelp.dll	A: 0x6A170000 - 0x6A20F000	(C:\Windows\SYSTEM32\apphelp.dll)
+
+SHELL32.dll	A: 0x76300000 - 0x768B3000	(C:\Windows\System32\SHELL32.dll)
+
+msvcp_win.dll	A: 0x76B10000 - 0x76B8B000	(C:\Windows\System32\msvcp_win.dll)
+
+ucrtbase.dll	A: 0x769F0000 - 0x76B10000	(C:\Windows\System32\ucrtbase.dll)
+
+USER32.dll	A: 0x75EC0000 - 0x76056000	(C:\Windows\System32\USER32.dll)
+
+win32u.dll	A: 0x75520000 - 0x75538000	(C:\Windows\System32\win32u.dll)
+
+GDI32.dll	A: 0x76C70000 - 0x76C93000	(C:\Windows\System32\GDI32.dll)
+
+gdi32full.dll	A: 0x76B90000 - 0x76C6A000	(C:\Windows\System32\gdi32full.dll)
+
+WINMM.dll	A: 0x72670000 - 0x72698000	(C:\Windows\SYSTEM32\WINMM.dll)
+
+WSOCK32.dll	A: 0x55AC0000 - 0x55AC8000	(C:\Windows\SYSTEM32\WSOCK32.dll)
+
+msvcrt.dll	A: 0x75080000 - 0x7513F000	(C:\Windows\System32\msvcrt.dll)
+
+WS2_32.dll	A: 0x74F10000 - 0x74F73000	(C:\Windows\System32\WS2_32.dll)
+
+RPCRT4.dll	A: 0x76070000 - 0x7612A000	(C:\Windows\System32\RPCRT4.dll)
+
+IMM32.DLL	A: 0x754F0000 - 0x75515000	(C:\Windows\System32\IMM32.DLL)
+
+streamer.DLL	A: 0x54E80000 - 0x54EBE000	(D:\SAMP\GM\NGG Optimized v2\plugins\streamer.DLL)
+
+MSVCP100.dll	A: 0x54B60000 - 0x54BC9000	(D:\SAMP\GM\NGG Optimized v2\MSVCP100.dll)
+
+MSVCR100.dll	A: 0x50F50000 - 0x5100F000	(D:\SAMP\GM\NGG Optimized v2\MSVCR100.dll)
+
+mysql.DLL	A: 0x77220000 - 0x772F4000	(D:\SAMP\GM\NGG Optimized v2\plugins\mysql.DLL)
+
+MSVCP110.dll	A: 0x77190000 - 0x77215000	(D:\SAMP\GM\NGG Optimized v2\MSVCP110.dll)
+
+MSVCR110.dll	A: 0x7BA40000 - 0x7BB16000	(D:\SAMP\GM\NGG Optimized v2\MSVCR110.dll)
+
+LIBMYSQL.dll	A: 0x10000000 - 0x1023E000	(D:\SAMP\GM\NGG Optimized v2\LIBMYSQL.dll)
+
+ADVAPI32.dll	A: 0x76CA0000 - 0x76D1A000	(C:\Windows\System32\ADVAPI32.dll)
+
+sechost.dll	A: 0x75E40000 - 0x75EB5000	(C:\Windows\System32\sechost.dll)
+
+napinsp.dll	A: 0x68060000 - 0x68071000	(C:\Windows\system32\napinsp.dll)
+
+pnrpnsp.dll	A: 0x68040000 - 0x68056000	(C:\Windows\system32\pnrpnsp.dll)
+
+wshbth.dll	A: 0x68030000 - 0x68040000	(C:\Windows\system32\wshbth.dll)
+
+NLAapi.dll	A: 0x6E890000 - 0x6E8A6000	(C:\Windows\system32\NLAapi.dll)
+
+IPHLPAPI.DLL	A: 0x71CF0000 - 0x71D22000	(C:\Windows\SYSTEM32\IPHLPAPI.DLL)
+
+mswsock.dll	A: 0x71E00000 - 0x71E52000	(C:\Windows\System32\mswsock.dll)
+
+DNSAPI.dll	A: 0x71C10000 - 0x71CA2000	(C:\Windows\SYSTEM32\DNSAPI.dll)
+
+NSI.dll	A: 0x76060000 - 0x76067000	(C:\Windows\System32\NSI.dll)
+
+winrnr.dll	A: 0x68020000 - 0x6802E000	(C:\Windows\System32\winrnr.dll)
+
+rasadhlp.dll	A: 0x71BF0000 - 0x71BF8000	(C:\Windows\System32\rasadhlp.dll)
+
+sscanf.DLL	A: 0x02790000 - 0x0279C000	(D:\SAMP\GM\NGG Optimized v2\plugins\sscanf.DLL)
+
+whirlpool.DLL	A: 0x027B0000 - 0x027BC000	(D:\SAMP\GM\NGG Optimized v2\plugins\whirlpool.DLL)
+
+urlmon.dll	A: 0x704F0000 - 0x70699000	(C:\Windows\SYSTEM32\urlmon.dll)
+
+MSVCR90.dll	A: 0x71A20000 - 0x71AC3000	(C:\Windows\WinSxS\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.9625_none_508ef7e4bcbbe589\MSVCR90.dll)
+
+iertutil.dll	A: 0x702C0000 - 0x704EB000	(C:\Windows\SYSTEM32\iertutil.dll)
+
+combase.dll	A: 0x759E0000 - 0x75C61000	(C:\Windows\System32\combase.dll)
+
+shcore.dll	A: 0x768C0000 - 0x76947000	(C:\Windows\System32\shcore.dll)
+
+kernel.appcore.dll	A: 0x74D70000 - 0x74D7F000	(C:\Windows\SYSTEM32\kernel.appcore.dll)
+
+uxtheme.dll	A: 0x72A30000 - 0x72AA4000	(C:\Windows\system32\uxtheme.dll)
+
+RTSSHooks.dll	A: 0x02B90000 - 0x02DE9000	(D:\Program Files\RivaTuner Statistics Server\RTSSHooks.dll)
+
+SHLWAPI.dll	A: 0x76990000 - 0x769D5000	(C:\Windows\System32\SHLWAPI.dll)
+
+OLEAUT32.dll	A: 0x74E70000 - 0x74F06000	(C:\Windows\System32\OLEAUT32.dll)
+
+WININET.dll	A: 0x71230000 - 0x71688000	(C:\Windows\SYSTEM32\WININET.dll)
+
+SspiCli.dll	A: 0x71B50000 - 0x71B78000	(C:\Windows\SYSTEM32\SspiCli.dll)
+
+windows.storage.dll	A: 0x740F0000 - 0x746FA000	(C:\Windows\SYSTEM32\windows.storage.dll)
+
+profapi.dll	A: 0x740A0000 - 0x740BD000	(C:\Windows\SYSTEM32\profapi.dll)
+
+ondemandconnroutehelper.dll	A: 0x54E60000 - 0x54E72000	(C:\Windows\SYSTEM32\ondemandconnroutehelper.dll)
+
+winhttp.dll	A: 0x71D30000 - 0x71DF2000	(C:\Windows\SYSTEM32\winhttp.dll)
+
+WINNSI.DLL	A: 0x71C00000 - 0x71C08000	(C:\Windows\SYSTEM32\WINNSI.DLL)
+
+bcryptPrimitives.dll	A: 0x76130000 - 0x7618C000	(C:\Windows\System32\bcryptPrimitives.dll)
+
+bcrypt.dll	A: 0x75440000 - 0x75459000	(C:\Windows\System32\bcrypt.dll)
+

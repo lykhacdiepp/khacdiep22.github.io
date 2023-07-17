@@ -1,0 +1,74 @@
+// TextDraw developed using Textdraw EDitor (Aidz) 1.0
+
+// On top of script:
+new Text:Textdraw0;
+new Text:Textdraw1;
+new Text:Textdraw2;
+new Text:Textdraw3;
+new Text:Textdraw4;
+new Text:Textdraw5;
+
+// In OnGameModeInit prefferably, we procced to create our textdraws:
+Textdraw0 = TextDrawCreate(281.000000, 5.000000, "vg:rp mobile");
+TextDrawBackgroundColor(Textdraw0, -16711681);
+TextDrawFont(Textdraw0, 3);
+TextDrawLetterSize(Textdraw0, 0.500000, 2.700001);
+TextDrawColor(Textdraw0, 16777215);
+TextDrawSetOutline(Textdraw0, 1);
+TextDrawSetProportional(Textdraw0, 1);
+TextDrawSetSelectable(Textdraw0, 0);
+
+Textdraw1 = TextDrawCreate(276.000000, 427.000000, "00/00/0000");
+TextDrawBackgroundColor(Textdraw1, 255);
+TextDrawFont(Textdraw1, 2);
+TextDrawLetterSize(Textdraw1, 0.310000, 1.600000);
+TextDrawColor(Textdraw1, 16777215);
+TextDrawSetOutline(Textdraw1, 0);
+TextDrawSetProportional(Textdraw1, 1);
+TextDrawSetShadow(Textdraw1, 1);
+TextDrawSetSelectable(Textdraw1, 0);
+
+Textdraw2 = TextDrawCreate(50.000000, 432.000000, "ID:");
+TextDrawBackgroundColor(Textdraw2, 255);
+TextDrawFont(Textdraw2, 1);
+TextDrawLetterSize(Textdraw2, 0.250000, 1.399999);
+TextDrawColor(Textdraw2, 16777215);
+TextDrawSetOutline(Textdraw2, 1);
+TextDrawSetProportional(Textdraw2, 1);
+TextDrawUseBox(Textdraw2, 1);
+TextDrawBoxColor(Textdraw2, 255);
+TextDrawTextSize(Textdraw2, 73.000000, -115.000000);
+TextDrawSetSelectable(Textdraw2, 0);
+
+Textdraw3 = TextDrawCreate(63.000000, 434.000000, "0");
+TextDrawBackgroundColor(Textdraw3, 255);
+TextDrawFont(Textdraw3, 1);
+TextDrawLetterSize(Textdraw3, 0.500000, 1.000000);
+TextDrawColor(Textdraw3, -65281);
+TextDrawSetOutline(Textdraw3, 1);
+TextDrawSetProportional(Textdraw3, 1);
+TextDrawSetSelectable(Textdraw3, 0);
+
+Textdraw4 = TextDrawCreate(527.000000, 430.000000, "LEVEL:");
+TextDrawBackgroundColor(Textdraw4, 255);
+TextDrawFont(Textdraw4, 1);
+TextDrawLetterSize(Textdraw4, 0.319999, 1.399999);
+TextDrawColor(Textdraw4, 16777215);
+TextDrawSetOutline(Textdraw4, 1);
+TextDrawSetProportional(Textdraw4, 1);
+TextDrawUseBox(Textdraw4, 1);
+TextDrawBoxColor(Textdraw4, 255);
+TextDrawTextSize(Textdraw4, 571.000000, 397.000000);
+TextDrawSetSelectable(Textdraw4, 0);
+
+Textdraw5 = TextDrawCreate(561.000000, 430.000000, "1");
+TextDrawBackgroundColor(Textdraw5, 255);
+TextDrawFont(Textdraw5, 1);
+TextDrawLetterSize(Textdraw5, 0.509999, 1.400000);
+TextDrawColor(Textdraw5, -65281);
+TextDrawSetOutline(Textdraw5, 1);
+TextDrawSetProportional(Textdraw5, 1);
+TextDrawSetSelectable(Textdraw5, 0);
+
+// You can now use TextDrawShowForPlayer(-ForAll), TextDrawHideForPlayer(-ForAll) and
+// TextDrawDestroy functions to show, hide, and destroy the textdraw.
