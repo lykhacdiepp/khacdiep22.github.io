@@ -1,33 +1,7 @@
-C:\Users\Administrator\Desktop\Hungpc\GvR\pawno\include\td-actions.inc(33) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
-C:\Users\Administrator\Desktop\Hungpc\GvR\pawno\include\td-actions.inc(36) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
-C:\Users\Administrator\Desktop\Hungpc\GvR\pawno\include\td-actions.inc(38) : ïðåäóïðåæäåíèå 235: public-ôóíêöèÿ íóæäàåòñÿ â îïåðåæàþùåì îáúÿâëåíèè (èäåíòèôèêàòîð "OnPlayerConnect")
-C:\Users\Administrator\Desktop\Hungpc\GvR\pawno\include\td-actions.inc(59) : ïðåäóïðåæäåíèå 235: public-ôóíêöèÿ íóæäàåòñÿ â îïåðåæàþùåì îáúÿâëåíèè (èäåíòèôèêàòîð "OnPlayerDisconnect")
-C:\Users\Administrator\Desktop\Hungpc\GvR\pawno\include\td-actions.inc(83) : ïðåäóïðåæäåíèå 235: public-ôóíêöèÿ íóæäàåòñÿ â îïåðåæàþùåì îáúÿâëåíèè (èäåíòèôèêàòîð "OnPlayerKeyStateChange")
-C:\Users\Administrator\Desktop\Hungpc\GvR\pawno\include\td-actions.inc(87) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "KEY_YES"
-C:\Users\Administrator\Desktop\Hungpc\GvR\pawno\include\td-actions.inc(89) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "CallLocalFunction"
-C:\Users\Administrator\Desktop\Hungpc\GvR\pawno\include\td-actions.inc(95) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "KEY_NO"
-C:\Users\Administrator\Desktop\Hungpc\GvR\pawno\include\td-actions.inc(97) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "CallLocalFunction"
-C:\Users\Administrator\Desktop\Hungpc\GvR\pawno\include\td-actions.inc(127) : îøèáêà 070: ïîääåðæêà ðàöèîíàëüíûõ ÷èñåë íå âêëþ÷åíà
-C:\Users\Administrator\Desktop\Hungpc\GvR\pawno\include\td-actions.inc(127) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
-C:\Users\Administrator\Desktop\Hungpc\GvR\pawno\include\td-actions.inc(129) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "PlayerTextDrawTextSize"
-C:\Users\Administrator\Desktop\Hungpc\GvR\pawno\include\td-actions.inc(130) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "PlayerTextDrawShow"
-C:\Users\Administrator\Desktop\Hungpc\GvR\pawno\include\td-actions.inc(132) : îøèáêà 070: ïîääåðæêà ðàöèîíàëüíûõ ÷èñåë íå âêëþ÷åíà
-C:\Users\Administrator\Desktop\Hungpc\GvR\pawno\include\td-actions.inc(134) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "CallLocalFunction"
-C:\Users\Administrator\Desktop\Hungpc\GvR\pawno\include\td-actions.inc(255) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "KillTimer"
-C:\Users\Administrator\Desktop\Hungpc\GvR\pawno\include\td-actions.inc(261) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "PlayerTextDrawDestroy"
-C:\Users\Administrator\Desktop\Hungpc\GvR\gamemodes\includes\thuexe.pwn(16) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "GetPlayerPos"
-C:\Users\Administrator\Desktop\Hungpc\GvR\gamemodes\includes\thuexe.pwn(17) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "GetPlayerFacingAngle"
-C:\Users\Administrator\Desktop\Hungpc\GvR\gamemodes\includes\thuexe.pwn(19) : íåïðàâèëüíàÿ òàáóëÿöèÿ
-C:\Users\Administrator\Desktop\Hungpc\GvR\gamemodes\includes\thuexe.pwn(19) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "IsPlayerInRangeOfPoint"
-C:\Users\Administrator\Desktop\Hungpc\GvR\gamemodes\includes\thuexe.pwn(21) : îøèáêà 003: îáúÿâëåíèå ëîêàëüíîé ïåðåìåííîé äîëæíî áûòü â ñîñòàâíîì áëîêå
-C:\Users\Administrator\Desktop\Hungpc\GvR\gamemodes\includes\thuexe.pwn(21) : íåïðàâèëüíàÿ òàáóëÿöèÿ
-C:\Users\Administrator\Desktop\Hungpc\GvR\gamemodes\includes\thuexe.pwn(21) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "vehicleid"
-C:\Users\Administrator\Desktop\Hungpc\GvR\gamemodes\includes\thuexe.pwn(21) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "CreateVehicle"
-C:\Users\Administrator\Desktop\Hungpc\GvR\gamemodes\includes\thuexe.pwn(21) : ôàòàëüíàÿ îøèáêà 107: ñëèøêîì ìíîãî îøèáîê íà îäíîé ñòðîêå
-
-Êîìïèëÿöèÿ îñòàíîâëåíà.
-
+C:\Users\Administrator\Desktop\Hungpc\GvR\gamemodes\includes\giaodien.pwn(76) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Hungpc\GvR\pawno\include\YSI\y_amx.inc(264) : ïðåäóïðåæäåíèå: ðåêóðñèÿ â AMX_GetGlobal
+Äëÿ îòêëþ÷åíèÿ âûâîäà ðåêóðñèé: #pragma disablerecursion
 Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
 
 
-Îøèáîê:20.
+Ïðåäóïðåæäåíèé:1.

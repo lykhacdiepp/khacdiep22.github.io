@@ -23,6 +23,27 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 			}
 		}
 	}
+   	if(dialogid == GIAODIEN)
+    {
+        if(response)
+        {
+            if(listitem == 0)// Vi Tri Hai Can
+            {
+                return cmd_giaodien1(playerid, "");
+//				PlayerPlaySound(playerid,1149,0.0,0.0,0.0);
+            }
+            else if(listitem == 1)// Vi tri san xuat
+            {
+                return cmd_giaodien2(playerid, "");
+//				PlayerPlaySound(playerid,1149,0.0,0.0,0.0);
+            }
+            else if(listitem == 1)// Vi tri san xuat
+            {
+                return cmd_vitrithuexe(playerid, "");
+//				PlayerPlaySound(playerid,1149,0.0,0.0,0.0);
+            }
+        }
+    }
    	if(dialogid == TONGHOP)
     {
         if(response)

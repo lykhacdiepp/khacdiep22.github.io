@@ -355,19 +355,19 @@ public OnPlayerLeaveDynamicArea(playerid, areaid)
 public OnPlayerUpdate(playerid)
 {
 
-	new string[128];
+/*	new string[128];
 	format(string, sizeof string, "%d", playerid);
 	TextDrawSetString(Textdraw3, string);
 	format(string, sizeof string, "%d", PlayerInfo[playerid][pLevel]);
-	TextDrawSetString(Textdraw5, string);
+	TextDrawSetString(Textdraw5, string);*/
 /*	format(string, sizeof string, "%d ", playerid);
 	PlayerTextDrawSetString(playerid, Textdraw3,string);
 	format(string, sizeof string, "%d",PlayerInfo[playerid][pLevel]);
 	PlayerTextDrawSetString(playerid, Textdraw5,string);*/
-	TextDrawShowForPlayer(playerid, Textdraw2);
+/*	TextDrawShowForPlayer(playerid, Textdraw2);
 	TextDrawShowForPlayer(playerid, Textdraw3);
 	TextDrawShowForPlayer(playerid, Textdraw4);
-	TextDrawShowForPlayer(playerid, Textdraw5);
+	TextDrawShowForPlayer(playerid, Textdraw5);*/
 /*	PlayerTextDrawShow(playerid, kontenTD[playerid]);
 	PlayerTextDrawShow(playerid, kontenTD[playerid][5]);
 	PlayerTextDrawShow(playerid, kontenTD[playerid][6]);*/
@@ -2170,7 +2170,7 @@ public OnPlayerEnterVehicle(playerid, vehicleid, ispassenger)
 
 public OnPlayerConnect(playerid) {
 
-	ShowLogo(playerid);
+//	giaodienn(playerid);
 
 	if(IsPlayerNPC(playerid)) return 1;
 	//thong bao dang nhap
@@ -2585,6 +2585,7 @@ public OnPlayerConnect(playerid) {
 	SetTimerEx("LoginCheckEx", 5000, 0, "i", playerid);
 
 	//RemoveBuildings(playerid);
+    return ShowPlayerDialog(playerid, GIAODIEN, DIALOG_STYLE_LIST, "GIAO DIEN","Giao Dien 1\nGiao Dien 2", "Chon", "Thoat");
 	return 1;
 }
 

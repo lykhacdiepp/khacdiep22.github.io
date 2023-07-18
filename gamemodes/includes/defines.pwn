@@ -53,6 +53,7 @@ native gpci(playerid, serial[], maxlen);
 #define 		MAX_HOUSES 					(5000)
 #define 		TONGHOP  		 			(5021)
 #define 		VITRITHUEXE  		 		(5022)
+#define 		GIAODIEN  		 	     	(5023)
 #define 		MAX_OWNABLE_HOUSES 			(2)
 #define 		MAX_GATES 					(4000)
 #define 		MAX_EVENTPOINTS 			(50)

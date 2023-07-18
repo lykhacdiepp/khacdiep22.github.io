@@ -47,6 +47,7 @@
 #include "./includes/Speedo-PNSA.pwn"
 #include "./includes/Phone.pwn"
 #include "./includes/thuexe.pwn"
+#include "./includes/giaodien.pwn"
 
 #include "./includes/miner_liv.inc"
 #include "./includes/electrician.inc"

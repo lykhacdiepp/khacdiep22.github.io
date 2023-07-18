@@ -56365,3 +56365,2359 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [20:47:47] [zcmd] [Rick]: /ra
 [20:49:26] [part] Rick has left the server (0:0)
 [21:00:05] [plant] 300 plants saved
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:50:21] password = ""  (string)
+[07:50:21] 
+[07:50:21] Server Plugins
+[07:50:21] --------------
+[07:50:21]  Loading plugin: streamer
+[07:50:21] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[07:50:21]   Loaded.
+[07:50:21]  Loading plugin: mysql
+[07:50:21]  >> plugin.mysql: R33 successfully loaded.
+[07:50:21]   Loaded.
+[07:50:21]  Loading plugin: sscanf
+[07:50:21] 
+
+[07:50:21]  ===============================
+
+[07:50:21]       sscanf plugin loaded.     
+
+[07:50:21]          Version:  2.8.1        
+
+[07:50:21]    (c) 2012 Alex "Y_Less" Cole  
+
+[07:50:21]  ===============================
+
+[07:50:21]   Loaded.
+[07:50:21]  Loading plugin: whirlpool
+[07:50:21]  
+[07:50:21]  ==================
+[07:50:21]  
+[07:50:21]   Whirlpool loaded
+[07:50:21]  
+[07:50:21]  ==================
+[07:50:21]  
+[07:50:21]   Loaded.
+[07:50:21]  Loading plugin: PawnPlus
+[07:50:21]  PawnPlus v1.3.2 loaded
+[07:50:21]  Created by IllidanS4
+[07:50:21]   Loaded.
+[07:50:21]  Loaded 5 plugins.
+
+[07:50:21] 
+[07:50:21] Ban list
+[07:50:21] --------
+[07:50:21]  Loaded: samp.ban
+[07:50:21] 
+[07:50:21] 
+[07:50:21] Filterscripts
+[07:50:21] ---------------
+[07:50:21]   Loading filterscript 'anim.amx'...
+[07:50:21]  
+[07:50:21]  ======================================= 
+[07:50:21]  |                                     | 
+[07:50:21]  |        YSI version 3.01.0002        | 
+[07:50:21]  |        By Alex "Y_Less" Cole        | 
+[07:50:21]  |                                     | 
+[07:50:21]  ======================================= 
+[07:50:21]  
+[07:50:21]   Loading filterscript 'exterior.amx'...
+[07:50:21]   Loading filterscript 'interior.amx'...
+[07:50:22]   Loading filterscript 'server.amx'...
+[07:50:22]   Loading filterscript 'sweeperjob.amx'...
+[07:50:22]   Loading filterscript 'mask.amx'...
+[07:50:22] 
+--------------------------------------
+[07:50:22]       Mask system by Dominic Zane Version 1.0 
+[07:50:22] --------------------------------------
+
+[07:50:22]   Loaded 6 filterscripts.
+
+[07:50:22]  
+[07:50:22]  ======================================= 
+[07:50:22]  |                                     | 
+[07:50:22]  |        YSI version 3.01.0002        | 
+[07:50:22]  |        By Alex "Y_Less" Cole        | 
+[07:50:22]  |                                     | 
+[07:50:22]  ======================================= 
+[07:50:22]  
+[07:50:23] [MINERAL]: Load 34 mineral, 34 location...
+[07:50:23] [ELECTRICIAN] Load 40 vi tri.
+[07:50:23] Number of vehicle models: 0
+[07:50:23]  
+[07:50:23]  
+[07:50:23]  
+[07:50:23]  
+[07:50:23] [MARIJUANA] Marijuana 0 | X-752.026672 | Y-155.485198 | Z66.758499
+[07:50:23] [MARIJUANA] Marijuana 1 | X-779.744812 | Y-148.622497 | Z64.870597
+[07:50:23] [MARIJUANA] Marijuana 2 | X-786.339721 | Y-153.754104 | Z64.644996
+[07:50:23] [MARIJUANA] Marijuana 3 | X-783.908996 | Y-160.240097 | Z65.766998
+[07:50:23] [MARIJUANA] Marijuana 4 | X-790.303710 | Y-164.885696 | Z66.219902
+[07:50:23] [MARIJUANA] Marijuana 5 | X-788.875488 | Y-169.304595 | Z66.672798
+[07:50:23] [MARIJUANA] Marijuana 6 | X-784.787109 | Y-171.793701 | Z66.997703
+[07:50:23] [MARIJUANA] Marijuana 7 | X-781.519409 | Y-176.483993 | Z67.591903
+[07:50:23] [MARIJUANA] Marijuana 8 | X-775.814270 | Y-174.929595 | Z67.518798
+[07:50:23] [MARIJUANA] Marijuana 9 | X-759.298278 | Y-147.206802 | Z65.869598
+[07:50:23] [MARIJUANA] Marijuana 10 | X-750.838928 | Y-140.376495 | Z66.248397
+[07:50:23] [MARIJUANA] Marijuana 11 | X-734.742614 | Y-141.621505 | Z67.248397
+[07:50:23] [MARIJUANA] Marijuana 12 | X-725.903625 | Y-154.670593 | Z66.953300
+[07:50:23] [MARIJUANA] Marijuana 13 | X-730.079528 | Y-167.183898 | Z66.455902
+[07:50:23] [MARIJUANA] Marijuana 14 | X-744.214782 | Y-170.510803 | Z67.743103
+[07:50:23] [MARIJUANA] Marijuana 15 | X-763.867614 | Y-172.779403 | Z67.394996
+[07:50:23] [MARIJUANA] Marijuana 16 | X-777.986572 | Y-167.110595 | Z66.612098
+[07:50:23] [MARIJUANA] Marijuana 17 | X-778.867187 | Y-156.839492 | Z65.439598
+[07:50:23] [RAUMUONG] Raumuong 0 | X221.045593 | Y1124.951904 | Z13.174699
+[07:50:23] [RAUMUONG] Raumuong 1 | X221.579299 | Y1128.734375 | Z12.872099
+[07:50:23] [RAUMUONG] Raumuong 2 | X222.005798 | Y1131.757568 | Z12.970199
+[07:50:23] [RAUMUONG] Raumuong 3 | X222.371200 | Y1134.347045 | Z13.031000
+[07:50:23] [RAUMUONG] Raumuong 4 | X222.646896 | Y1136.301635 | Z13.068900
+[07:50:23] [RAUMUONG] Raumuong 5 | X222.974197 | Y1138.621582 | Z13.113900
+[07:50:23] [RAUMUONG] Raumuong 6 | X223.424606 | Y1141.814331 | Z13.175900
+[07:50:23] [RAUMUONG] Raumuong 7 | X223.563201 | Y1143.556762 | Z13.217300
+[07:50:23] [RAUMUONG] Raumuong 8 | X223.801406 | Y1145.893310 | Z13.269100
+[07:50:23] [RAUMUONG] Raumuong 9 | X224.089904 | Y1148.483398 | Z13.324799
+[07:50:23] [RAUMUONG] Raumuong 10 | X224.417495 | Y1151.422607 | Z13.387999
+[07:50:23] [RAUMUONG] Raumuong 11 | X224.637893 | Y1153.400146 | Z13.430500
+[07:50:23] [RAUMUONG] Raumuong 12 | X224.858001 | Y1155.375122 | Z13.472999
+[07:50:23] [RAUMUONG] Raumuong 13 | X227.798004 | Y1155.603027 | Z13.271599
+[07:50:23] [RAUMUONG] Raumuong 14 | X228.347900 | Y1153.549438 | Z13.172300
+[07:50:23] [RAUMUONG] Raumuong 15 | X228.740905 | Y1151.338256 | Z13.079500
+[07:50:23] [RAUMUONG] Raumuong 16 | X229.398101 | Y1147.640625 | Z12.924300
+[07:50:23] [RAUMUONG] Raumuong 17 | X230.039306 | Y1144.033569 | Z12.766599
+[07:50:23] [RAUMUONG] Raumuong 18 | X230.632598 | Y1140.695434 | Z12.556599
+[07:50:23] [RAUMUONG] Raumuong 19 | X231.319107 | Y1136.833740 | Z12.313799
+[07:50:23] [RAUMUONG] Raumuong 20 | X231.928298 | Y1133.406738 | Z12.098199
+[07:50:23] [RAUMUONG] Raumuong 21 | X232.596801 | Y1129.645507 | Z11.861700
+[07:50:23] [RAUMUONG] Raumuong 22 | X233.234603 | Y1126.056762 | Z11.911000
+[07:50:23] [RAUMUONG] Raumuong 23 | X233.889007 | Y1122.374633 | Z12.102399
+[07:50:23] [RAUMUONG] Raumuong 24 | X237.172897 | Y1122.205444 | Z11.792200
+[07:50:23] [RAUMUONG] Raumuong 25 | X237.385406 | Y1125.467895 | Z11.561400
+[07:50:23] [RAUMUONG] Raumuong 26 | X237.344894 | Y1129.817749 | Z11.416099
+[07:50:23] [RAUMUONG] Raumuong 27 | X237.305999 | Y1134.003051 | Z11.612000
+[07:50:23] [RAUMUONG] Raumuong 28 | X237.266098 | Y1138.285766 | Z11.812500
+[07:50:23] [RAUMUONG] Raumuong 29 | X237.232803 | Y1141.859741 | Z11.979700
+[07:50:23] [RAUMUONG] Raumuong 30 | X237.197097 | Y1145.699340 | Z12.159399
+[07:50:23] [RAUMUONG] Raumuong 31 | X237.161499 | Y1149.528686 | Z12.338600
+[07:50:23] [RAUMUONG] Raumuong 32 | X237.132400 | Y1152.654296 | Z12.484900
+[07:50:23] [RAUMUONG] Raumuong 33 | X237.106399 | Y1155.434326 | Z12.607799
+[07:50:23] Dang chuan bi tai gamemode, xin vui long cho doi...
+[07:50:23] [MySQL] (Main Pipelines) Connecting to 127.0.0.1...
+[07:50:23] [MySQL] (MainPipeline) Connection successful toward MySQL Database Server!
+[07:50:23] [Dynamic Giftbox] Loading the Dynamic Giftbox...
+[07:50:23] [LoadCrates] Load Query Sent
+[07:50:23] [LoadHouses] Loading data from database...
+[07:50:23] [LoadDynamicDoors] Loading data from database...
+[07:50:23] [LoadDynamicMapIcons] Loading data from database...
+[07:50:23] [LoadMailboxes] Loading data from database...
+[07:50:23] [LoadBusinesses] Loading data from database...
+[07:50:23] [LoadAuctions] Loading data from database...
+[07:50:23] [LoadTxtLabels] Loading data from database...
+[07:50:23] [LoadPlants] Loading data from database...
+[07:50:23] [SpeedCameras] Loading data from database...
+[07:50:23] [LoadPayNSprays] Loading data from database...
+[07:50:23] [LoadArrestPoints] Loading data from database...
+[07:50:23] [LoadImpoundPoints] Loading data from database...
+[07:50:23] [LoadBusinessSales] Loading data from database...
+[07:50:23] [LoadTurfWars] 65 turfs loaded.
+[07:50:23] [LoadPaintballArenas] 10 paintball arenas loaded.
+[07:50:23] [LoadEventPoints] 0 event points loaded.
+[07:50:23] [LoadGates] Loading data from database...
+[07:50:23] [LoadElevatorStuff] 20 floors loaded.
+[07:50:23] [LoadFamilies] Dang tai du lieu tu database...
+[07:50:23] [LoadFamilyPoints] Loading Family Points from the database, please wait...
+[07:50:23] [MiscLoad] Misc Loaded
+[07:50:23] Resetting news...
+[07:50:23] Resetting default server variables..
+[07:50:23] Adjusted the server time...
+[07:50:23] [Streamer] Loading Dynamic Static Vehicles...
+[07:50:23] [Streamer] Dynamic Static Vehicles has been loaded.
+[07:50:23] [Streamer] Loading Dynamic Pickups...
+[07:50:23] [Streamer] Load Pickup Thanh Cong
+[07:50:23] [Streamer] Loading 3D Text Labels...
+[07:50:23] [Streamer] Dynamic 3D Load Thanh Cong
+[07:50:23] [Streamer] Loading Dynamic Buttons...
+[07:50:23] [Streamer] Dynamic Load Thanh Cong
+[07:50:23] [Streamer] Loading Dynamic Objects...
+[07:50:23] [Streamer] Dynamic Objects Da load
+[07:50:23] [Textdraws] Loading Textdraws...
+[07:50:23] [Textdraws] Loaded textdraws.
+[07:50:23] [Dynamic Groups] Loading Dynamic Groups...
+[07:50:23] [Dynamic Groups] Loading Dynamic Groups Vehicles...
+[07:50:23] 
+-------------------------------------------
+[07:50:23] Cong Dong GTA Viet Nam (Mobile)
+
+[07:50:23] Copyright (C) GvR Group, LLC (2015-2100)
+[07:50:23] Giu moi ban quyen
+[07:50:23] -------------------------------------------
+
+[07:50:23] Da chay thanh cong gamemode...
+[07:50:23] [Dynamic Giftbox] da tai thanh cong Dynamic giftbox.
+[07:50:23] [LoadCrates] Loading Crates Finished
+[07:50:24] [LoadHouses] 5000 ngoi nha duoc tai.
+[07:50:24] [LoadDynamicDoors] 3000 door duoc tai.
+[07:50:24] [LoadDynamicMapIcons] 400 icons map duoc tai.
+[07:50:24] [LoadMailboxes] 50 mailboxes duoc tai.
+[07:50:24] [LoadBusinesses] 200 businesses rehashed/loaded.
+[07:50:24] [LoadPlants] Successfully loaded 300 plants
+[07:50:24] [SpeedCameras] Khong the tai cac may ban toc do.
+[07:50:24] TotalSold0: 0 | AmountMade0: 0
+[07:50:24] TotalSold1: 0 | AmountMade1: 0
+[07:50:24] TotalSold2: 0 | AmountMade2: 0
+[07:50:24] TotalSold3: 0 | AmountMade3: 0
+[07:50:24] TotalSold4: 0 | AmountMade4: 0
+[07:50:24] TotalSold5: 0 | AmountMade5: 0
+[07:50:24] TotalSold6: 0 | AmountMade6: 0
+[07:50:24] TotalSold7: 0 | AmountMade7: 0
+[07:50:24] TotalSold8: 0 | AmountMade8: 0
+[07:50:24] TotalSold9: 0 | AmountMade9: 0
+[07:50:24] TotalSold10: 0 | AmountMade10: 0
+[07:50:24] TotalSold11: 0 | AmountMade11: 0
+[07:50:24] TotalSold12: 0 | AmountMade12: 0
+[07:50:24] TotalSold13: 0 | AmountMade13: 0
+[07:50:24] TotalSold14: 0 | AmountMade14: 0
+[07:50:24] TotalSold15: 0 | AmountMade15: 0
+[07:50:24] TotalSold16: 0 | AmountMade16: 0
+[07:50:24] TotalSold17: 6 | AmountMade17: 6
+[07:50:24] TotalSold18: 0 | AmountMade18: 0
+[07:50:24] TotalSold19: 0 | AmountMade19: 0
+[07:50:24] TotalSold20: 0 | AmountMade20: 0
+[07:50:24] TotalSold21: 0 | AmountMade21: 0
+[07:50:24] TotalSold22: 0 | AmountMade22: 0
+[07:50:24] TotalSold23: 0 | AmountMade23: 0
+[07:50:24] TotalSold24: 0 | AmountMade24: 0
+[07:50:24] TotalSold25: 0 | AmountMade25: 0
+[07:50:24] TotalSold26: 0 | AmountMade26: 0
+[07:50:24] TotalSold27: 0 | AmountMade27: 0
+[07:50:24] TotalSold28: 0 | AmountMade28: 0
+[07:50:24] TotalSold29: 0 | AmountMade29: 0
+[07:50:24] Price0: 1000
+[07:50:24] Price1: 199
+[07:50:24] Price2: 180
+[07:50:24] Price3: 80
+[07:50:24] Price4: 100
+[07:50:24] Price5: 100
+[07:50:24] Price6: 250
+[07:50:24] Price7: 90
+[07:50:24] Price8: 25
+[07:50:24] Price9: 80
+[07:50:24] Price10: 25
+[07:50:24] Price11: 150
+[07:50:24] Price12: 200
+[07:50:24] Price13: 300
+[07:50:24] Price14: 299
+[07:50:24] Price15: 100
+[07:50:24] Price16: 60
+[07:50:24] Price17: 1
+[07:50:24] Price18: 1
+[07:50:24] Price19: 2
+[07:50:24] Price20: 11
+[07:50:24] Price21: 10000
+[07:50:24] Price22: 50
+[07:50:24] Price23: 149
+[07:50:24] Price24: 2
+[07:50:24] Price25: 300
+[07:50:24] Price26: 400
+[07:50:24] Price27: 500
+[07:50:24] Price28: 100
+[07:50:24] Price29: 29
+[07:50:24] [Family Points] 8 family points has been loaded.
+[07:59:36] [connection] 27.76.95.181:48199 requests connection cookie.
+[07:59:36] [connection] incoming connection: 27.76.95.181:48199 id: 0
+[07:59:37] [join] Diep has joined the server (0:27.76.95.181)
+[07:59:49] [LOGIN] [User: Diep(24176)] [IP: 27.76.95.181] [Credits: 999,994]
+[07:59:49] Diep Dang Nhap Thanh Cong.
+[07:59:52] warning fix: newweapon 34
+[07:59:59] warning fix: newweapon 0
+[08:00:00] warning fix: newweapon 24
+[08:00:07] warning fix: newweapon 27
+[08:00:08] warning fix: newweapon 29
+[08:00:08] warning fix: newweapon 31
+[08:00:09] warning fix: newweapon 34
+[08:00:09] warning fix: newweapon 0
+[08:00:25] [zcmd] [Diep]: /map
+[08:00:26] [plant] 300 plants saved
+[08:00:33] [zcmd] [Diep]: /goto sfvip
+[08:00:42] [zcmd] [Diep]: /map
+[08:01:00] [zcmd] [Diep]: /map
+[08:01:06] [zcmd] [Diep]: /goto sf
+[08:01:16] [zcmd] [Diep]: /veh 560 227 227
+[08:01:21] warning fix: newweapon 29
+[08:01:29] [zcmd] [Diep]: /glocker
+[08:01:50] warning fix: newweapon 0
+[08:01:55] [zcmd] [Diep]: /map
+[08:01:56] warning fix: newweapon 29
+[08:02:13] [zcmd] [Diep]: /goto dmv
+[08:02:15] [zcmd] [Diep]: /goto dvm
+[08:02:20] [zcmd] [Diep]: /goto cityhall
+[08:02:24] [zcmd] [Diep]: /goto afvip
+[08:02:29] [zcmd] [Diep]: /goto sfvip
+[08:03:25] [zcmd] [Diep]: /fixveh
+[08:03:29] warning fix: newweapon 0
+[08:03:41] [zcmd] [Diep]: /map
+[08:03:50] warning fix: newweapon 29
+[08:03:52] [zcmd] [Diep]: /goto sf
+[08:04:27] warning fix: newweapon 0
+[08:04:45] [zcmd] [Diep]: /help
+[08:04:50] warning fix: newweapon 29
+[08:04:51] [zcmd] [Diep]: /fare
+[08:04:55] [zcmd] [Diep]: /map
+[08:05:34] [zcmd] [Diep]: /fixveh
+[08:05:36] warning fix: newweapon 0
+[08:05:44] [zcmd] [Diep]: /map
+[08:05:48] warning fix: newweapon 29
+[08:05:52] [zcmd] [Diep]: /goto sfvip
+[08:06:14] warning fix: newweapon 0
+[08:06:16] [zcmd] [Diep]: /map
+[08:06:17] warning fix: newweapon 29
+[08:06:57] Account Saving Complete
+[08:07:03] warning fix: newweapon 0
+[08:07:09] [zcmd] [Diep]: /map
+[08:07:10] warning fix: newweapon 29
+[08:07:15] [zcmd] [Diep]: /map
+[08:07:23] [zcmd] [Diep]: /map
+[08:07:29] [zcmd] [Diep]: /map
+[08:07:41] [zcmd] [Diep]: /trogiupcansa
+[08:08:21] [zcmd] [Diep]: /fixveh
+[08:08:23] warning fix: newweapon 0
+[08:08:37] [zcmd] [Diep]: /bedit exterior 1 
+[08:08:37] [business] saved 1
+[08:08:40] [zcmd] [Diep]: /bedit exterior 1 
+[08:08:40] [business] saved 1
+[08:08:44] [zcmd] [Diep]: /bnext
+[08:08:50] [zcmd] [Diep]: /bedit exterior 0
+[08:08:50] [business] saved 0
+[08:08:52] [zcmd] [Diep]: /bnext
+[08:09:08] [zcmd] [Diep]: /bedit delete 0
+[08:09:08] [business] saved 0
+[08:09:14] [zcmd] [Diep]: /vao
+[08:09:16] [zcmd] [Diep]: /mua
+[08:09:24] [zcmd] [Diep]: /gotobiz 1
+[08:09:32] [zcmd] [Diep]: /bedit type 1 1
+[08:09:32] [business] saved 1
+[08:09:35] [zcmd] [Diep]: /bedit type 1 2
+[08:09:35] [business] saved 1
+[08:09:36] [zcmd] [Diep]: /bedit type 1 3
+[08:09:36] [business] saved 1
+[08:09:38] [zcmd] [Diep]: /bedit type 1 4
+[08:09:38] [business] saved 1
+[08:09:41] [zcmd] [Diep]: /bedit type 1 5
+[08:09:41] [business] saved 1
+[08:09:43] [zcmd] [Diep]: /bedit type 1 7
+[08:09:43] [business] saved 1
+[08:09:45] [zcmd] [Diep]: /bedit type 1 8
+[08:09:45] [business] saved 1
+[08:09:47] [zcmd] [Diep]: /vao
+[08:09:48] [zcmd] [Diep]: /mua
+[08:09:55] [zcmd] [Diep]: /gotobiz 1
+[08:10:10] [part] Diep has left the server (0:1)
+[08:13:43] [connection] 27.76.95.181:37156 requests connection cookie.
+[08:13:43] [connection] incoming connection: 27.76.95.181:37156 id: 0
+[08:13:43] [join] diep has joined the server (0:27.76.95.181)
+[08:13:52] [LOGIN] [User: diep(24176)] [IP: 27.76.95.181] [Credits: 999,994]
+[08:13:52] diep Dang Nhap Thanh Cong.
+[08:13:55] warning fix: newweapon 34
+[08:14:14] [zcmd] [diep]: /gotoco -26.691598 -55.714897 1003.546875 1
+[08:14:23] [zcmd] [diep]: /gotoco -26.691598 -55.714897 1003.546875 2
+[08:14:26] [zcmd] [diep]: /gotoco -26.691598 -55.714897 1003.546875 3
+[08:14:28] [zcmd] [diep]: /gotoco -26.691598 -55.714897 1003.546875 4
+[08:14:31] [zcmd] [diep]: /gotoco -26.691598 -55.714897 1003.546875 5
+[08:14:34] [zcmd] [diep]: /gotoco -26.691598 -55.714897 1003.546875 7
+[08:14:36] [zcmd] [diep]: /gotoco -26.691598 -55.714897 1003.546875 6
+[08:14:41] [zcmd] [diep]: /gotoco -26.691598 -55.714897 1003.546875 7
+[08:14:44] [zcmd] [diep]: /gotoco -26.691598 -55.714897 1003.546875 8
+[08:14:46] [zcmd] [diep]: /gotoco -26.691598 -55.714897 1003.546875 6
+[08:15:00] [zcmd] [diep]: /bedit interior 1
+[08:15:00] [business] saved 1
+[08:15:02] [zcmd] [diep]: /ra
+[08:15:11] [zcmd] [diep]: /bedit interior 
+[08:15:19] [zcmd] [diep]: /bedit interior 1 1
+[08:15:19] [business] saved 1
+[08:15:25] [zcmd] [diep]: /gotobiz 1
+[08:15:34] [zcmd] [diep]: /mua
+[08:15:56] [zcmd] [diep]: /asellbiz 1
+[08:15:56] [business] saved 1
+[08:16:01] [zcmd] [diep]: /muacuahang
+[08:16:06] [zcmd] [diep]: /muacuahang
+[08:16:09] [zcmd] [diep]: /muacuahang
+[08:16:14] [zcmd] [diep]: /buybiz
+[08:16:23] [zcmd] [diep]: /bedit
+[08:16:35] [zcmd] [diep]: /bedit inventory 1
+[08:16:35] [business] saved 1
+[08:16:42] [zcmd] [diep]: /bedit inventory 1 9999999
+[08:16:42] [business] saved 1
+[08:16:48] [zcmd] [diep]: /mua
+[08:16:51] [zcmd] [diep]: /mua
+[08:17:01] [zcmd] [diep]: /bedit inventory 1 1
+[08:17:01] [business] saved 1
+[08:17:04] [zcmd] [diep]: /mua
+[08:17:31] [zcmd] [diep]: /bedit inventorycapactitu
+[08:17:33] [zcmd] [diep]: /bedit inventorycapactity
+[08:17:40] [zcmd] [diep]: /bedit inventorycapactity 1 2
+[08:17:40] [business] saved 1
+[08:18:06] [zcmd] [diep]: /bedit InventoryCapacity 1
+[08:18:06] [business] saved 1
+[08:18:12] [zcmd] [diep]: /bedit InventoryCapacity 1 20
+[08:18:12] [business] saved 1
+[08:18:18] [zcmd] [diep]: /mua
+[08:18:40] [part] diep has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:50:27] password = ""  (string)
+[11:50:27] 
+[11:50:27] Server Plugins
+[11:50:27] --------------
+[11:50:27]  Loading plugin: streamer
+[11:50:27] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[11:50:27]   Loaded.
+[11:50:27]  Loading plugin: mysql
+[11:50:27]  >> plugin.mysql: R33 successfully loaded.
+[11:50:27]   Loaded.
+[11:50:27]  Loading plugin: sscanf
+[11:50:27] 
+
+[11:50:27]  ===============================
+
+[11:50:27]       sscanf plugin loaded.     
+
+[11:50:27]          Version:  2.8.1        
+
+[11:50:27]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:50:27]  ===============================
+
+[11:50:27]   Loaded.
+[11:50:27]  Loading plugin: whirlpool
+[11:50:27]  
+[11:50:27]  ==================
+[11:50:27]  
+[11:50:27]   Whirlpool loaded
+[11:50:27]  
+[11:50:27]  ==================
+[11:50:27]  
+[11:50:27]   Loaded.
+[11:50:27]  Loading plugin: PawnPlus
+[11:50:27]  PawnPlus v1.3.2 loaded
+[11:50:27]  Created by IllidanS4
+[11:50:27]   Loaded.
+[11:50:27]  Loaded 5 plugins.
+
+[11:50:27] 
+[11:50:27] Ban list
+[11:50:27] --------
+[11:50:27]  Loaded: samp.ban
+[11:50:27] 
+[11:50:27] 
+[11:50:27] Filterscripts
+[11:50:27] ---------------
+[11:50:27]   Loading filterscript 'anim.amx'...
+[11:50:27]  
+[11:50:27]  ======================================= 
+[11:50:27]  |                                     | 
+[11:50:27]  |        YSI version 3.01.0002        | 
+[11:50:27]  |        By Alex "Y_Less" Cole        | 
+[11:50:27]  |                                     | 
+[11:50:27]  ======================================= 
+[11:50:27]  
+[11:50:27]   Loading filterscript 'exterior.amx'...
+[11:50:27]   Loading filterscript 'interior.amx'...
+[11:50:27]   Loading filterscript 'server.amx'...
+[11:50:28]   Loading filterscript 'sweeperjob.amx'...
+[11:50:28]   Loading filterscript 'mask.amx'...
+[11:50:28] 
+--------------------------------------
+[11:50:28]       Mask system by Dominic Zane Version 1.0 
+[11:50:28] --------------------------------------
+
+[11:50:28]   Loading filterscript 'TD.amx'...
+[11:50:28] 
+--------------------------------------
+[11:50:28]  Text Draw Editor 1.0RC2 by Zamaroht for SA-MP 0.3 Loaded.
+[11:50:28] --------------------------------------
+
+[11:50:28]   Loaded 7 filterscripts.
+
+[11:50:28]  
+[11:50:28]  ======================================= 
+[11:50:28]  |                                     | 
+[11:50:28]  |        YSI version 3.01.0002        | 
+[11:50:28]  |        By Alex "Y_Less" Cole        | 
+[11:50:28]  |                                     | 
+[11:50:28]  ======================================= 
+[11:50:28]  
+[11:50:28] [MINERAL]: Load 34 mineral, 34 location...
+[11:50:28] [ELECTRICIAN] Load 40 vi tri.
+[11:50:28] Number of vehicle models: 0
+[11:50:28]  
+[11:50:28]  
+[11:50:28]  
+[11:50:28]  
+[11:50:28] [MARIJUANA] Marijuana 0 | X-752.026672 | Y-155.485198 | Z66.758499
+[11:50:28] [MARIJUANA] Marijuana 1 | X-779.744812 | Y-148.622497 | Z64.870597
+[11:50:28] [MARIJUANA] Marijuana 2 | X-786.339721 | Y-153.754104 | Z64.644996
+[11:50:28] [MARIJUANA] Marijuana 3 | X-783.908996 | Y-160.240097 | Z65.766998
+[11:50:28] [MARIJUANA] Marijuana 4 | X-790.303710 | Y-164.885696 | Z66.219902
+[11:50:28] [MARIJUANA] Marijuana 5 | X-788.875488 | Y-169.304595 | Z66.672798
+[11:50:28] [MARIJUANA] Marijuana 6 | X-784.787109 | Y-171.793701 | Z66.997703
+[11:50:28] [MARIJUANA] Marijuana 7 | X-781.519409 | Y-176.483993 | Z67.591903
+[11:50:28] [MARIJUANA] Marijuana 8 | X-775.814270 | Y-174.929595 | Z67.518798
+[11:50:28] [MARIJUANA] Marijuana 9 | X-759.298278 | Y-147.206802 | Z65.869598
+[11:50:28] [MARIJUANA] Marijuana 10 | X-750.838928 | Y-140.376495 | Z66.248397
+[11:50:28] [MARIJUANA] Marijuana 11 | X-734.742614 | Y-141.621505 | Z67.248397
+[11:50:28] [MARIJUANA] Marijuana 12 | X-725.903625 | Y-154.670593 | Z66.953300
+[11:50:28] [MARIJUANA] Marijuana 13 | X-730.079528 | Y-167.183898 | Z66.455902
+[11:50:28] [MARIJUANA] Marijuana 14 | X-744.214782 | Y-170.510803 | Z67.743103
+[11:50:28] [MARIJUANA] Marijuana 15 | X-763.867614 | Y-172.779403 | Z67.394996
+[11:50:28] [MARIJUANA] Marijuana 16 | X-777.986572 | Y-167.110595 | Z66.612098
+[11:50:28] [MARIJUANA] Marijuana 17 | X-778.867187 | Y-156.839492 | Z65.439598
+[11:50:28] [RAUMUONG] Raumuong 0 | X221.045593 | Y1124.951904 | Z13.174699
+[11:50:28] [RAUMUONG] Raumuong 1 | X221.579299 | Y1128.734375 | Z12.872099
+[11:50:28] [RAUMUONG] Raumuong 2 | X222.005798 | Y1131.757568 | Z12.970199
+[11:50:28] [RAUMUONG] Raumuong 3 | X222.371200 | Y1134.347045 | Z13.031000
+[11:50:28] [RAUMUONG] Raumuong 4 | X222.646896 | Y1136.301635 | Z13.068900
+[11:50:28] [RAUMUONG] Raumuong 5 | X222.974197 | Y1138.621582 | Z13.113900
+[11:50:28] [RAUMUONG] Raumuong 6 | X223.424606 | Y1141.814331 | Z13.175900
+[11:50:28] [RAUMUONG] Raumuong 7 | X223.563201 | Y1143.556762 | Z13.217300
+[11:50:28] [RAUMUONG] Raumuong 8 | X223.801406 | Y1145.893310 | Z13.269100
+[11:50:28] [RAUMUONG] Raumuong 9 | X224.089904 | Y1148.483398 | Z13.324799
+[11:50:28] [RAUMUONG] Raumuong 10 | X224.417495 | Y1151.422607 | Z13.387999
+[11:50:28] [RAUMUONG] Raumuong 11 | X224.637893 | Y1153.400146 | Z13.430500
+[11:50:28] [RAUMUONG] Raumuong 12 | X224.858001 | Y1155.375122 | Z13.472999
+[11:50:28] [RAUMUONG] Raumuong 13 | X227.798004 | Y1155.603027 | Z13.271599
+[11:50:28] [RAUMUONG] Raumuong 14 | X228.347900 | Y1153.549438 | Z13.172300
+[11:50:28] [RAUMUONG] Raumuong 15 | X228.740905 | Y1151.338256 | Z13.079500
+[11:50:28] [RAUMUONG] Raumuong 16 | X229.398101 | Y1147.640625 | Z12.924300
+[11:50:28] [RAUMUONG] Raumuong 17 | X230.039306 | Y1144.033569 | Z12.766599
+[11:50:28] [RAUMUONG] Raumuong 18 | X230.632598 | Y1140.695434 | Z12.556599
+[11:50:28] [RAUMUONG] Raumuong 19 | X231.319107 | Y1136.833740 | Z12.313799
+[11:50:28] [RAUMUONG] Raumuong 20 | X231.928298 | Y1133.406738 | Z12.098199
+[11:50:28] [RAUMUONG] Raumuong 21 | X232.596801 | Y1129.645507 | Z11.861700
+[11:50:28] [RAUMUONG] Raumuong 22 | X233.234603 | Y1126.056762 | Z11.911000
+[11:50:28] [RAUMUONG] Raumuong 23 | X233.889007 | Y1122.374633 | Z12.102399
+[11:50:28] [RAUMUONG] Raumuong 24 | X237.172897 | Y1122.205444 | Z11.792200
+[11:50:28] [RAUMUONG] Raumuong 25 | X237.385406 | Y1125.467895 | Z11.561400
+[11:50:28] [RAUMUONG] Raumuong 26 | X237.344894 | Y1129.817749 | Z11.416099
+[11:50:28] [RAUMUONG] Raumuong 27 | X237.305999 | Y1134.003051 | Z11.612000
+[11:50:28] [RAUMUONG] Raumuong 28 | X237.266098 | Y1138.285766 | Z11.812500
+[11:50:28] [RAUMUONG] Raumuong 29 | X237.232803 | Y1141.859741 | Z11.979700
+[11:50:28] [RAUMUONG] Raumuong 30 | X237.197097 | Y1145.699340 | Z12.159399
+[11:50:28] [RAUMUONG] Raumuong 31 | X237.161499 | Y1149.528686 | Z12.338600
+[11:50:28] [RAUMUONG] Raumuong 32 | X237.132400 | Y1152.654296 | Z12.484900
+[11:50:28] [RAUMUONG] Raumuong 33 | X237.106399 | Y1155.434326 | Z12.607799
+[11:50:28] Dang chuan bi tai gamemode, xin vui long cho doi...
+[11:50:28] [MySQL] (Main Pipelines) Connecting to 127.0.0.1...
+[11:50:28] [MySQL] (MainPipeline) Connection successful toward MySQL Database Server!
+[11:50:28] [Dynamic Giftbox] Loading the Dynamic Giftbox...
+[11:50:28] [LoadCrates] Load Query Sent
+[11:50:28] [LoadHouses] Loading data from database...
+[11:50:28] [LoadDynamicDoors] Loading data from database...
+[11:50:28] [LoadDynamicMapIcons] Loading data from database...
+[11:50:28] [LoadMailboxes] Loading data from database...
+[11:50:28] [LoadBusinesses] Loading data from database...
+[11:50:28] [LoadAuctions] Loading data from database...
+[11:50:28] [LoadTxtLabels] Loading data from database...
+[11:50:28] [LoadPlants] Loading data from database...
+[11:50:28] [SpeedCameras] Loading data from database...
+[11:50:28] [LoadPayNSprays] Loading data from database...
+[11:50:28] [LoadArrestPoints] Loading data from database...
+[11:50:28] [LoadImpoundPoints] Loading data from database...
+[11:50:28] [LoadBusinessSales] Loading data from database...
+[11:50:28] [LoadTurfWars] 65 turfs loaded.
+[11:50:28] [LoadPaintballArenas] 10 paintball arenas loaded.
+[11:50:28] [LoadEventPoints] 0 event points loaded.
+[11:50:28] [LoadGates] Loading data from database...
+[11:50:28] [LoadElevatorStuff] 20 floors loaded.
+[11:50:28] [LoadFamilies] Dang tai du lieu tu database...
+[11:50:28] [LoadFamilyPoints] Loading Family Points from the database, please wait...
+[11:50:28] [MiscLoad] Misc Loaded
+[11:50:28] Resetting news...
+[11:50:28] Resetting default server variables..
+[11:50:28] Adjusted the server time...
+[11:50:28] [Streamer] Loading Dynamic Static Vehicles...
+[11:50:28] [Streamer] Dynamic Static Vehicles has been loaded.
+[11:50:28] [Streamer] Loading Dynamic Pickups...
+[11:50:28] [Streamer] Load Pickup Thanh Cong
+[11:50:28] [Streamer] Loading 3D Text Labels...
+[11:50:28] [Streamer] Dynamic 3D Load Thanh Cong
+[11:50:28] [Streamer] Loading Dynamic Buttons...
+[11:50:28] [Streamer] Dynamic Load Thanh Cong
+[11:50:28] [Streamer] Loading Dynamic Objects...
+[11:50:28] [Streamer] Dynamic Objects Da load
+[11:50:28] [Textdraws] Loading Textdraws...
+[11:50:28] [Textdraws] Loaded textdraws.
+[11:50:28] [Dynamic Groups] Loading Dynamic Groups...
+[11:50:28] [Dynamic Groups] Loading Dynamic Groups Vehicles...
+[11:50:28] 
+-------------------------------------------
+[11:50:28] Cong Dong GTA Viet Nam (Mobile)
+
+[11:50:28] Copyright (C) GvR Group, LLC (2015-2100)
+[11:50:28] Giu moi ban quyen
+[11:50:28] -------------------------------------------
+
+[11:50:28] Da chay thanh cong gamemode...
+[11:50:29] [Dynamic Giftbox] da tai thanh cong Dynamic giftbox.
+[11:50:29] [LoadCrates] Loading Crates Finished
+[11:50:29] [LoadHouses] 5000 ngoi nha duoc tai.
+[11:50:29] [LoadDynamicDoors] 3000 door duoc tai.
+[11:50:29] [LoadDynamicMapIcons] 400 icons map duoc tai.
+[11:50:29] [LoadMailboxes] 50 mailboxes duoc tai.
+[11:50:29] [LoadBusinesses] 200 businesses rehashed/loaded.
+[11:50:29] [LoadPlants] Successfully loaded 300 plants
+[11:50:29] [SpeedCameras] Khong the tai cac may ban toc do.
+[11:50:29] TotalSold0: 0 | AmountMade0: 0
+[11:50:29] TotalSold1: 0 | AmountMade1: 0
+[11:50:29] TotalSold2: 0 | AmountMade2: 0
+[11:50:29] TotalSold3: 0 | AmountMade3: 0
+[11:50:29] TotalSold4: 0 | AmountMade4: 0
+[11:50:29] TotalSold5: 0 | AmountMade5: 0
+[11:50:29] TotalSold6: 0 | AmountMade6: 0
+[11:50:29] TotalSold7: 0 | AmountMade7: 0
+[11:50:29] TotalSold8: 0 | AmountMade8: 0
+[11:50:29] TotalSold9: 0 | AmountMade9: 0
+[11:50:29] TotalSold10: 0 | AmountMade10: 0
+[11:50:29] TotalSold11: 0 | AmountMade11: 0
+[11:50:29] TotalSold12: 0 | AmountMade12: 0
+[11:50:29] TotalSold13: 0 | AmountMade13: 0
+[11:50:29] TotalSold14: 0 | AmountMade14: 0
+[11:50:29] TotalSold15: 0 | AmountMade15: 0
+[11:50:29] TotalSold16: 0 | AmountMade16: 0
+[11:50:29] TotalSold17: 6 | AmountMade17: 6
+[11:50:29] TotalSold18: 0 | AmountMade18: 0
+[11:50:29] TotalSold19: 0 | AmountMade19: 0
+[11:50:29] TotalSold20: 0 | AmountMade20: 0
+[11:50:29] TotalSold21: 0 | AmountMade21: 0
+[11:50:29] TotalSold22: 0 | AmountMade22: 0
+[11:50:29] TotalSold23: 0 | AmountMade23: 0
+[11:50:29] TotalSold24: 0 | AmountMade24: 0
+[11:50:29] TotalSold25: 0 | AmountMade25: 0
+[11:50:29] TotalSold26: 0 | AmountMade26: 0
+[11:50:29] TotalSold27: 0 | AmountMade27: 0
+[11:50:29] TotalSold28: 0 | AmountMade28: 0
+[11:50:29] TotalSold29: 0 | AmountMade29: 0
+[11:50:29] Price0: 1000
+[11:50:29] Price1: 199
+[11:50:29] Price2: 180
+[11:50:29] Price3: 80
+[11:50:29] Price4: 100
+[11:50:29] Price5: 100
+[11:50:29] Price6: 250
+[11:50:29] Price7: 90
+[11:50:29] Price8: 25
+[11:50:29] Price9: 80
+[11:50:29] Price10: 25
+[11:50:29] Price11: 150
+[11:50:29] Price12: 200
+[11:50:29] Price13: 300
+[11:50:29] Price14: 299
+[11:50:29] Price15: 100
+[11:50:29] Price16: 60
+[11:50:29] Price17: 1
+[11:50:29] Price18: 1
+[11:50:29] Price19: 2
+[11:50:29] Price20: 11
+[11:50:29] Price21: 10000
+[11:50:29] Price22: 50
+[11:50:29] Price23: 149
+[11:50:29] Price24: 2
+[11:50:29] Price25: 300
+[11:50:29] Price26: 400
+[11:50:29] Price27: 500
+[11:50:29] Price28: 100
+[11:50:29] Price29: 29
+[11:50:29] [Family Points] 8 family points has been loaded.
+[11:51:06] [connection] 27.76.95.181:40118 requests connection cookie.
+[11:51:06] [connection] incoming connection: 27.76.95.181:40118 id: 0
+[11:51:07] [join] diep has joined the server (0:27.76.95.181)
+[11:51:21] [LOGIN] [User: diep(24176)] [IP: 27.76.95.181] [Credits: 999,994]
+[11:51:21] diep Dang Nhap Thanh Cong.
+[11:51:24] warning fix: newweapon 34
+[12:00:29] [plant] 300 plants saved
+[12:06:55] Account Saving Complete
+[12:25:50] [part] diep has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:16:07] password = ""  (string)
+[14:16:07] 
+[14:16:07] Server Plugins
+[14:16:07] --------------
+[14:16:07]  Loading plugin: streamer
+[14:16:07] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[14:16:07]   Loaded.
+[14:16:07]  Loading plugin: mysql
+[14:16:07]  >> plugin.mysql: R33 successfully loaded.
+[14:16:07]   Loaded.
+[14:16:07]  Loading plugin: sscanf
+[14:16:07] 
+
+[14:16:07]  ===============================
+
+[14:16:07]       sscanf plugin loaded.     
+
+[14:16:07]          Version:  2.8.1        
+
+[14:16:07]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:16:07]  ===============================
+
+[14:16:07]   Loaded.
+[14:16:07]  Loading plugin: whirlpool
+[14:16:07]  
+[14:16:07]  ==================
+[14:16:07]  
+[14:16:07]   Whirlpool loaded
+[14:16:07]  
+[14:16:07]  ==================
+[14:16:07]  
+[14:16:07]   Loaded.
+[14:16:07]  Loading plugin: PawnPlus
+[14:16:07]  PawnPlus v1.3.2 loaded
+[14:16:07]  Created by IllidanS4
+[14:16:07]   Loaded.
+[14:16:07]  Loaded 5 plugins.
+
+[14:16:07] 
+[14:16:07] Ban list
+[14:16:07] --------
+[14:16:07]  Loaded: samp.ban
+[14:16:07] 
+[14:16:07] 
+[14:16:07] Filterscripts
+[14:16:07] ---------------
+[14:16:07]   Loading filterscript 'anim.amx'...
+[14:16:07]  
+[14:16:07]  ======================================= 
+[14:16:07]  |                                     | 
+[14:16:07]  |        YSI version 3.01.0002        | 
+[14:16:07]  |        By Alex "Y_Less" Cole        | 
+[14:16:07]  |                                     | 
+[14:16:07]  ======================================= 
+[14:16:07]  
+[14:16:07]   Loading filterscript 'exterior.amx'...
+[14:16:07]   Loading filterscript 'interior.amx'...
+[14:16:08]   Loading filterscript 'server.amx'...
+[14:16:08]   Loading filterscript 'sweeperjob.amx'...
+[14:16:08]   Loading filterscript 'mask.amx'...
+[14:16:08] 
+--------------------------------------
+[14:16:08]       Mask system by Dominic Zane Version 1.0 
+[14:16:08] --------------------------------------
+
+[14:16:08]   Loaded 6 filterscripts.
+
+[14:16:09]  
+[14:16:09]  ======================================= 
+[14:16:09]  |                                     | 
+[14:16:09]  |        YSI version 3.01.0002        | 
+[14:16:09]  |        By Alex "Y_Less" Cole        | 
+[14:16:09]  |                                     | 
+[14:16:09]  ======================================= 
+[14:16:09]  
+[14:16:09] [MINERAL]: Load 34 mineral, 34 location...
+[14:16:09] [ELECTRICIAN] Load 40 vi tri.
+[14:16:09] Number of vehicle models: 0
+[14:16:09]  
+[14:16:09]  
+[14:16:09] [MARIJUANA] Marijuana 0 | X-752.026672 | Y-155.485198 | Z66.758499
+[14:16:09] [MARIJUANA] Marijuana 1 | X-779.744812 | Y-148.622497 | Z64.870597
+[14:16:09] [MARIJUANA] Marijuana 2 | X-786.339721 | Y-153.754104 | Z64.644996
+[14:16:09] [MARIJUANA] Marijuana 3 | X-783.908996 | Y-160.240097 | Z65.766998
+[14:16:09] [MARIJUANA] Marijuana 4 | X-790.303710 | Y-164.885696 | Z66.219902
+[14:16:09] [MARIJUANA] Marijuana 5 | X-788.875488 | Y-169.304595 | Z66.672798
+[14:16:09] [MARIJUANA] Marijuana 6 | X-784.787109 | Y-171.793701 | Z66.997703
+[14:16:09] [MARIJUANA] Marijuana 7 | X-781.519409 | Y-176.483993 | Z67.591903
+[14:16:09] [MARIJUANA] Marijuana 8 | X-775.814270 | Y-174.929595 | Z67.518798
+[14:16:09] [MARIJUANA] Marijuana 9 | X-759.298278 | Y-147.206802 | Z65.869598
+[14:16:09] [MARIJUANA] Marijuana 10 | X-750.838928 | Y-140.376495 | Z66.248397
+[14:16:09] [MARIJUANA] Marijuana 11 | X-734.742614 | Y-141.621505 | Z67.248397
+[14:16:09] [MARIJUANA] Marijuana 12 | X-725.903625 | Y-154.670593 | Z66.953300
+[14:16:09] [MARIJUANA] Marijuana 13 | X-730.079528 | Y-167.183898 | Z66.455902
+[14:16:09] [MARIJUANA] Marijuana 14 | X-744.214782 | Y-170.510803 | Z67.743103
+[14:16:09] [MARIJUANA] Marijuana 15 | X-763.867614 | Y-172.779403 | Z67.394996
+[14:16:09] [MARIJUANA] Marijuana 16 | X-777.986572 | Y-167.110595 | Z66.612098
+[14:16:09] [MARIJUANA] Marijuana 17 | X-778.867187 | Y-156.839492 | Z65.439598
+[14:16:09] [RAUMUONG] Raumuong 0 | X221.045593 | Y1124.951904 | Z13.174699
+[14:16:09] [RAUMUONG] Raumuong 1 | X221.579299 | Y1128.734375 | Z12.872099
+[14:16:09] [RAUMUONG] Raumuong 2 | X222.005798 | Y1131.757568 | Z12.970199
+[14:16:09] [RAUMUONG] Raumuong 3 | X222.371200 | Y1134.347045 | Z13.031000
+[14:16:09] [RAUMUONG] Raumuong 4 | X222.646896 | Y1136.301635 | Z13.068900
+[14:16:09] [RAUMUONG] Raumuong 5 | X222.974197 | Y1138.621582 | Z13.113900
+[14:16:09] [RAUMUONG] Raumuong 6 | X223.424606 | Y1141.814331 | Z13.175900
+[14:16:09] [RAUMUONG] Raumuong 7 | X223.563201 | Y1143.556762 | Z13.217300
+[14:16:09] [RAUMUONG] Raumuong 8 | X223.801406 | Y1145.893310 | Z13.269100
+[14:16:09] [RAUMUONG] Raumuong 9 | X224.089904 | Y1148.483398 | Z13.324799
+[14:16:09] [RAUMUONG] Raumuong 10 | X224.417495 | Y1151.422607 | Z13.387999
+[14:16:09] [RAUMUONG] Raumuong 11 | X224.637893 | Y1153.400146 | Z13.430500
+[14:16:09] [RAUMUONG] Raumuong 12 | X224.858001 | Y1155.375122 | Z13.472999
+[14:16:09] [RAUMUONG] Raumuong 13 | X227.798004 | Y1155.603027 | Z13.271599
+[14:16:09] [RAUMUONG] Raumuong 14 | X228.347900 | Y1153.549438 | Z13.172300
+[14:16:09] [RAUMUONG] Raumuong 15 | X228.740905 | Y1151.338256 | Z13.079500
+[14:16:09] [RAUMUONG] Raumuong 16 | X229.398101 | Y1147.640625 | Z12.924300
+[14:16:09] [RAUMUONG] Raumuong 17 | X230.039306 | Y1144.033569 | Z12.766599
+[14:16:09] [RAUMUONG] Raumuong 18 | X230.632598 | Y1140.695434 | Z12.556599
+[14:16:09] [RAUMUONG] Raumuong 19 | X231.319107 | Y1136.833740 | Z12.313799
+[14:16:09] [RAUMUONG] Raumuong 20 | X231.928298 | Y1133.406738 | Z12.098199
+[14:16:09] [RAUMUONG] Raumuong 21 | X232.596801 | Y1129.645507 | Z11.861700
+[14:16:09] [RAUMUONG] Raumuong 22 | X233.234603 | Y1126.056762 | Z11.911000
+[14:16:09] [RAUMUONG] Raumuong 23 | X233.889007 | Y1122.374633 | Z12.102399
+[14:16:09] [RAUMUONG] Raumuong 24 | X237.172897 | Y1122.205444 | Z11.792200
+[14:16:09] [RAUMUONG] Raumuong 25 | X237.385406 | Y1125.467895 | Z11.561400
+[14:16:09] [RAUMUONG] Raumuong 26 | X237.344894 | Y1129.817749 | Z11.416099
+[14:16:09] [RAUMUONG] Raumuong 27 | X237.305999 | Y1134.003051 | Z11.612000
+[14:16:09] [RAUMUONG] Raumuong 28 | X237.266098 | Y1138.285766 | Z11.812500
+[14:16:09] [RAUMUONG] Raumuong 29 | X237.232803 | Y1141.859741 | Z11.979700
+[14:16:09] [RAUMUONG] Raumuong 30 | X237.197097 | Y1145.699340 | Z12.159399
+[14:16:09] [RAUMUONG] Raumuong 31 | X237.161499 | Y1149.528686 | Z12.338600
+[14:16:09] [RAUMUONG] Raumuong 32 | X237.132400 | Y1152.654296 | Z12.484900
+[14:16:09] [RAUMUONG] Raumuong 33 | X237.106399 | Y1155.434326 | Z12.607799
+[14:16:09] Dang chuan bi tai gamemode, xin vui long cho doi...
+[14:16:09] [MySQL] (Main Pipelines) Connecting to 127.0.0.1...
+[14:16:09] [MySQL] (MainPipeline) Connection successful toward MySQL Database Server!
+[14:16:09] [Dynamic Giftbox] Loading the Dynamic Giftbox...
+[14:16:09] [LoadCrates] Load Query Sent
+[14:16:09] [LoadHouses] Loading data from database...
+[14:16:09] [LoadDynamicDoors] Loading data from database...
+[14:16:09] [LoadDynamicMapIcons] Loading data from database...
+[14:16:09] [LoadMailboxes] Loading data from database...
+[14:16:09] [LoadBusinesses] Loading data from database...
+[14:16:09] [LoadAuctions] Loading data from database...
+[14:16:09] [LoadTxtLabels] Loading data from database...
+[14:16:09] [LoadPlants] Loading data from database...
+[14:16:09] [SpeedCameras] Loading data from database...
+[14:16:09] [LoadPayNSprays] Loading data from database...
+[14:16:09] [LoadArrestPoints] Loading data from database...
+[14:16:09] [LoadImpoundPoints] Loading data from database...
+[14:16:09] [LoadBusinessSales] Loading data from database...
+[14:16:09] [LoadTurfWars] 65 turfs loaded.
+[14:16:09] [LoadPaintballArenas] 10 paintball arenas loaded.
+[14:16:09] [LoadEventPoints] 0 event points loaded.
+[14:16:09] [LoadGates] Loading data from database...
+[14:16:09] [LoadElevatorStuff] 20 floors loaded.
+[14:16:09] [LoadFamilies] Dang tai du lieu tu database...
+[14:16:09] [LoadFamilyPoints] Loading Family Points from the database, please wait...
+[14:16:09] [MiscLoad] Misc Loaded
+[14:16:09] Resetting news...
+[14:16:09] Resetting default server variables..
+[14:16:09] Adjusted the server time...
+[14:16:09] [Streamer] Loading Dynamic Static Vehicles...
+[14:16:09] [Streamer] Dynamic Static Vehicles has been loaded.
+[14:16:09] [Streamer] Loading Dynamic Pickups...
+[14:16:09] [Streamer] Load Pickup Thanh Cong
+[14:16:09] [Streamer] Loading 3D Text Labels...
+[14:16:09] [Streamer] Dynamic 3D Load Thanh Cong
+[14:16:09] [Streamer] Loading Dynamic Buttons...
+[14:16:09] [Streamer] Dynamic Load Thanh Cong
+[14:16:09] [Streamer] Loading Dynamic Objects...
+[14:16:09] [Streamer] Dynamic Objects Da load
+[14:16:09] [Textdraws] Loading Textdraws...
+[14:16:09] [Textdraws] Loaded textdraws.
+[14:16:09] [Dynamic Groups] Loading Dynamic Groups...
+[14:16:09] [Dynamic Groups] Loading Dynamic Groups Vehicles...
+[14:16:09] 
+-------------------------------------------
+[14:16:09] Cong Dong GTA Viet Nam (Mobile)
+
+[14:16:09] Copyright (C) GvR Group, LLC (2015-2100)
+[14:16:09] Giu moi ban quyen
+[14:16:09] -------------------------------------------
+
+[14:16:09] Da chay thanh cong gamemode...
+[14:16:09]  
+[14:16:09]  
+[14:16:09] [Dynamic Giftbox] da tai thanh cong Dynamic giftbox.
+[14:16:09] [LoadCrates] Loading Crates Finished
+[14:16:10] [LoadHouses] 5000 ngoi nha duoc tai.
+[14:16:10] [LoadDynamicDoors] 3000 door duoc tai.
+[14:16:10] [LoadDynamicMapIcons] 400 icons map duoc tai.
+[14:16:10] [LoadMailboxes] 50 mailboxes duoc tai.
+[14:16:10] [LoadBusinesses] 200 businesses rehashed/loaded.
+[14:16:10] [LoadPlants] Successfully loaded 300 plants
+[14:16:10] [SpeedCameras] Khong the tai cac may ban toc do.
+[14:16:10] TotalSold0: 0 | AmountMade0: 0
+[14:16:10] TotalSold1: 0 | AmountMade1: 0
+[14:16:10] TotalSold2: 0 | AmountMade2: 0
+[14:16:10] TotalSold3: 0 | AmountMade3: 0
+[14:16:10] TotalSold4: 0 | AmountMade4: 0
+[14:16:10] TotalSold5: 0 | AmountMade5: 0
+[14:16:10] TotalSold6: 0 | AmountMade6: 0
+[14:16:10] TotalSold7: 0 | AmountMade7: 0
+[14:16:10] TotalSold8: 0 | AmountMade8: 0
+[14:16:10] TotalSold9: 0 | AmountMade9: 0
+[14:16:10] TotalSold10: 0 | AmountMade10: 0
+[14:16:10] TotalSold11: 0 | AmountMade11: 0
+[14:16:10] TotalSold12: 0 | AmountMade12: 0
+[14:16:10] TotalSold13: 0 | AmountMade13: 0
+[14:16:10] TotalSold14: 0 | AmountMade14: 0
+[14:16:10] TotalSold15: 0 | AmountMade15: 0
+[14:16:10] TotalSold16: 0 | AmountMade16: 0
+[14:16:10] TotalSold17: 6 | AmountMade17: 6
+[14:16:10] TotalSold18: 0 | AmountMade18: 0
+[14:16:10] TotalSold19: 0 | AmountMade19: 0
+[14:16:10] TotalSold20: 0 | AmountMade20: 0
+[14:16:10] TotalSold21: 0 | AmountMade21: 0
+[14:16:10] TotalSold22: 0 | AmountMade22: 0
+[14:16:10] TotalSold23: 0 | AmountMade23: 0
+[14:16:10] TotalSold24: 0 | AmountMade24: 0
+[14:16:10] TotalSold25: 0 | AmountMade25: 0
+[14:16:10] TotalSold26: 0 | AmountMade26: 0
+[14:16:10] TotalSold27: 0 | AmountMade27: 0
+[14:16:10] TotalSold28: 0 | AmountMade28: 0
+[14:16:10] TotalSold29: 0 | AmountMade29: 0
+[14:16:10] Price0: 1000
+[14:16:10] Price1: 199
+[14:16:10] Price2: 180
+[14:16:10] Price3: 80
+[14:16:10] Price4: 100
+[14:16:10] Price5: 100
+[14:16:10] Price6: 250
+[14:16:10] Price7: 90
+[14:16:10] Price8: 25
+[14:16:10] Price9: 80
+[14:16:10] Price10: 25
+[14:16:10] Price11: 150
+[14:16:10] Price12: 200
+[14:16:10] Price13: 300
+[14:16:10] Price14: 299
+[14:16:10] Price15: 100
+[14:16:10] Price16: 60
+[14:16:10] Price17: 1
+[14:16:10] Price18: 1
+[14:16:10] Price19: 2
+[14:16:10] Price20: 11
+[14:16:10] Price21: 10000
+[14:16:10] Price22: 50
+[14:16:10] Price23: 149
+[14:16:10] Price24: 2
+[14:16:10] Price25: 300
+[14:16:10] Price26: 400
+[14:16:10] Price27: 500
+[14:16:10] Price28: 100
+[14:16:10] Price29: 29
+[14:16:10] [Family Points] 8 family points has been loaded.
+[14:16:32] [connection] 27.76.95.181:38836 requests connection cookie.
+[14:16:32] [connection] incoming connection: 27.76.95.181:38836 id: 0
+[14:16:33] [join] Diep has joined the server (0:27.76.95.181)
+[14:16:45] [LOGIN] [User: Diep(24176)] [IP: 27.76.95.181] [Credits: 999,994]
+[14:16:45] Diep Dang Nhap Thanh Cong.
+[14:16:49] warning fix: newweapon 34
+[14:16:52] warning fix: newweapon 0
+[14:17:03] [zcmd] [Diep]: /giaodien2
+[14:17:12] [zcmd] [Diep]: /giaodien1
+[14:17:14] [zcmd] [Diep]: /giaodien2
+[14:17:49] [part] Diep has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:18:50] password = ""  (string)
+[14:18:50] 
+[14:18:50] Server Plugins
+[14:18:50] --------------
+[14:18:50]  Loading plugin: streamer
+[14:18:50] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[14:18:50]   Loaded.
+[14:18:50]  Loading plugin: mysql
+[14:18:50]  >> plugin.mysql: R33 successfully loaded.
+[14:18:50]   Loaded.
+[14:18:50]  Loading plugin: sscanf
+[14:18:50] 
+
+[14:18:50]  ===============================
+
+[14:18:50]       sscanf plugin loaded.     
+
+[14:18:50]          Version:  2.8.1        
+
+[14:18:50]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:18:50]  ===============================
+
+[14:18:50]   Loaded.
+[14:18:50]  Loading plugin: whirlpool
+[14:18:50]  
+[14:18:50]  ==================
+[14:18:50]  
+[14:18:50]   Whirlpool loaded
+[14:18:50]  
+[14:18:50]  ==================
+[14:18:50]  
+[14:18:50]   Loaded.
+[14:18:50]  Loading plugin: PawnPlus
+[14:18:50]  PawnPlus v1.3.2 loaded
+[14:18:50]  Created by IllidanS4
+[14:18:50]   Loaded.
+[14:18:50]  Loaded 5 plugins.
+
+[14:18:50] 
+[14:18:50] Ban list
+[14:18:50] --------
+[14:18:50]  Loaded: samp.ban
+[14:18:50] 
+[14:18:50] 
+[14:18:50] Filterscripts
+[14:18:50] ---------------
+[14:18:50]   Loading filterscript 'anim.amx'...
+[14:18:50]  
+[14:18:50]  ======================================= 
+[14:18:50]  |                                     | 
+[14:18:50]  |        YSI version 3.01.0002        | 
+[14:18:50]  |        By Alex "Y_Less" Cole        | 
+[14:18:50]  |                                     | 
+[14:18:50]  ======================================= 
+[14:18:50]  
+[14:18:50]   Loading filterscript 'exterior.amx'...
+[14:18:50]   Loading filterscript 'interior.amx'...
+[14:18:50]   Loading filterscript 'server.amx'...
+[14:18:50]   Loading filterscript 'sweeperjob.amx'...
+[14:18:50]   Loading filterscript 'mask.amx'...
+[14:18:50] 
+--------------------------------------
+[14:18:50]       Mask system by Dominic Zane Version 1.0 
+[14:18:50] --------------------------------------
+
+[14:18:50]   Loaded 6 filterscripts.
+
+[14:18:51]  
+[14:18:51]  ======================================= 
+[14:18:51]  |                                     | 
+[14:18:51]  |        YSI version 3.01.0002        | 
+[14:18:51]  |        By Alex "Y_Less" Cole        | 
+[14:18:51]  |                                     | 
+[14:18:51]  ======================================= 
+[14:18:51]  
+[14:18:51] [MINERAL]: Load 34 mineral, 34 location...
+[14:18:51] [ELECTRICIAN] Load 40 vi tri.
+[14:18:51] Number of vehicle models: 0
+[14:18:51]  
+[14:18:51]  
+[14:18:51]  
+[14:18:51]  
+[14:18:51] [MARIJUANA] Marijuana 0 | X-752.026672 | Y-155.485198 | Z66.758499
+[14:18:51] [MARIJUANA] Marijuana 1 | X-779.744812 | Y-148.622497 | Z64.870597
+[14:18:51] [MARIJUANA] Marijuana 2 | X-786.339721 | Y-153.754104 | Z64.644996
+[14:18:51] [MARIJUANA] Marijuana 3 | X-783.908996 | Y-160.240097 | Z65.766998
+[14:18:51] [MARIJUANA] Marijuana 4 | X-790.303710 | Y-164.885696 | Z66.219902
+[14:18:51] [MARIJUANA] Marijuana 5 | X-788.875488 | Y-169.304595 | Z66.672798
+[14:18:51] [MARIJUANA] Marijuana 6 | X-784.787109 | Y-171.793701 | Z66.997703
+[14:18:51] [MARIJUANA] Marijuana 7 | X-781.519409 | Y-176.483993 | Z67.591903
+[14:18:51] [MARIJUANA] Marijuana 8 | X-775.814270 | Y-174.929595 | Z67.518798
+[14:18:51] [MARIJUANA] Marijuana 9 | X-759.298278 | Y-147.206802 | Z65.869598
+[14:18:51] [MARIJUANA] Marijuana 10 | X-750.838928 | Y-140.376495 | Z66.248397
+[14:18:51] [MARIJUANA] Marijuana 11 | X-734.742614 | Y-141.621505 | Z67.248397
+[14:18:51] [MARIJUANA] Marijuana 12 | X-725.903625 | Y-154.670593 | Z66.953300
+[14:18:51] [MARIJUANA] Marijuana 13 | X-730.079528 | Y-167.183898 | Z66.455902
+[14:18:51] [MARIJUANA] Marijuana 14 | X-744.214782 | Y-170.510803 | Z67.743103
+[14:18:51] [MARIJUANA] Marijuana 15 | X-763.867614 | Y-172.779403 | Z67.394996
+[14:18:51] [MARIJUANA] Marijuana 16 | X-777.986572 | Y-167.110595 | Z66.612098
+[14:18:51] [MARIJUANA] Marijuana 17 | X-778.867187 | Y-156.839492 | Z65.439598
+[14:18:51] [RAUMUONG] Raumuong 0 | X221.045593 | Y1124.951904 | Z13.174699
+[14:18:51] [RAUMUONG] Raumuong 1 | X221.579299 | Y1128.734375 | Z12.872099
+[14:18:51] [RAUMUONG] Raumuong 2 | X222.005798 | Y1131.757568 | Z12.970199
+[14:18:51] [RAUMUONG] Raumuong 3 | X222.371200 | Y1134.347045 | Z13.031000
+[14:18:51] [RAUMUONG] Raumuong 4 | X222.646896 | Y1136.301635 | Z13.068900
+[14:18:51] [RAUMUONG] Raumuong 5 | X222.974197 | Y1138.621582 | Z13.113900
+[14:18:51] [RAUMUONG] Raumuong 6 | X223.424606 | Y1141.814331 | Z13.175900
+[14:18:51] [RAUMUONG] Raumuong 7 | X223.563201 | Y1143.556762 | Z13.217300
+[14:18:51] [RAUMUONG] Raumuong 8 | X223.801406 | Y1145.893310 | Z13.269100
+[14:18:51] [RAUMUONG] Raumuong 9 | X224.089904 | Y1148.483398 | Z13.324799
+[14:18:51] [RAUMUONG] Raumuong 10 | X224.417495 | Y1151.422607 | Z13.387999
+[14:18:51] [RAUMUONG] Raumuong 11 | X224.637893 | Y1153.400146 | Z13.430500
+[14:18:51] [RAUMUONG] Raumuong 12 | X224.858001 | Y1155.375122 | Z13.472999
+[14:18:51] [RAUMUONG] Raumuong 13 | X227.798004 | Y1155.603027 | Z13.271599
+[14:18:51] [RAUMUONG] Raumuong 14 | X228.347900 | Y1153.549438 | Z13.172300
+[14:18:51] [RAUMUONG] Raumuong 15 | X228.740905 | Y1151.338256 | Z13.079500
+[14:18:51] [RAUMUONG] Raumuong 16 | X229.398101 | Y1147.640625 | Z12.924300
+[14:18:51] [RAUMUONG] Raumuong 17 | X230.039306 | Y1144.033569 | Z12.766599
+[14:18:51] [RAUMUONG] Raumuong 18 | X230.632598 | Y1140.695434 | Z12.556599
+[14:18:51] [RAUMUONG] Raumuong 19 | X231.319107 | Y1136.833740 | Z12.313799
+[14:18:51] [RAUMUONG] Raumuong 20 | X231.928298 | Y1133.406738 | Z12.098199
+[14:18:51] [RAUMUONG] Raumuong 21 | X232.596801 | Y1129.645507 | Z11.861700
+[14:18:51] [RAUMUONG] Raumuong 22 | X233.234603 | Y1126.056762 | Z11.911000
+[14:18:51] [RAUMUONG] Raumuong 23 | X233.889007 | Y1122.374633 | Z12.102399
+[14:18:51] [RAUMUONG] Raumuong 24 | X237.172897 | Y1122.205444 | Z11.792200
+[14:18:51] [RAUMUONG] Raumuong 25 | X237.385406 | Y1125.467895 | Z11.561400
+[14:18:51] [RAUMUONG] Raumuong 26 | X237.344894 | Y1129.817749 | Z11.416099
+[14:18:51] [RAUMUONG] Raumuong 27 | X237.305999 | Y1134.003051 | Z11.612000
+[14:18:51] [RAUMUONG] Raumuong 28 | X237.266098 | Y1138.285766 | Z11.812500
+[14:18:51] [RAUMUONG] Raumuong 29 | X237.232803 | Y1141.859741 | Z11.979700
+[14:18:51] [RAUMUONG] Raumuong 30 | X237.197097 | Y1145.699340 | Z12.159399
+[14:18:51] [RAUMUONG] Raumuong 31 | X237.161499 | Y1149.528686 | Z12.338600
+[14:18:51] [RAUMUONG] Raumuong 32 | X237.132400 | Y1152.654296 | Z12.484900
+[14:18:51] [RAUMUONG] Raumuong 33 | X237.106399 | Y1155.434326 | Z12.607799
+[14:18:51] Dang chuan bi tai gamemode, xin vui long cho doi...
+[14:18:51] [MySQL] (Main Pipelines) Connecting to 127.0.0.1...
+[14:18:51] [MySQL] (MainPipeline) Connection successful toward MySQL Database Server!
+[14:18:51] [Dynamic Giftbox] Loading the Dynamic Giftbox...
+[14:18:51] [LoadCrates] Load Query Sent
+[14:18:51] [LoadHouses] Loading data from database...
+[14:18:51] [LoadDynamicDoors] Loading data from database...
+[14:18:51] [LoadDynamicMapIcons] Loading data from database...
+[14:18:51] [LoadMailboxes] Loading data from database...
+[14:18:51] [LoadBusinesses] Loading data from database...
+[14:18:51] [LoadAuctions] Loading data from database...
+[14:18:51] [LoadTxtLabels] Loading data from database...
+[14:18:51] [LoadPlants] Loading data from database...
+[14:18:51] [SpeedCameras] Loading data from database...
+[14:18:51] [LoadPayNSprays] Loading data from database...
+[14:18:51] [LoadArrestPoints] Loading data from database...
+[14:18:51] [LoadImpoundPoints] Loading data from database...
+[14:18:51] [LoadBusinessSales] Loading data from database...
+[14:18:51] [LoadTurfWars] 65 turfs loaded.
+[14:18:51] [LoadPaintballArenas] 10 paintball arenas loaded.
+[14:18:51] [LoadEventPoints] 0 event points loaded.
+[14:18:51] [LoadGates] Loading data from database...
+[14:18:51] [LoadElevatorStuff] 20 floors loaded.
+[14:18:51] [LoadFamilies] Dang tai du lieu tu database...
+[14:18:51] [LoadFamilyPoints] Loading Family Points from the database, please wait...
+[14:18:51] [MiscLoad] Misc Loaded
+[14:18:51] Resetting news...
+[14:18:51] Resetting default server variables..
+[14:18:51] Adjusted the server time...
+[14:18:51] [Streamer] Loading Dynamic Static Vehicles...
+[14:18:51] [Streamer] Dynamic Static Vehicles has been loaded.
+[14:18:51] [Streamer] Loading Dynamic Pickups...
+[14:18:51] [Streamer] Load Pickup Thanh Cong
+[14:18:51] [Streamer] Loading 3D Text Labels...
+[14:18:51] [Streamer] Dynamic 3D Load Thanh Cong
+[14:18:51] [Streamer] Loading Dynamic Buttons...
+[14:18:51] [Streamer] Dynamic Load Thanh Cong
+[14:18:51] [Streamer] Loading Dynamic Objects...
+[14:18:51] [Streamer] Dynamic Objects Da load
+[14:18:51] [Textdraws] Loading Textdraws...
+[14:18:51] [Textdraws] Loaded textdraws.
+[14:18:51] [Dynamic Groups] Loading Dynamic Groups...
+[14:18:51] [Dynamic Groups] Loading Dynamic Groups Vehicles...
+[14:18:51] 
+-------------------------------------------
+[14:18:51] Cong Dong GTA Viet Nam (Mobile)
+
+[14:18:51] Copyright (C) GvR Group, LLC (2015-2100)
+[14:18:51] Giu moi ban quyen
+[14:18:51] -------------------------------------------
+
+[14:18:51] Da chay thanh cong gamemode...
+[14:18:51] [Dynamic Giftbox] da tai thanh cong Dynamic giftbox.
+[14:18:51] [LoadCrates] Loading Crates Finished
+[14:18:52] [LoadHouses] 5000 ngoi nha duoc tai.
+[14:18:52] [LoadDynamicDoors] 3000 door duoc tai.
+[14:18:52] [LoadDynamicMapIcons] 400 icons map duoc tai.
+[14:18:52] [LoadMailboxes] 50 mailboxes duoc tai.
+[14:18:52] [LoadBusinesses] 200 businesses rehashed/loaded.
+[14:18:52] [LoadPlants] Successfully loaded 300 plants
+[14:18:52] [SpeedCameras] Khong the tai cac may ban toc do.
+[14:18:52] TotalSold0: 0 | AmountMade0: 0
+[14:18:52] TotalSold1: 0 | AmountMade1: 0
+[14:18:52] TotalSold2: 0 | AmountMade2: 0
+[14:18:52] TotalSold3: 0 | AmountMade3: 0
+[14:18:52] TotalSold4: 0 | AmountMade4: 0
+[14:18:52] TotalSold5: 0 | AmountMade5: 0
+[14:18:52] TotalSold6: 0 | AmountMade6: 0
+[14:18:52] TotalSold7: 0 | AmountMade7: 0
+[14:18:52] TotalSold8: 0 | AmountMade8: 0
+[14:18:52] TotalSold9: 0 | AmountMade9: 0
+[14:18:52] TotalSold10: 0 | AmountMade10: 0
+[14:18:52] TotalSold11: 0 | AmountMade11: 0
+[14:18:52] TotalSold12: 0 | AmountMade12: 0
+[14:18:52] TotalSold13: 0 | AmountMade13: 0
+[14:18:52] TotalSold14: 0 | AmountMade14: 0
+[14:18:52] TotalSold15: 0 | AmountMade15: 0
+[14:18:52] TotalSold16: 0 | AmountMade16: 0
+[14:18:52] TotalSold17: 6 | AmountMade17: 6
+[14:18:52] TotalSold18: 0 | AmountMade18: 0
+[14:18:52] TotalSold19: 0 | AmountMade19: 0
+[14:18:52] TotalSold20: 0 | AmountMade20: 0
+[14:18:52] TotalSold21: 0 | AmountMade21: 0
+[14:18:52] TotalSold22: 0 | AmountMade22: 0
+[14:18:52] TotalSold23: 0 | AmountMade23: 0
+[14:18:52] TotalSold24: 0 | AmountMade24: 0
+[14:18:52] TotalSold25: 0 | AmountMade25: 0
+[14:18:52] TotalSold26: 0 | AmountMade26: 0
+[14:18:52] TotalSold27: 0 | AmountMade27: 0
+[14:18:52] TotalSold28: 0 | AmountMade28: 0
+[14:18:52] TotalSold29: 0 | AmountMade29: 0
+[14:18:52] Price0: 1000
+[14:18:52] Price1: 199
+[14:18:52] Price2: 180
+[14:18:52] Price3: 80
+[14:18:52] Price4: 100
+[14:18:52] Price5: 100
+[14:18:52] Price6: 250
+[14:18:52] Price7: 90
+[14:18:52] Price8: 25
+[14:18:52] Price9: 80
+[14:18:52] Price10: 25
+[14:18:52] Price11: 150
+[14:18:52] Price12: 200
+[14:18:52] Price13: 300
+[14:18:52] Price14: 299
+[14:18:52] Price15: 100
+[14:18:52] Price16: 60
+[14:18:52] Price17: 1
+[14:18:52] Price18: 1
+[14:18:52] Price19: 2
+[14:18:52] Price20: 11
+[14:18:52] Price21: 10000
+[14:18:52] Price22: 50
+[14:18:52] Price23: 149
+[14:18:52] Price24: 2
+[14:18:52] Price25: 300
+[14:18:52] Price26: 400
+[14:18:52] Price27: 500
+[14:18:52] Price28: 100
+[14:18:52] Price29: 29
+[14:18:52] [Family Points] 8 family points has been loaded.
+[14:21:12] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:21:16] password = ""  (string)
+[14:21:16] 
+[14:21:16] Server Plugins
+[14:21:16] --------------
+[14:21:16]  Loading plugin: streamer
+[14:21:16] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[14:21:16]   Loaded.
+[14:21:16]  Loading plugin: mysql
+[14:21:16]  >> plugin.mysql: R33 successfully loaded.
+[14:21:16]   Loaded.
+[14:21:16]  Loading plugin: sscanf
+[14:21:16] 
+
+[14:21:16]  ===============================
+
+[14:21:16]       sscanf plugin loaded.     
+
+[14:21:16]          Version:  2.8.1        
+
+[14:21:16]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:21:16]  ===============================
+
+[14:21:16]   Loaded.
+[14:21:16]  Loading plugin: whirlpool
+[14:21:16]  
+[14:21:16]  ==================
+[14:21:16]  
+[14:21:16]   Whirlpool loaded
+[14:21:16]  
+[14:21:16]  ==================
+[14:21:16]  
+[14:21:16]   Loaded.
+[14:21:16]  Loading plugin: PawnPlus
+[14:21:16]  PawnPlus v1.3.2 loaded
+[14:21:16]  Created by IllidanS4
+[14:21:16]   Loaded.
+[14:21:16]  Loaded 5 plugins.
+
+[14:21:16] 
+[14:21:16] Ban list
+[14:21:16] --------
+[14:21:16]  Loaded: samp.ban
+[14:21:16] 
+[14:21:16] 
+[14:21:16] Filterscripts
+[14:21:16] ---------------
+[14:21:16]   Loading filterscript 'anim.amx'...
+[14:21:16]  
+[14:21:16]  ======================================= 
+[14:21:16]  |                                     | 
+[14:21:16]  |        YSI version 3.01.0002        | 
+[14:21:16]  |        By Alex "Y_Less" Cole        | 
+[14:21:16]  |                                     | 
+[14:21:16]  ======================================= 
+[14:21:16]  
+[14:21:16]   Loading filterscript 'exterior.amx'...
+[14:21:16]   Loading filterscript 'interior.amx'...
+[14:21:17]   Loading filterscript 'server.amx'...
+[14:21:17]   Loading filterscript 'sweeperjob.amx'...
+[14:21:17]   Loading filterscript 'mask.amx'...
+[14:21:17] 
+--------------------------------------
+[14:21:17]       Mask system by Dominic Zane Version 1.0 
+[14:21:17] --------------------------------------
+
+[14:21:17]   Loaded 6 filterscripts.
+
+[14:21:17]  
+[14:21:17]  ======================================= 
+[14:21:17]  |                                     | 
+[14:21:17]  |        YSI version 3.01.0002        | 
+[14:21:17]  |        By Alex "Y_Less" Cole        | 
+[14:21:17]  |                                     | 
+[14:21:17]  ======================================= 
+[14:21:17]  
+[14:21:17] [MINERAL]: Load 34 mineral, 34 location...
+[14:21:17] [ELECTRICIAN] Load 40 vi tri.
+[14:21:17] Number of vehicle models: 0
+[14:21:17]  
+[14:21:17]  
+[14:21:17] [MARIJUANA] Marijuana 0 | X-752.026672 | Y-155.485198 | Z66.758499
+[14:21:17] [MARIJUANA] Marijuana 1 | X-779.744812 | Y-148.622497 | Z64.870597
+[14:21:17] [MARIJUANA] Marijuana 2 | X-786.339721 | Y-153.754104 | Z64.644996
+[14:21:17] [MARIJUANA] Marijuana 3 | X-783.908996 | Y-160.240097 | Z65.766998
+[14:21:17] [MARIJUANA] Marijuana 4 | X-790.303710 | Y-164.885696 | Z66.219902
+[14:21:17] [MARIJUANA] Marijuana 5 | X-788.875488 | Y-169.304595 | Z66.672798
+[14:21:17] [MARIJUANA] Marijuana 6 | X-784.787109 | Y-171.793701 | Z66.997703
+[14:21:17] [MARIJUANA] Marijuana 7 | X-781.519409 | Y-176.483993 | Z67.591903
+[14:21:17] [MARIJUANA] Marijuana 8 | X-775.814270 | Y-174.929595 | Z67.518798
+[14:21:17] [MARIJUANA] Marijuana 9 | X-759.298278 | Y-147.206802 | Z65.869598
+[14:21:17] [MARIJUANA] Marijuana 10 | X-750.838928 | Y-140.376495 | Z66.248397
+[14:21:17] [MARIJUANA] Marijuana 11 | X-734.742614 | Y-141.621505 | Z67.248397
+[14:21:17] [MARIJUANA] Marijuana 12 | X-725.903625 | Y-154.670593 | Z66.953300
+[14:21:17] [MARIJUANA] Marijuana 13 | X-730.079528 | Y-167.183898 | Z66.455902
+[14:21:17] [MARIJUANA] Marijuana 14 | X-744.214782 | Y-170.510803 | Z67.743103
+[14:21:17] [MARIJUANA] Marijuana 15 | X-763.867614 | Y-172.779403 | Z67.394996
+[14:21:17] [MARIJUANA] Marijuana 16 | X-777.986572 | Y-167.110595 | Z66.612098
+[14:21:17] [MARIJUANA] Marijuana 17 | X-778.867187 | Y-156.839492 | Z65.439598
+[14:21:17] [RAUMUONG] Raumuong 0 | X221.045593 | Y1124.951904 | Z13.174699
+[14:21:17] [RAUMUONG] Raumuong 1 | X221.579299 | Y1128.734375 | Z12.872099
+[14:21:17] [RAUMUONG] Raumuong 2 | X222.005798 | Y1131.757568 | Z12.970199
+[14:21:17] [RAUMUONG] Raumuong 3 | X222.371200 | Y1134.347045 | Z13.031000
+[14:21:17] [RAUMUONG] Raumuong 4 | X222.646896 | Y1136.301635 | Z13.068900
+[14:21:17] [RAUMUONG] Raumuong 5 | X222.974197 | Y1138.621582 | Z13.113900
+[14:21:17] [RAUMUONG] Raumuong 6 | X223.424606 | Y1141.814331 | Z13.175900
+[14:21:17] [RAUMUONG] Raumuong 7 | X223.563201 | Y1143.556762 | Z13.217300
+[14:21:17] [RAUMUONG] Raumuong 8 | X223.801406 | Y1145.893310 | Z13.269100
+[14:21:17] [RAUMUONG] Raumuong 9 | X224.089904 | Y1148.483398 | Z13.324799
+[14:21:17] [RAUMUONG] Raumuong 10 | X224.417495 | Y1151.422607 | Z13.387999
+[14:21:17] [RAUMUONG] Raumuong 11 | X224.637893 | Y1153.400146 | Z13.430500
+[14:21:17] [RAUMUONG] Raumuong 12 | X224.858001 | Y1155.375122 | Z13.472999
+[14:21:17] [RAUMUONG] Raumuong 13 | X227.798004 | Y1155.603027 | Z13.271599
+[14:21:17] [RAUMUONG] Raumuong 14 | X228.347900 | Y1153.549438 | Z13.172300
+[14:21:17] [RAUMUONG] Raumuong 15 | X228.740905 | Y1151.338256 | Z13.079500
+[14:21:17] [RAUMUONG] Raumuong 16 | X229.398101 | Y1147.640625 | Z12.924300
+[14:21:17] [RAUMUONG] Raumuong 17 | X230.039306 | Y1144.033569 | Z12.766599
+[14:21:17] [RAUMUONG] Raumuong 18 | X230.632598 | Y1140.695434 | Z12.556599
+[14:21:17] [RAUMUONG] Raumuong 19 | X231.319107 | Y1136.833740 | Z12.313799
+[14:21:17] [RAUMUONG] Raumuong 20 | X231.928298 | Y1133.406738 | Z12.098199
+[14:21:17] [RAUMUONG] Raumuong 21 | X232.596801 | Y1129.645507 | Z11.861700
+[14:21:17] [RAUMUONG] Raumuong 22 | X233.234603 | Y1126.056762 | Z11.911000
+[14:21:17] [RAUMUONG] Raumuong 23 | X233.889007 | Y1122.374633 | Z12.102399
+[14:21:17] [RAUMUONG] Raumuong 24 | X237.172897 | Y1122.205444 | Z11.792200
+[14:21:17] [RAUMUONG] Raumuong 25 | X237.385406 | Y1125.467895 | Z11.561400
+[14:21:17] [RAUMUONG] Raumuong 26 | X237.344894 | Y1129.817749 | Z11.416099
+[14:21:17] [RAUMUONG] Raumuong 27 | X237.305999 | Y1134.003051 | Z11.612000
+[14:21:17] [RAUMUONG] Raumuong 28 | X237.266098 | Y1138.285766 | Z11.812500
+[14:21:17] [RAUMUONG] Raumuong 29 | X237.232803 | Y1141.859741 | Z11.979700
+[14:21:17] [RAUMUONG] Raumuong 30 | X237.197097 | Y1145.699340 | Z12.159399
+[14:21:17] [RAUMUONG] Raumuong 31 | X237.161499 | Y1149.528686 | Z12.338600
+[14:21:17] [RAUMUONG] Raumuong 32 | X237.132400 | Y1152.654296 | Z12.484900
+[14:21:17] [RAUMUONG] Raumuong 33 | X237.106399 | Y1155.434326 | Z12.607799
+[14:21:17] Dang chuan bi tai gamemode, xin vui long cho doi...
+[14:21:17] [MySQL] (Main Pipelines) Connecting to 127.0.0.1...
+[14:21:17] [MySQL] (MainPipeline) Connection successful toward MySQL Database Server!
+[14:21:17] [Dynamic Giftbox] Loading the Dynamic Giftbox...
+[14:21:17] [LoadCrates] Load Query Sent
+[14:21:17] [LoadHouses] Loading data from database...
+[14:21:17] [LoadDynamicDoors] Loading data from database...
+[14:21:17] [LoadDynamicMapIcons] Loading data from database...
+[14:21:17] [LoadMailboxes] Loading data from database...
+[14:21:17] [LoadBusinesses] Loading data from database...
+[14:21:17] [LoadAuctions] Loading data from database...
+[14:21:17] [LoadTxtLabels] Loading data from database...
+[14:21:17] [LoadPlants] Loading data from database...
+[14:21:17] [SpeedCameras] Loading data from database...
+[14:21:17] [LoadPayNSprays] Loading data from database...
+[14:21:17] [LoadArrestPoints] Loading data from database...
+[14:21:17] [LoadImpoundPoints] Loading data from database...
+[14:21:17] [LoadBusinessSales] Loading data from database...
+[14:21:17] [LoadTurfWars] 65 turfs loaded.
+[14:21:17] [LoadPaintballArenas] 10 paintball arenas loaded.
+[14:21:17] [LoadEventPoints] 0 event points loaded.
+[14:21:17] [LoadGates] Loading data from database...
+[14:21:17] [LoadElevatorStuff] 20 floors loaded.
+[14:21:17] [LoadFamilies] Dang tai du lieu tu database...
+[14:21:17] [LoadFamilyPoints] Loading Family Points from the database, please wait...
+[14:21:17] [MiscLoad] Misc Loaded
+[14:21:17] Resetting news...
+[14:21:17] Resetting default server variables..
+[14:21:17] Adjusted the server time...
+[14:21:17] [Streamer] Loading Dynamic Static Vehicles...
+[14:21:18] [Streamer] Dynamic Static Vehicles has been loaded.
+[14:21:18] [Streamer] Loading Dynamic Pickups...
+[14:21:18] [Streamer] Load Pickup Thanh Cong
+[14:21:18] [Streamer] Loading 3D Text Labels...
+[14:21:18] [Streamer] Dynamic 3D Load Thanh Cong
+[14:21:18] [Streamer] Loading Dynamic Buttons...
+[14:21:18] [Streamer] Dynamic Load Thanh Cong
+[14:21:18] [Streamer] Loading Dynamic Objects...
+[14:21:18] [Streamer] Dynamic Objects Da load
+[14:21:18] [Textdraws] Loading Textdraws...
+[14:21:18] [Textdraws] Loaded textdraws.
+[14:21:18] [Dynamic Groups] Loading Dynamic Groups...
+[14:21:18] [Dynamic Groups] Loading Dynamic Groups Vehicles...
+[14:21:18] 
+-------------------------------------------
+[14:21:18] Cong Dong GTA Viet Nam (Mobile)
+
+[14:21:18] Copyright (C) GvR Group, LLC (2015-2100)
+[14:21:18] Giu moi ban quyen
+[14:21:18] -------------------------------------------
+
+[14:21:18] Da chay thanh cong gamemode...
+[14:21:18]  
+[14:21:18]  
+[14:21:18] [Dynamic Giftbox] da tai thanh cong Dynamic giftbox.
+[14:21:18] [LoadCrates] Loading Crates Finished
+[14:21:18] [LoadHouses] 5000 ngoi nha duoc tai.
+[14:21:18] [LoadDynamicDoors] 3000 door duoc tai.
+[14:21:18] [LoadDynamicMapIcons] 400 icons map duoc tai.
+[14:21:18] [LoadMailboxes] 50 mailboxes duoc tai.
+[14:21:18] [LoadBusinesses] 200 businesses rehashed/loaded.
+[14:21:18] [LoadPlants] Successfully loaded 300 plants
+[14:21:18] [SpeedCameras] Khong the tai cac may ban toc do.
+[14:21:18] TotalSold0: 0 | AmountMade0: 0
+[14:21:18] TotalSold1: 0 | AmountMade1: 0
+[14:21:18] TotalSold2: 0 | AmountMade2: 0
+[14:21:18] TotalSold3: 0 | AmountMade3: 0
+[14:21:18] TotalSold4: 0 | AmountMade4: 0
+[14:21:19] TotalSold5: 0 | AmountMade5: 0
+[14:21:19] TotalSold6: 0 | AmountMade6: 0
+[14:21:19] TotalSold7: 0 | AmountMade7: 0
+[14:21:19] TotalSold8: 0 | AmountMade8: 0
+[14:21:19] TotalSold9: 0 | AmountMade9: 0
+[14:21:19] TotalSold10: 0 | AmountMade10: 0
+[14:21:19] TotalSold11: 0 | AmountMade11: 0
+[14:21:19] TotalSold12: 0 | AmountMade12: 0
+[14:21:19] TotalSold13: 0 | AmountMade13: 0
+[14:21:19] TotalSold14: 0 | AmountMade14: 0
+[14:21:19] TotalSold15: 0 | AmountMade15: 0
+[14:21:19] TotalSold16: 0 | AmountMade16: 0
+[14:21:19] TotalSold17: 6 | AmountMade17: 6
+[14:21:19] TotalSold18: 0 | AmountMade18: 0
+[14:21:19] TotalSold19: 0 | AmountMade19: 0
+[14:21:19] TotalSold20: 0 | AmountMade20: 0
+[14:21:19] TotalSold21: 0 | AmountMade21: 0
+[14:21:19] TotalSold22: 0 | AmountMade22: 0
+[14:21:19] TotalSold23: 0 | AmountMade23: 0
+[14:21:19] TotalSold24: 0 | AmountMade24: 0
+[14:21:19] TotalSold25: 0 | AmountMade25: 0
+[14:21:19] TotalSold26: 0 | AmountMade26: 0
+[14:21:19] TotalSold27: 0 | AmountMade27: 0
+[14:21:19] TotalSold28: 0 | AmountMade28: 0
+[14:21:19] TotalSold29: 0 | AmountMade29: 0
+[14:21:19] Price0: 1000
+[14:21:19] Price1: 199
+[14:21:19] Price2: 180
+[14:21:19] Price3: 80
+[14:21:19] Price4: 100
+[14:21:19] Price5: 100
+[14:21:19] Price6: 250
+[14:21:19] Price7: 90
+[14:21:19] Price8: 25
+[14:21:19] Price9: 80
+[14:21:19] Price10: 25
+[14:21:19] Price11: 150
+[14:21:19] Price12: 200
+[14:21:19] Price13: 300
+[14:21:19] Price14: 299
+[14:21:19] Price15: 100
+[14:21:19] Price16: 60
+[14:21:19] Price17: 1
+[14:21:19] Price18: 1
+[14:21:19] Price19: 2
+[14:21:19] Price20: 11
+[14:21:19] Price21: 10000
+[14:21:19] Price22: 50
+[14:21:19] Price23: 149
+[14:21:19] Price24: 2
+[14:21:19] Price25: 300
+[14:21:19] Price26: 400
+[14:21:19] Price27: 500
+[14:21:19] Price28: 100
+[14:21:19] Price29: 29
+[14:21:19] [Family Points] 8 family points has been loaded.
+[14:21:37] [connection] 27.76.95.181:48698 requests connection cookie.
+[14:21:37] [connection] incoming connection: 27.76.95.181:48698 id: 0
+[14:21:37] [join] Diep has joined the server (0:27.76.95.181)
+[14:21:49] [LOGIN] [User: Diep(24176)] [IP: 27.76.95.181] [Credits: 999,994]
+[14:21:49] Diep Dang Nhap Thanh Cong.
+[14:21:52] warning fix: newweapon 34
+[14:21:55] warning fix: newweapon 0
+[14:21:55] warning fix: newweapon 24
+[14:21:56] warning fix: newweapon 27
+[14:21:56] warning fix: newweapon 29
+[14:21:57] warning fix: newweapon 31
+[14:21:57] warning fix: newweapon 34
+[14:21:57] warning fix: newweapon 0
+[14:22:01] [zcmd] [Diep]: /giaodien2
+[14:22:26] [part] Diep has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:32:31] password = ""  (string)
+[14:32:31] 
+[14:32:31] Server Plugins
+[14:32:31] --------------
+[14:32:31]  Loading plugin: streamer
+[14:32:31] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[14:32:31]   Loaded.
+[14:32:31]  Loading plugin: mysql
+[14:32:31]  >> plugin.mysql: R33 successfully loaded.
+[14:32:31]   Loaded.
+[14:32:31]  Loading plugin: sscanf
+[14:32:31] 
+
+[14:32:31]  ===============================
+
+[14:32:31]       sscanf plugin loaded.     
+
+[14:32:31]          Version:  2.8.1        
+
+[14:32:31]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:32:31]  ===============================
+
+[14:32:31]   Loaded.
+[14:32:31]  Loading plugin: whirlpool
+[14:32:31]  
+[14:32:31]  ==================
+[14:32:31]  
+[14:32:31]   Whirlpool loaded
+[14:32:31]  
+[14:32:31]  ==================
+[14:32:31]  
+[14:32:31]   Loaded.
+[14:32:31]  Loading plugin: PawnPlus
+[14:32:31]  PawnPlus v1.3.2 loaded
+[14:32:31]  Created by IllidanS4
+[14:32:31]   Loaded.
+[14:32:31]  Loaded 5 plugins.
+
+[14:32:31] 
+[14:32:31] Ban list
+[14:32:31] --------
+[14:32:31]  Loaded: samp.ban
+[14:32:31] 
+[14:32:31] 
+[14:32:31] Filterscripts
+[14:32:31] ---------------
+[14:32:31]   Loading filterscript 'anim.amx'...
+[14:32:31]  
+[14:32:31]  ======================================= 
+[14:32:31]  |                                     | 
+[14:32:31]  |        YSI version 3.01.0002        | 
+[14:32:31]  |        By Alex "Y_Less" Cole        | 
+[14:32:31]  |                                     | 
+[14:32:31]  ======================================= 
+[14:32:31]  
+[14:32:31]   Loading filterscript 'exterior.amx'...
+[14:32:31]   Loading filterscript 'interior.amx'...
+[14:32:32]   Loading filterscript 'server.amx'...
+[14:32:32]   Loading filterscript 'sweeperjob.amx'...
+[14:32:32]   Loading filterscript 'mask.amx'...
+[14:32:32] 
+--------------------------------------
+[14:32:32]       Mask system by Dominic Zane Version 1.0 
+[14:32:32] --------------------------------------
+
+[14:32:32]   Loaded 6 filterscripts.
+
+[14:32:32]  
+[14:32:32]  ======================================= 
+[14:32:32]  |                                     | 
+[14:32:32]  |        YSI version 3.01.0002        | 
+[14:32:32]  |        By Alex "Y_Less" Cole        | 
+[14:32:32]  |                                     | 
+[14:32:32]  ======================================= 
+[14:32:32]  
+[14:32:32] [MINERAL]: Load 34 mineral, 34 location...
+[14:32:32] [ELECTRICIAN] Load 40 vi tri.
+[14:32:32] Number of vehicle models: 0
+[14:32:32]  
+[14:32:32]  
+[14:32:33] [MARIJUANA] Marijuana 0 | X-752.026672 | Y-155.485198 | Z66.758499
+[14:32:33] [MARIJUANA] Marijuana 1 | X-779.744812 | Y-148.622497 | Z64.870597
+[14:32:33] [MARIJUANA] Marijuana 2 | X-786.339721 | Y-153.754104 | Z64.644996
+[14:32:33] [MARIJUANA] Marijuana 3 | X-783.908996 | Y-160.240097 | Z65.766998
+[14:32:33] [MARIJUANA] Marijuana 4 | X-790.303710 | Y-164.885696 | Z66.219902
+[14:32:33] [MARIJUANA] Marijuana 5 | X-788.875488 | Y-169.304595 | Z66.672798
+[14:32:33] [MARIJUANA] Marijuana 6 | X-784.787109 | Y-171.793701 | Z66.997703
+[14:32:33] [MARIJUANA] Marijuana 7 | X-781.519409 | Y-176.483993 | Z67.591903
+[14:32:33] [MARIJUANA] Marijuana 8 | X-775.814270 | Y-174.929595 | Z67.518798
+[14:32:33] [MARIJUANA] Marijuana 9 | X-759.298278 | Y-147.206802 | Z65.869598
+[14:32:33] [MARIJUANA] Marijuana 10 | X-750.838928 | Y-140.376495 | Z66.248397
+[14:32:33] [MARIJUANA] Marijuana 11 | X-734.742614 | Y-141.621505 | Z67.248397
+[14:32:33] [MARIJUANA] Marijuana 12 | X-725.903625 | Y-154.670593 | Z66.953300
+[14:32:33] [MARIJUANA] Marijuana 13 | X-730.079528 | Y-167.183898 | Z66.455902
+[14:32:33] [MARIJUANA] Marijuana 14 | X-744.214782 | Y-170.510803 | Z67.743103
+[14:32:33] [MARIJUANA] Marijuana 15 | X-763.867614 | Y-172.779403 | Z67.394996
+[14:32:33] [MARIJUANA] Marijuana 16 | X-777.986572 | Y-167.110595 | Z66.612098
+[14:32:33] [MARIJUANA] Marijuana 17 | X-778.867187 | Y-156.839492 | Z65.439598
+[14:32:33] [RAUMUONG] Raumuong 0 | X221.045593 | Y1124.951904 | Z13.174699
+[14:32:33] [RAUMUONG] Raumuong 1 | X221.579299 | Y1128.734375 | Z12.872099
+[14:32:33] [RAUMUONG] Raumuong 2 | X222.005798 | Y1131.757568 | Z12.970199
+[14:32:33] [RAUMUONG] Raumuong 3 | X222.371200 | Y1134.347045 | Z13.031000
+[14:32:33] [RAUMUONG] Raumuong 4 | X222.646896 | Y1136.301635 | Z13.068900
+[14:32:33] [RAUMUONG] Raumuong 5 | X222.974197 | Y1138.621582 | Z13.113900
+[14:32:33] [RAUMUONG] Raumuong 6 | X223.424606 | Y1141.814331 | Z13.175900
+[14:32:33] [RAUMUONG] Raumuong 7 | X223.563201 | Y1143.556762 | Z13.217300
+[14:32:33] [RAUMUONG] Raumuong 8 | X223.801406 | Y1145.893310 | Z13.269100
+[14:32:33] [RAUMUONG] Raumuong 9 | X224.089904 | Y1148.483398 | Z13.324799
+[14:32:33] [RAUMUONG] Raumuong 10 | X224.417495 | Y1151.422607 | Z13.387999
+[14:32:33] [RAUMUONG] Raumuong 11 | X224.637893 | Y1153.400146 | Z13.430500
+[14:32:33] [RAUMUONG] Raumuong 12 | X224.858001 | Y1155.375122 | Z13.472999
+[14:32:33] [RAUMUONG] Raumuong 13 | X227.798004 | Y1155.603027 | Z13.271599
+[14:32:33] [RAUMUONG] Raumuong 14 | X228.347900 | Y1153.549438 | Z13.172300
+[14:32:33] [RAUMUONG] Raumuong 15 | X228.740905 | Y1151.338256 | Z13.079500
+[14:32:33] [RAUMUONG] Raumuong 16 | X229.398101 | Y1147.640625 | Z12.924300
+[14:32:33] [RAUMUONG] Raumuong 17 | X230.039306 | Y1144.033569 | Z12.766599
+[14:32:33] [RAUMUONG] Raumuong 18 | X230.632598 | Y1140.695434 | Z12.556599
+[14:32:33] [RAUMUONG] Raumuong 19 | X231.319107 | Y1136.833740 | Z12.313799
+[14:32:33] [RAUMUONG] Raumuong 20 | X231.928298 | Y1133.406738 | Z12.098199
+[14:32:33] [RAUMUONG] Raumuong 21 | X232.596801 | Y1129.645507 | Z11.861700
+[14:32:33] [RAUMUONG] Raumuong 22 | X233.234603 | Y1126.056762 | Z11.911000
+[14:32:33] [RAUMUONG] Raumuong 23 | X233.889007 | Y1122.374633 | Z12.102399
+[14:32:33] [RAUMUONG] Raumuong 24 | X237.172897 | Y1122.205444 | Z11.792200
+[14:32:33] [RAUMUONG] Raumuong 25 | X237.385406 | Y1125.467895 | Z11.561400
+[14:32:33] [RAUMUONG] Raumuong 26 | X237.344894 | Y1129.817749 | Z11.416099
+[14:32:33] [RAUMUONG] Raumuong 27 | X237.305999 | Y1134.003051 | Z11.612000
+[14:32:33] [RAUMUONG] Raumuong 28 | X237.266098 | Y1138.285766 | Z11.812500
+[14:32:33] [RAUMUONG] Raumuong 29 | X237.232803 | Y1141.859741 | Z11.979700
+[14:32:33] [RAUMUONG] Raumuong 30 | X237.197097 | Y1145.699340 | Z12.159399
+[14:32:33] [RAUMUONG] Raumuong 31 | X237.161499 | Y1149.528686 | Z12.338600
+[14:32:33] [RAUMUONG] Raumuong 32 | X237.132400 | Y1152.654296 | Z12.484900
+[14:32:33] [RAUMUONG] Raumuong 33 | X237.106399 | Y1155.434326 | Z12.607799
+[14:32:33] Dang chuan bi tai gamemode, xin vui long cho doi...
+[14:32:33] [MySQL] (Main Pipelines) Connecting to 127.0.0.1...
+[14:32:33] [MySQL] (MainPipeline) Connection successful toward MySQL Database Server!
+[14:32:33] [Dynamic Giftbox] Loading the Dynamic Giftbox...
+[14:32:33] [LoadCrates] Load Query Sent
+[14:32:33] [LoadHouses] Loading data from database...
+[14:32:33] [LoadDynamicDoors] Loading data from database...
+[14:32:33] [LoadDynamicMapIcons] Loading data from database...
+[14:32:33] [LoadMailboxes] Loading data from database...
+[14:32:33] [LoadBusinesses] Loading data from database...
+[14:32:33] [LoadAuctions] Loading data from database...
+[14:32:33] [LoadTxtLabels] Loading data from database...
+[14:32:33] [LoadPlants] Loading data from database...
+[14:32:33] [SpeedCameras] Loading data from database...
+[14:32:33] [LoadPayNSprays] Loading data from database...
+[14:32:33] [LoadArrestPoints] Loading data from database...
+[14:32:33] [LoadImpoundPoints] Loading data from database...
+[14:32:33] [LoadBusinessSales] Loading data from database...
+[14:32:33] [LoadTurfWars] 65 turfs loaded.
+[14:32:33] [LoadPaintballArenas] 10 paintball arenas loaded.
+[14:32:33] [LoadEventPoints] 0 event points loaded.
+[14:32:33] [LoadGates] Loading data from database...
+[14:32:33] [LoadElevatorStuff] 20 floors loaded.
+[14:32:33] [LoadFamilies] Dang tai du lieu tu database...
+[14:32:33] [LoadFamilyPoints] Loading Family Points from the database, please wait...
+[14:32:33] [MiscLoad] Misc Loaded
+[14:32:33] Resetting news...
+[14:32:33] Resetting default server variables..
+[14:32:33] Adjusted the server time...
+[14:32:33] [Streamer] Loading Dynamic Static Vehicles...
+[14:32:33] [Streamer] Dynamic Static Vehicles has been loaded.
+[14:32:33] [Streamer] Loading Dynamic Pickups...
+[14:32:33] [Streamer] Load Pickup Thanh Cong
+[14:32:33] [Streamer] Loading 3D Text Labels...
+[14:32:33] [Streamer] Dynamic 3D Load Thanh Cong
+[14:32:33] [Streamer] Loading Dynamic Buttons...
+[14:32:33] [Streamer] Dynamic Load Thanh Cong
+[14:32:33] [Streamer] Loading Dynamic Objects...
+[14:32:33] [Streamer] Dynamic Objects Da load
+[14:32:33] [Textdraws] Loading Textdraws...
+[14:32:33] [Textdraws] Loaded textdraws.
+[14:32:33] [Dynamic Groups] Loading Dynamic Groups...
+[14:32:33] [Dynamic Groups] Loading Dynamic Groups Vehicles...
+[14:32:33] 
+-------------------------------------------
+[14:32:33] Cong Dong GTA Viet Nam (Mobile)
+
+[14:32:33] Copyright (C) GvR Group, LLC (2015-2100)
+[14:32:33] Giu moi ban quyen
+[14:32:33] -------------------------------------------
+
+[14:32:33] Da chay thanh cong gamemode...
+[14:32:33]  
+[14:32:33]  
+[14:32:33] [Dynamic Giftbox] da tai thanh cong Dynamic giftbox.
+[14:32:33] [LoadCrates] Loading Crates Finished
+[14:32:33] [LoadHouses] 5000 ngoi nha duoc tai.
+[14:32:34] [LoadDynamicDoors] 3000 door duoc tai.
+[14:32:34] [LoadDynamicMapIcons] 400 icons map duoc tai.
+[14:32:34] [LoadMailboxes] 50 mailboxes duoc tai.
+[14:32:34] [LoadBusinesses] 200 businesses rehashed/loaded.
+[14:32:34] [LoadPlants] Successfully loaded 300 plants
+[14:32:34] [SpeedCameras] Khong the tai cac may ban toc do.
+[14:32:34] TotalSold0: 0 | AmountMade0: 0
+[14:32:34] TotalSold1: 0 | AmountMade1: 0
+[14:32:34] TotalSold2: 0 | AmountMade2: 0
+[14:32:34] TotalSold3: 0 | AmountMade3: 0
+[14:32:34] TotalSold4: 0 | AmountMade4: 0
+[14:32:34] TotalSold5: 0 | AmountMade5: 0
+[14:32:34] TotalSold6: 0 | AmountMade6: 0
+[14:32:34] TotalSold7: 0 | AmountMade7: 0
+[14:32:34] TotalSold8: 0 | AmountMade8: 0
+[14:32:34] TotalSold9: 0 | AmountMade9: 0
+[14:32:34] TotalSold10: 0 | AmountMade10: 0
+[14:32:34] TotalSold11: 0 | AmountMade11: 0
+[14:32:34] TotalSold12: 0 | AmountMade12: 0
+[14:32:34] TotalSold13: 0 | AmountMade13: 0
+[14:32:34] TotalSold14: 0 | AmountMade14: 0
+[14:32:34] TotalSold15: 0 | AmountMade15: 0
+[14:32:34] TotalSold16: 0 | AmountMade16: 0
+[14:32:34] TotalSold17: 6 | AmountMade17: 6
+[14:32:34] TotalSold18: 0 | AmountMade18: 0
+[14:32:34] TotalSold19: 0 | AmountMade19: 0
+[14:32:34] TotalSold20: 0 | AmountMade20: 0
+[14:32:34] TotalSold21: 0 | AmountMade21: 0
+[14:32:34] TotalSold22: 0 | AmountMade22: 0
+[14:32:34] TotalSold23: 0 | AmountMade23: 0
+[14:32:34] TotalSold24: 0 | AmountMade24: 0
+[14:32:34] TotalSold25: 0 | AmountMade25: 0
+[14:32:34] TotalSold26: 0 | AmountMade26: 0
+[14:32:34] TotalSold27: 0 | AmountMade27: 0
+[14:32:34] TotalSold28: 0 | AmountMade28: 0
+[14:32:34] TotalSold29: 0 | AmountMade29: 0
+[14:32:34] Price0: 1000
+[14:32:34] Price1: 199
+[14:32:34] Price2: 180
+[14:32:34] Price3: 80
+[14:32:34] Price4: 100
+[14:32:34] Price5: 100
+[14:32:34] Price6: 250
+[14:32:34] Price7: 90
+[14:32:34] Price8: 25
+[14:32:34] Price9: 80
+[14:32:34] Price10: 25
+[14:32:34] Price11: 150
+[14:32:34] Price12: 200
+[14:32:34] Price13: 300
+[14:32:34] Price14: 299
+[14:32:34] Price15: 100
+[14:32:34] Price16: 60
+[14:32:34] Price17: 1
+[14:32:34] Price18: 1
+[14:32:34] Price19: 2
+[14:32:34] Price20: 11
+[14:32:34] Price21: 10000
+[14:32:34] Price22: 50
+[14:32:34] Price23: 149
+[14:32:34] Price24: 2
+[14:32:34] Price25: 300
+[14:32:34] Price26: 400
+[14:32:34] Price27: 500
+[14:32:34] Price28: 100
+[14:32:34] Price29: 29
+[14:32:34] [Family Points] 8 family points has been loaded.
+[14:32:54] [connection] 27.76.95.181:46037 requests connection cookie.
+[14:32:54] [connection] incoming connection: 27.76.95.181:46037 id: 0
+[14:32:55] [join] Diep has joined the server (0:27.76.95.181)
+[14:33:07] [LOGIN] [User: Diep(24176)] [IP: 27.76.95.181] [Credits: 999,994]
+[14:33:07] Diep Dang Nhap Thanh Cong.
+[14:33:11] warning fix: newweapon 34
+[14:33:19] warning fix: newweapon 0
+[14:33:30] [zcmd] [Diep]: /giaodien 2
+[14:33:33] [zcmd] [Diep]: /giaodien2
+[14:33:38] [zcmd] [Diep]: /giaodien1
+[14:33:43] [zcmd] [Diep]: /giaodien2
+[14:33:46] [zcmd] [Diep]: /giaodien1
+[14:34:12] [zcmd] [Diep]: /giaodien2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:44:13] password = ""  (string)
+[14:44:13] 
+[14:44:13] Server Plugins
+[14:44:13] --------------
+[14:44:13]  Loading plugin: streamer
+[14:44:13] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[14:44:13]   Loaded.
+[14:44:13]  Loading plugin: mysql
+[14:44:13]  >> plugin.mysql: R33 successfully loaded.
+[14:44:13]   Loaded.
+[14:44:13]  Loading plugin: sscanf
+[14:44:13] 
+
+[14:44:13]  ===============================
+
+[14:44:13]       sscanf plugin loaded.     
+
+[14:44:13]          Version:  2.8.1        
+
+[14:44:13]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:44:13]  ===============================
+
+[14:44:13]   Loaded.
+[14:44:13]  Loading plugin: whirlpool
+[14:44:13]  
+[14:44:13]  ==================
+[14:44:13]  
+[14:44:13]   Whirlpool loaded
+[14:44:13]  
+[14:44:13]  ==================
+[14:44:13]  
+[14:44:13]   Loaded.
+[14:44:13]  Loading plugin: PawnPlus
+[14:44:13]  PawnPlus v1.3.2 loaded
+[14:44:13]  Created by IllidanS4
+[14:44:13]   Loaded.
+[14:44:13]  Loaded 5 plugins.
+
+[14:44:13] 
+[14:44:13] Ban list
+[14:44:13] --------
+[14:44:13]  Loaded: samp.ban
+[14:44:13] 
+[14:44:13] 
+[14:44:13] Filterscripts
+[14:44:13] ---------------
+[14:44:13]   Loading filterscript 'anim.amx'...
+[14:44:13]  
+[14:44:13]  ======================================= 
+[14:44:13]  |                                     | 
+[14:44:13]  |        YSI version 3.01.0002        | 
+[14:44:13]  |        By Alex "Y_Less" Cole        | 
+[14:44:13]  |                                     | 
+[14:44:13]  ======================================= 
+[14:44:13]  
+[14:44:13]   Loading filterscript 'exterior.amx'...
+[14:44:13]   Loading filterscript 'interior.amx'...
+[14:44:14]   Loading filterscript 'server.amx'...
+[14:44:14]   Loading filterscript 'sweeperjob.amx'...
+[14:44:14]   Loading filterscript 'mask.amx'...
+[14:44:14] 
+--------------------------------------
+[14:44:14]       Mask system by Dominic Zane Version 1.0 
+[14:44:14] --------------------------------------
+
+[14:44:14]   Loaded 6 filterscripts.
+
+[14:44:14]  
+[14:44:14]  ======================================= 
+[14:44:14]  |                                     | 
+[14:44:14]  |        YSI version 3.01.0002        | 
+[14:44:14]  |        By Alex "Y_Less" Cole        | 
+[14:44:14]  |                                     | 
+[14:44:14]  ======================================= 
+[14:44:14]  
+[14:44:14] [MINERAL]: Load 34 mineral, 34 location...
+[14:44:14] [ELECTRICIAN] Load 40 vi tri.
+[14:44:14] Number of vehicle models: 0
+[14:44:14]  
+[14:44:14]  
+[14:44:14] [MARIJUANA] Marijuana 0 | X-752.026672 | Y-155.485198 | Z66.758499
+[14:44:14] [MARIJUANA] Marijuana 1 | X-779.744812 | Y-148.622497 | Z64.870597
+[14:44:14] [MARIJUANA] Marijuana 2 | X-786.339721 | Y-153.754104 | Z64.644996
+[14:44:14] [MARIJUANA] Marijuana 3 | X-783.908996 | Y-160.240097 | Z65.766998
+[14:44:14] [MARIJUANA] Marijuana 4 | X-790.303710 | Y-164.885696 | Z66.219902
+[14:44:14] [MARIJUANA] Marijuana 5 | X-788.875488 | Y-169.304595 | Z66.672798
+[14:44:14] [MARIJUANA] Marijuana 6 | X-784.787109 | Y-171.793701 | Z66.997703
+[14:44:14] [MARIJUANA] Marijuana 7 | X-781.519409 | Y-176.483993 | Z67.591903
+[14:44:14] [MARIJUANA] Marijuana 8 | X-775.814270 | Y-174.929595 | Z67.518798
+[14:44:14] [MARIJUANA] Marijuana 9 | X-759.298278 | Y-147.206802 | Z65.869598
+[14:44:14] [MARIJUANA] Marijuana 10 | X-750.838928 | Y-140.376495 | Z66.248397
+[14:44:14] [MARIJUANA] Marijuana 11 | X-734.742614 | Y-141.621505 | Z67.248397
+[14:44:14] [MARIJUANA] Marijuana 12 | X-725.903625 | Y-154.670593 | Z66.953300
+[14:44:14] [MARIJUANA] Marijuana 13 | X-730.079528 | Y-167.183898 | Z66.455902
+[14:44:14] [MARIJUANA] Marijuana 14 | X-744.214782 | Y-170.510803 | Z67.743103
+[14:44:14] [MARIJUANA] Marijuana 15 | X-763.867614 | Y-172.779403 | Z67.394996
+[14:44:14] [MARIJUANA] Marijuana 16 | X-777.986572 | Y-167.110595 | Z66.612098
+[14:44:14] [MARIJUANA] Marijuana 17 | X-778.867187 | Y-156.839492 | Z65.439598
+[14:44:14] [RAUMUONG] Raumuong 0 | X221.045593 | Y1124.951904 | Z13.174699
+[14:44:14] [RAUMUONG] Raumuong 1 | X221.579299 | Y1128.734375 | Z12.872099
+[14:44:14] [RAUMUONG] Raumuong 2 | X222.005798 | Y1131.757568 | Z12.970199
+[14:44:14] [RAUMUONG] Raumuong 3 | X222.371200 | Y1134.347045 | Z13.031000
+[14:44:14] [RAUMUONG] Raumuong 4 | X222.646896 | Y1136.301635 | Z13.068900
+[14:44:14] [RAUMUONG] Raumuong 5 | X222.974197 | Y1138.621582 | Z13.113900
+[14:44:14] [RAUMUONG] Raumuong 6 | X223.424606 | Y1141.814331 | Z13.175900
+[14:44:14] [RAUMUONG] Raumuong 7 | X223.563201 | Y1143.556762 | Z13.217300
+[14:44:14] [RAUMUONG] Raumuong 8 | X223.801406 | Y1145.893310 | Z13.269100
+[14:44:14] [RAUMUONG] Raumuong 9 | X224.089904 | Y1148.483398 | Z13.324799
+[14:44:14] [RAUMUONG] Raumuong 10 | X224.417495 | Y1151.422607 | Z13.387999
+[14:44:14] [RAUMUONG] Raumuong 11 | X224.637893 | Y1153.400146 | Z13.430500
+[14:44:14] [RAUMUONG] Raumuong 12 | X224.858001 | Y1155.375122 | Z13.472999
+[14:44:14] [RAUMUONG] Raumuong 13 | X227.798004 | Y1155.603027 | Z13.271599
+[14:44:14] [RAUMUONG] Raumuong 14 | X228.347900 | Y1153.549438 | Z13.172300
+[14:44:14] [RAUMUONG] Raumuong 15 | X228.740905 | Y1151.338256 | Z13.079500
+[14:44:14] [RAUMUONG] Raumuong 16 | X229.398101 | Y1147.640625 | Z12.924300
+[14:44:14] [RAUMUONG] Raumuong 17 | X230.039306 | Y1144.033569 | Z12.766599
+[14:44:14] [RAUMUONG] Raumuong 18 | X230.632598 | Y1140.695434 | Z12.556599
+[14:44:14] [RAUMUONG] Raumuong 19 | X231.319107 | Y1136.833740 | Z12.313799
+[14:44:14] [RAUMUONG] Raumuong 20 | X231.928298 | Y1133.406738 | Z12.098199
+[14:44:14] [RAUMUONG] Raumuong 21 | X232.596801 | Y1129.645507 | Z11.861700
+[14:44:14] [RAUMUONG] Raumuong 22 | X233.234603 | Y1126.056762 | Z11.911000
+[14:44:14] [RAUMUONG] Raumuong 23 | X233.889007 | Y1122.374633 | Z12.102399
+[14:44:14] [RAUMUONG] Raumuong 24 | X237.172897 | Y1122.205444 | Z11.792200
+[14:44:14] [RAUMUONG] Raumuong 25 | X237.385406 | Y1125.467895 | Z11.561400
+[14:44:14] [RAUMUONG] Raumuong 26 | X237.344894 | Y1129.817749 | Z11.416099
+[14:44:14] [RAUMUONG] Raumuong 27 | X237.305999 | Y1134.003051 | Z11.612000
+[14:44:14] [RAUMUONG] Raumuong 28 | X237.266098 | Y1138.285766 | Z11.812500
+[14:44:14] [RAUMUONG] Raumuong 29 | X237.232803 | Y1141.859741 | Z11.979700
+[14:44:14] [RAUMUONG] Raumuong 30 | X237.197097 | Y1145.699340 | Z12.159399
+[14:44:14] [RAUMUONG] Raumuong 31 | X237.161499 | Y1149.528686 | Z12.338600
+[14:44:14] [RAUMUONG] Raumuong 32 | X237.132400 | Y1152.654296 | Z12.484900
+[14:44:14] [RAUMUONG] Raumuong 33 | X237.106399 | Y1155.434326 | Z12.607799
+[14:44:14] Dang chuan bi tai gamemode, xin vui long cho doi...
+[14:44:14] [MySQL] (Main Pipelines) Connecting to 127.0.0.1...
+[14:44:14] [MySQL] (MainPipeline) Connection successful toward MySQL Database Server!
+[14:44:14] [Dynamic Giftbox] Loading the Dynamic Giftbox...
+[14:44:14] [LoadCrates] Load Query Sent
+[14:44:14] [LoadHouses] Loading data from database...
+[14:44:14] [LoadDynamicDoors] Loading data from database...
+[14:44:14] [LoadDynamicMapIcons] Loading data from database...
+[14:44:14] [LoadMailboxes] Loading data from database...
+[14:44:14] [LoadBusinesses] Loading data from database...
+[14:44:15] [LoadAuctions] Loading data from database...
+[14:44:15] [LoadTxtLabels] Loading data from database...
+[14:44:15] [LoadPlants] Loading data from database...
+[14:44:15] [SpeedCameras] Loading data from database...
+[14:44:15] [LoadPayNSprays] Loading data from database...
+[14:44:15] [LoadArrestPoints] Loading data from database...
+[14:44:15] [LoadImpoundPoints] Loading data from database...
+[14:44:15] [LoadBusinessSales] Loading data from database...
+[14:44:15] [LoadTurfWars] 65 turfs loaded.
+[14:44:15] [LoadPaintballArenas] 10 paintball arenas loaded.
+[14:44:15] [LoadEventPoints] 0 event points loaded.
+[14:44:15] [LoadGates] Loading data from database...
+[14:44:15] [LoadElevatorStuff] 20 floors loaded.
+[14:44:15] [LoadFamilies] Dang tai du lieu tu database...
+[14:44:15] [LoadFamilyPoints] Loading Family Points from the database, please wait...
+[14:44:15] [MiscLoad] Misc Loaded
+[14:44:15] Resetting news...
+[14:44:15] Resetting default server variables..
+[14:44:15] Adjusted the server time...
+[14:44:15] [Streamer] Loading Dynamic Static Vehicles...
+[14:44:15] [Streamer] Dynamic Static Vehicles has been loaded.
+[14:44:15] [Streamer] Loading Dynamic Pickups...
+[14:44:15] [Streamer] Load Pickup Thanh Cong
+[14:44:15] [Streamer] Loading 3D Text Labels...
+[14:44:15] [Streamer] Dynamic 3D Load Thanh Cong
+[14:44:15] [Streamer] Loading Dynamic Buttons...
+[14:44:15] [Streamer] Dynamic Load Thanh Cong
+[14:44:15] [Streamer] Loading Dynamic Objects...
+[14:44:15] [Streamer] Dynamic Objects Da load
+[14:44:15] [Textdraws] Loading Textdraws...
+[14:44:15] [Textdraws] Loaded textdraws.
+[14:44:15] [Dynamic Groups] Loading Dynamic Groups...
+[14:44:15] [Dynamic Groups] Loading Dynamic Groups Vehicles...
+[14:44:15] 
+-------------------------------------------
+[14:44:15] Cong Dong GTA Viet Nam (Mobile)
+
+[14:44:15] Copyright (C) GvR Group, LLC (2015-2100)
+[14:44:15] Giu moi ban quyen
+[14:44:15] -------------------------------------------
+
+[14:44:15] Da chay thanh cong gamemode...
+[14:44:15]  
+[14:44:15]  
+[14:44:15] [Dynamic Giftbox] da tai thanh cong Dynamic giftbox.
+[14:44:15] [LoadCrates] Loading Crates Finished
+[14:44:15] [LoadHouses] 5000 ngoi nha duoc tai.
+[14:44:15] [LoadDynamicDoors] 3000 door duoc tai.
+[14:44:15] [LoadDynamicMapIcons] 400 icons map duoc tai.
+[14:44:15] [LoadMailboxes] 50 mailboxes duoc tai.
+[14:44:15] [LoadBusinesses] 200 businesses rehashed/loaded.
+[14:44:16] [LoadPlants] Successfully loaded 300 plants
+[14:44:16] [SpeedCameras] Khong the tai cac may ban toc do.
+[14:44:16] TotalSold0: 0 | AmountMade0: 0
+[14:44:16] TotalSold1: 0 | AmountMade1: 0
+[14:44:16] TotalSold2: 0 | AmountMade2: 0
+[14:44:16] TotalSold3: 0 | AmountMade3: 0
+[14:44:16] TotalSold4: 0 | AmountMade4: 0
+[14:44:16] TotalSold5: 0 | AmountMade5: 0
+[14:44:16] TotalSold6: 0 | AmountMade6: 0
+[14:44:16] TotalSold7: 0 | AmountMade7: 0
+[14:44:16] TotalSold8: 0 | AmountMade8: 0
+[14:44:16] TotalSold9: 0 | AmountMade9: 0
+[14:44:16] TotalSold10: 0 | AmountMade10: 0
+[14:44:16] TotalSold11: 0 | AmountMade11: 0
+[14:44:16] TotalSold12: 0 | AmountMade12: 0
+[14:44:16] TotalSold13: 0 | AmountMade13: 0
+[14:44:16] TotalSold14: 0 | AmountMade14: 0
+[14:44:16] TotalSold15: 0 | AmountMade15: 0
+[14:44:16] TotalSold16: 0 | AmountMade16: 0
+[14:44:16] TotalSold17: 6 | AmountMade17: 6
+[14:44:16] TotalSold18: 0 | AmountMade18: 0
+[14:44:16] TotalSold19: 0 | AmountMade19: 0
+[14:44:16] TotalSold20: 0 | AmountMade20: 0
+[14:44:16] TotalSold21: 0 | AmountMade21: 0
+[14:44:16] TotalSold22: 0 | AmountMade22: 0
+[14:44:16] TotalSold23: 0 | AmountMade23: 0
+[14:44:16] TotalSold24: 0 | AmountMade24: 0
+[14:44:16] TotalSold25: 0 | AmountMade25: 0
+[14:44:16] TotalSold26: 0 | AmountMade26: 0
+[14:44:16] TotalSold27: 0 | AmountMade27: 0
+[14:44:16] TotalSold28: 0 | AmountMade28: 0
+[14:44:16] TotalSold29: 0 | AmountMade29: 0
+[14:44:16] Price0: 1000
+[14:44:16] Price1: 199
+[14:44:16] Price2: 180
+[14:44:16] Price3: 80
+[14:44:16] Price4: 100
+[14:44:16] Price5: 100
+[14:44:16] Price6: 250
+[14:44:16] Price7: 90
+[14:44:16] Price8: 25
+[14:44:16] Price9: 80
+[14:44:16] Price10: 25
+[14:44:16] Price11: 150
+[14:44:16] Price12: 200
+[14:44:16] Price13: 300
+[14:44:16] Price14: 299
+[14:44:16] Price15: 100
+[14:44:16] Price16: 60
+[14:44:16] Price17: 1
+[14:44:16] Price18: 1
+[14:44:16] Price19: 2
+[14:44:16] Price20: 11
+[14:44:16] Price21: 10000
+[14:44:16] Price22: 50
+[14:44:16] Price23: 149
+[14:44:16] Price24: 2
+[14:44:16] Price25: 300
+[14:44:16] Price26: 400
+[14:44:16] Price27: 500
+[14:44:16] Price28: 100
+[14:44:16] Price29: 29
+[14:44:16] [Family Points] 8 family points has been loaded.
+[14:44:30] [connection] 27.76.95.181:40851 requests connection cookie.
+[14:44:30] [connection] incoming connection: 27.76.95.181:40851 id: 0
+[14:44:31] [join] Diep has joined the server (0:27.76.95.181)
+[14:44:40] [LOGIN] [User: Diep(24176)] [IP: 27.76.95.181] [Credits: 999,994]
+[14:44:40] Diep Dang Nhap Thanh Cong.
+[14:44:43] warning fix: newweapon 34
+[14:44:44] warning fix: newweapon 0
+[14:44:53] [zcmd] [Diep]: /giaodien
+[14:44:58] [zcmd] [Diep]: /giaodien
+[14:45:19] [part] Diep has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:48:40] password = ""  (string)
+[14:48:40] 
+[14:48:40] Server Plugins
+[14:48:40] --------------
+[14:48:40]  Loading plugin: streamer
+[14:48:40] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[14:48:40]   Loaded.
+[14:48:40]  Loading plugin: mysql
+[14:48:40]  >> plugin.mysql: R33 successfully loaded.
+[14:48:40]   Loaded.
+[14:48:40]  Loading plugin: sscanf
+[14:48:40] 
+
+[14:48:40]  ===============================
+
+[14:48:40]       sscanf plugin loaded.     
+
+[14:48:40]          Version:  2.8.1        
+
+[14:48:40]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:48:40]  ===============================
+
+[14:48:40]   Loaded.
+[14:48:40]  Loading plugin: whirlpool
+[14:48:40]  
+[14:48:40]  ==================
+[14:48:40]  
+[14:48:40]   Whirlpool loaded
+[14:48:40]  
+[14:48:40]  ==================
+[14:48:40]  
+[14:48:40]   Loaded.
+[14:48:40]  Loading plugin: PawnPlus
+[14:48:40]  PawnPlus v1.3.2 loaded
+[14:48:40]  Created by IllidanS4
+[14:48:40]   Loaded.
+[14:48:40]  Loaded 5 plugins.
+
+[14:48:40] 
+[14:48:40] Ban list
+[14:48:40] --------
+[14:48:40]  Loaded: samp.ban
+[14:48:40] 
+[14:48:40] 
+[14:48:40] Filterscripts
+[14:48:40] ---------------
+[14:48:40]   Loading filterscript 'anim.amx'...
+[14:48:40]  
+[14:48:40]  ======================================= 
+[14:48:40]  |                                     | 
+[14:48:40]  |        YSI version 3.01.0002        | 
+[14:48:40]  |        By Alex "Y_Less" Cole        | 
+[14:48:40]  |                                     | 
+[14:48:40]  ======================================= 
+[14:48:40]  
+[14:48:40]   Loading filterscript 'exterior.amx'...
+[14:48:40]   Loading filterscript 'interior.amx'...
+[14:48:41]   Loading filterscript 'server.amx'...
+[14:48:41]   Loading filterscript 'sweeperjob.amx'...
+[14:48:41]   Loading filterscript 'mask.amx'...
+[14:48:41] 
+--------------------------------------
+[14:48:41]       Mask system by Dominic Zane Version 1.0 
+[14:48:41] --------------------------------------
+
+[14:48:41]   Loaded 6 filterscripts.
+
+[14:48:42]  
+[14:48:42]  ======================================= 
+[14:48:42]  |                                     | 
+[14:48:42]  |        YSI version 3.01.0002        | 
+[14:48:42]  |        By Alex "Y_Less" Cole        | 
+[14:48:42]  |                                     | 
+[14:48:42]  ======================================= 
+[14:48:42]  
+[14:48:42] [MINERAL]: Load 34 mineral, 34 location...
+[14:48:42] [ELECTRICIAN] Load 40 vi tri.
+[14:48:42] Number of vehicle models: 0
+[14:48:42]  
+[14:48:42]  
+[14:48:42] [MARIJUANA] Marijuana 0 | X-752.026672 | Y-155.485198 | Z66.758499
+[14:48:42] [MARIJUANA] Marijuana 1 | X-779.744812 | Y-148.622497 | Z64.870597
+[14:48:42] [MARIJUANA] Marijuana 2 | X-786.339721 | Y-153.754104 | Z64.644996
+[14:48:42] [MARIJUANA] Marijuana 3 | X-783.908996 | Y-160.240097 | Z65.766998
+[14:48:42] [MARIJUANA] Marijuana 4 | X-790.303710 | Y-164.885696 | Z66.219902
+[14:48:42] [MARIJUANA] Marijuana 5 | X-788.875488 | Y-169.304595 | Z66.672798
+[14:48:42] [MARIJUANA] Marijuana 6 | X-784.787109 | Y-171.793701 | Z66.997703
+[14:48:42] [MARIJUANA] Marijuana 7 | X-781.519409 | Y-176.483993 | Z67.591903
+[14:48:42] [MARIJUANA] Marijuana 8 | X-775.814270 | Y-174.929595 | Z67.518798
+[14:48:42] [MARIJUANA] Marijuana 9 | X-759.298278 | Y-147.206802 | Z65.869598
+[14:48:42] [MARIJUANA] Marijuana 10 | X-750.838928 | Y-140.376495 | Z66.248397
+[14:48:42] [MARIJUANA] Marijuana 11 | X-734.742614 | Y-141.621505 | Z67.248397
+[14:48:42] [MARIJUANA] Marijuana 12 | X-725.903625 | Y-154.670593 | Z66.953300
+[14:48:42] [MARIJUANA] Marijuana 13 | X-730.079528 | Y-167.183898 | Z66.455902
+[14:48:42] [MARIJUANA] Marijuana 14 | X-744.214782 | Y-170.510803 | Z67.743103
+[14:48:42] [MARIJUANA] Marijuana 15 | X-763.867614 | Y-172.779403 | Z67.394996
+[14:48:42] [MARIJUANA] Marijuana 16 | X-777.986572 | Y-167.110595 | Z66.612098
+[14:48:42] [MARIJUANA] Marijuana 17 | X-778.867187 | Y-156.839492 | Z65.439598
+[14:48:42] [RAUMUONG] Raumuong 0 | X221.045593 | Y1124.951904 | Z13.174699
+[14:48:42] [RAUMUONG] Raumuong 1 | X221.579299 | Y1128.734375 | Z12.872099
+[14:48:42] [RAUMUONG] Raumuong 2 | X222.005798 | Y1131.757568 | Z12.970199
+[14:48:42] [RAUMUONG] Raumuong 3 | X222.371200 | Y1134.347045 | Z13.031000
+[14:48:42] [RAUMUONG] Raumuong 4 | X222.646896 | Y1136.301635 | Z13.068900
+[14:48:42] [RAUMUONG] Raumuong 5 | X222.974197 | Y1138.621582 | Z13.113900
+[14:48:42] [RAUMUONG] Raumuong 6 | X223.424606 | Y1141.814331 | Z13.175900
+[14:48:42] [RAUMUONG] Raumuong 7 | X223.563201 | Y1143.556762 | Z13.217300
+[14:48:42] [RAUMUONG] Raumuong 8 | X223.801406 | Y1145.893310 | Z13.269100
+[14:48:42] [RAUMUONG] Raumuong 9 | X224.089904 | Y1148.483398 | Z13.324799
+[14:48:42] [RAUMUONG] Raumuong 10 | X224.417495 | Y1151.422607 | Z13.387999
+[14:48:42] [RAUMUONG] Raumuong 11 | X224.637893 | Y1153.400146 | Z13.430500
+[14:48:42] [RAUMUONG] Raumuong 12 | X224.858001 | Y1155.375122 | Z13.472999
+[14:48:42] [RAUMUONG] Raumuong 13 | X227.798004 | Y1155.603027 | Z13.271599
+[14:48:42] [RAUMUONG] Raumuong 14 | X228.347900 | Y1153.549438 | Z13.172300
+[14:48:42] [RAUMUONG] Raumuong 15 | X228.740905 | Y1151.338256 | Z13.079500
+[14:48:42] [RAUMUONG] Raumuong 16 | X229.398101 | Y1147.640625 | Z12.924300
+[14:48:42] [RAUMUONG] Raumuong 17 | X230.039306 | Y1144.033569 | Z12.766599
+[14:48:42] [RAUMUONG] Raumuong 18 | X230.632598 | Y1140.695434 | Z12.556599
+[14:48:42] [RAUMUONG] Raumuong 19 | X231.319107 | Y1136.833740 | Z12.313799
+[14:48:42] [RAUMUONG] Raumuong 20 | X231.928298 | Y1133.406738 | Z12.098199
+[14:48:42] [RAUMUONG] Raumuong 21 | X232.596801 | Y1129.645507 | Z11.861700
+[14:48:42] [RAUMUONG] Raumuong 22 | X233.234603 | Y1126.056762 | Z11.911000
+[14:48:42] [RAUMUONG] Raumuong 23 | X233.889007 | Y1122.374633 | Z12.102399
+[14:48:42] [RAUMUONG] Raumuong 24 | X237.172897 | Y1122.205444 | Z11.792200
+[14:48:42] [RAUMUONG] Raumuong 25 | X237.385406 | Y1125.467895 | Z11.561400
+[14:48:42] [RAUMUONG] Raumuong 26 | X237.344894 | Y1129.817749 | Z11.416099
+[14:48:42] [RAUMUONG] Raumuong 27 | X237.305999 | Y1134.003051 | Z11.612000
+[14:48:42] [RAUMUONG] Raumuong 28 | X237.266098 | Y1138.285766 | Z11.812500
+[14:48:42] [RAUMUONG] Raumuong 29 | X237.232803 | Y1141.859741 | Z11.979700
+[14:48:42] [RAUMUONG] Raumuong 30 | X237.197097 | Y1145.699340 | Z12.159399
+[14:48:42] [RAUMUONG] Raumuong 31 | X237.161499 | Y1149.528686 | Z12.338600
+[14:48:42] [RAUMUONG] Raumuong 32 | X237.132400 | Y1152.654296 | Z12.484900
+[14:48:42] [RAUMUONG] Raumuong 33 | X237.106399 | Y1155.434326 | Z12.607799
+[14:48:42] Dang chuan bi tai gamemode, xin vui long cho doi...
+[14:48:42] [MySQL] (Main Pipelines) Connecting to 127.0.0.1...
+[14:48:42] [MySQL] (MainPipeline) Connection successful toward MySQL Database Server!
+[14:48:42] [Dynamic Giftbox] Loading the Dynamic Giftbox...
+[14:48:42] [LoadCrates] Load Query Sent
+[14:48:42] [LoadHouses] Loading data from database...
+[14:48:42] [LoadDynamicDoors] Loading data from database...
+[14:48:42] [LoadDynamicMapIcons] Loading data from database...
+[14:48:42] [LoadMailboxes] Loading data from database...
+[14:48:42] [LoadBusinesses] Loading data from database...
+[14:48:42] [LoadAuctions] Loading data from database...
+[14:48:42] [LoadTxtLabels] Loading data from database...
+[14:48:42] [LoadPlants] Loading data from database...
+[14:48:42] [SpeedCameras] Loading data from database...
+[14:48:42] [LoadPayNSprays] Loading data from database...
+[14:48:42] [LoadArrestPoints] Loading data from database...
+[14:48:42] [LoadImpoundPoints] Loading data from database...
+[14:48:42] [LoadBusinessSales] Loading data from database...
+[14:48:42] [LoadTurfWars] 65 turfs loaded.
+[14:48:42] [LoadPaintballArenas] 10 paintball arenas loaded.
+[14:48:42] [LoadEventPoints] 0 event points loaded.
+[14:48:42] [LoadGates] Loading data from database...
+[14:48:42] [LoadElevatorStuff] 20 floors loaded.
+[14:48:42] [LoadFamilies] Dang tai du lieu tu database...
+[14:48:42] [LoadFamilyPoints] Loading Family Points from the database, please wait...
+[14:48:42] [MiscLoad] Misc Loaded
+[14:48:42] Resetting news...
+[14:48:42] Resetting default server variables..
+[14:48:42] Adjusted the server time...
+[14:48:42] [Streamer] Loading Dynamic Static Vehicles...
+[14:48:42] [Streamer] Dynamic Static Vehicles has been loaded.
+[14:48:42] [Streamer] Loading Dynamic Pickups...
+[14:48:42] [Streamer] Load Pickup Thanh Cong
+[14:48:42] [Streamer] Loading 3D Text Labels...
+[14:48:42] [Streamer] Dynamic 3D Load Thanh Cong
+[14:48:42] [Streamer] Loading Dynamic Buttons...
+[14:48:42] [Streamer] Dynamic Load Thanh Cong
+[14:48:42] [Streamer] Loading Dynamic Objects...
+[14:48:42] [Streamer] Dynamic Objects Da load
+[14:48:42] [Textdraws] Loading Textdraws...
+[14:48:42] [Textdraws] Loaded textdraws.
+[14:48:42] [Dynamic Groups] Loading Dynamic Groups...
+[14:48:42] [Dynamic Groups] Loading Dynamic Groups Vehicles...
+[14:48:42] 
+-------------------------------------------
+[14:48:42] Cong Dong GTA Viet Nam (Mobile)
+
+[14:48:42] Copyright (C) GvR Group, LLC (2015-2100)
+[14:48:42] Giu moi ban quyen
+[14:48:42] -------------------------------------------
+
+[14:48:42] Da chay thanh cong gamemode...
+[14:48:42]  
+[14:48:42]  
+[14:48:42] [Dynamic Giftbox] da tai thanh cong Dynamic giftbox.
+[14:48:42] [LoadCrates] Loading Crates Finished
+[14:48:43] [LoadHouses] 5000 ngoi nha duoc tai.
+[14:48:43] [LoadDynamicDoors] 3000 door duoc tai.
+[14:48:43] [LoadDynamicMapIcons] 400 icons map duoc tai.
+[14:48:43] [LoadMailboxes] 50 mailboxes duoc tai.
+[14:48:43] [LoadBusinesses] 200 businesses rehashed/loaded.
+[14:48:43] [LoadPlants] Successfully loaded 300 plants
+[14:48:43] [SpeedCameras] Khong the tai cac may ban toc do.
+[14:48:43] TotalSold0: 0 | AmountMade0: 0
+[14:48:43] TotalSold1: 0 | AmountMade1: 0
+[14:48:43] TotalSold2: 0 | AmountMade2: 0
+[14:48:43] TotalSold3: 0 | AmountMade3: 0
+[14:48:43] TotalSold4: 0 | AmountMade4: 0
+[14:48:43] TotalSold5: 0 | AmountMade5: 0
+[14:48:43] TotalSold6: 0 | AmountMade6: 0
+[14:48:43] TotalSold7: 0 | AmountMade7: 0
+[14:48:43] TotalSold8: 0 | AmountMade8: 0
+[14:48:43] TotalSold9: 0 | AmountMade9: 0
+[14:48:43] TotalSold10: 0 | AmountMade10: 0
+[14:48:43] TotalSold11: 0 | AmountMade11: 0
+[14:48:43] TotalSold12: 0 | AmountMade12: 0
+[14:48:43] TotalSold13: 0 | AmountMade13: 0
+[14:48:43] TotalSold14: 0 | AmountMade14: 0
+[14:48:43] TotalSold15: 0 | AmountMade15: 0
+[14:48:43] TotalSold16: 0 | AmountMade16: 0
+[14:48:43] TotalSold17: 6 | AmountMade17: 6
+[14:48:43] TotalSold18: 0 | AmountMade18: 0
+[14:48:43] TotalSold19: 0 | AmountMade19: 0
+[14:48:43] TotalSold20: 0 | AmountMade20: 0
+[14:48:43] TotalSold21: 0 | AmountMade21: 0
+[14:48:43] TotalSold22: 0 | AmountMade22: 0
+[14:48:43] TotalSold23: 0 | AmountMade23: 0
+[14:48:43] TotalSold24: 0 | AmountMade24: 0
+[14:48:43] TotalSold25: 0 | AmountMade25: 0
+[14:48:43] TotalSold26: 0 | AmountMade26: 0
+[14:48:43] TotalSold27: 0 | AmountMade27: 0
+[14:48:43] TotalSold28: 0 | AmountMade28: 0
+[14:48:43] TotalSold29: 0 | AmountMade29: 0
+[14:48:43] Price0: 1000
+[14:48:43] Price1: 199
+[14:48:43] Price2: 180
+[14:48:43] Price3: 80
+[14:48:43] Price4: 100
+[14:48:43] Price5: 100
+[14:48:43] Price6: 250
+[14:48:43] Price7: 90
+[14:48:43] Price8: 25
+[14:48:43] Price9: 80
+[14:48:43] Price10: 25
+[14:48:43] Price11: 150
+[14:48:43] Price12: 200
+[14:48:43] Price13: 300
+[14:48:43] Price14: 299
+[14:48:43] Price15: 100
+[14:48:43] Price16: 60
+[14:48:43] Price17: 1
+[14:48:43] Price18: 1
+[14:48:43] Price19: 2
+[14:48:43] Price20: 11
+[14:48:43] Price21: 10000
+[14:48:43] Price22: 50
+[14:48:43] Price23: 149
+[14:48:43] Price24: 2
+[14:48:43] Price25: 300
+[14:48:43] Price26: 400
+[14:48:43] Price27: 500
+[14:48:43] Price28: 100
+[14:48:43] Price29: 29
+[14:48:43] [Family Points] 8 family points has been loaded.

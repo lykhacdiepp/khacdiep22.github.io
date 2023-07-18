@@ -54143,6 +54143,10 @@ CMD:vitrithuexe(playerid, params[]) {
     return ShowPlayerDialog(playerid, VITRITHUEXE, DIALOG_STYLE_LIST, "MAPS","Thue Xe o benh vien\nThue Xe o pizza", "Chon", "Thoat");
 }
 
+CMD:giaodien(playerid, params[]) {
+    return ShowPlayerDialog(playerid, GIAODIEN, DIALOG_STYLE_LIST, "GIAO DIEN","Giao Dien 1\nGiao Dien 2", "Chon", "Thoat");
+}
+
 CMD:map(playerid, params[]) {
    	if(CheckPointCheck(playerid))
     {
@@ -54150,4 +54154,13 @@ CMD:map(playerid, params[]) {
     return 1;
     }
     return ShowPlayerDialog(playerid, TONGHOP, DIALOG_STYLE_LIST, "MAPS","Tim Viec Lam\nTim Duong\nvi tri thue xe", "Chon", "Thoat");
+}
+
+CMD:giaodien2(playerid, params[])	{
+	giaodien(playerid);
+	return 1;
+}
+CMD:giaodien1(playerid, params[])	{
+	giaodienn(playerid);
+	return 1;
 }
