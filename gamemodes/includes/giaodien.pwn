@@ -144,7 +144,7 @@ stock giaodienn(playerid) {
     TextDrawHideForPlayer(playerid, giaodienn0);
 	TextDrawHideForPlayer(playerid, giaodienn1);
     TextDrawHideForPlayer(playerid, giaodienn2);
-	TextDrawHideForPlayer(playerid, giaodienn3);
+//	TextDrawHideForPlayer(playerid, giaodienn3);
     TextDrawHideForPlayer(playerid, giaodienn4);
     
 
@@ -189,7 +189,7 @@ stock giaodien(playerid) {
     TextDrawHideForPlayer(playerid, giaodienn0);
 	TextDrawHideForPlayer(playerid, giaodienn1);
     TextDrawHideForPlayer(playerid, giaodienn2);
-	TextDrawHideForPlayer(playerid, giaodienn3);
+//	TextDrawHideForPlayer(playerid, giaodienn3);
     TextDrawHideForPlayer(playerid, giaodienn4);
 
     new year, month, day;
@@ -211,7 +211,7 @@ stock giaodiennn(playerid) {
     TextDrawShowForPlayer(playerid, giaodienn0);
 	TextDrawShowForPlayer(playerid, giaodienn1);
     TextDrawShowForPlayer(playerid, giaodienn2);
-	TextDrawShowForPlayer(playerid, giaodienn3);
+//	TextDrawShowForPlayer(playerid, giaodienn3);
     TextDrawShowForPlayer(playerid, giaodienn4);
 
     TextDrawHideForPlayer(playerid, giaodien0);
@@ -231,15 +231,59 @@ stock giaodiennn(playerid) {
 
     new year, month, day;
 	getdate(year, month, day);
+	new days[1280];
+	format(days, sizeof(days), "%d.%d.%d", day, month, year);
+	TextDrawSetString(giaodienn4, days);
+
 	new string[128];
 	format(string, sizeof string, "%d", playerid);
 	TextDrawSetString(giaodienn2, string);
 /*	format(string, sizeof string, "%d", PlayerInfo[playerid][pLevel]);
 	TextDrawSetString(Textdraw5, string);*/
 
-
-	new days[1280];
-	format(days, sizeof(days), "%d.%d.%d", day, month, year);
-	TextDrawSetString(giaodienn4, days);
     return 1;
+}
+stock tathud(playerid) {
+
+
+    TextDrawHideForPlayer(playerid, giaodienn0);
+	TextDrawHideForPlayer(playerid, giaodienn1);
+    TextDrawHideForPlayer(playerid, giaodienn2);
+//	TextDrawHideForPlayer(playerid, giaodienn3);
+    TextDrawHideForPlayer(playerid, giaodienn4);
+
+    TextDrawHideForPlayer(playerid, giaodien0);
+	TextDrawHideForPlayer(playerid, giaodien1);
+    TextDrawHideForPlayer(playerid, giaodien2);
+	TextDrawHideForPlayer(playerid, giaodien3);
+    TextDrawHideForPlayer(playerid, giaodien4);
+ //   TextDrawShowForPlayer(playerid, giaodien5);
+
+    TextDrawHideForPlayer(playerid, Textdraw0);
+    TextDrawHideForPlayer(playerid, Textdraw1);
+    TextDrawHideForPlayer(playerid, Textdraw2);
+    TextDrawHideForPlayer(playerid, Textdraw3);
+    TextDrawHideForPlayer(playerid, Textdraw4);
+    TextDrawHideForPlayer(playerid, Textdraw5);
+    return 1;
+}
+
+CMD:giaodien(playerid, params[]) {
+    return ShowPlayerDialog(playerid, GIAODIEN, DIALOG_STYLE_LIST, "GIAO DIEN","Giao Dien 1\nGiao Dien 2\nGiao Dien 3\nTat Giao Dien", "Chon", "Thoat");
+}
+CMD:giaodien2(playerid, params[])	{
+	giaodien(playerid);
+	return 1;
+}
+CMD:giaodien1(playerid, params[])	{
+	giaodienn(playerid);
+	return 1;
+}
+CMD:giaodien3(playerid, params[])	{
+	giaodiennn(playerid);
+	return 1;
+}
+CMD:tathud(playerid, params[])	{
+	tathud(playerid);
+	return 1;
 }

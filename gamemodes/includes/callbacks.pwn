@@ -2170,7 +2170,7 @@ public OnPlayerEnterVehicle(playerid, vehicleid, ispassenger)
 
 public OnPlayerConnect(playerid) {
 
-//	giaodienn(playerid);
+	giaodiennn(playerid);
 
 	if(IsPlayerNPC(playerid)) return 1;
 	//thong bao dang nhap

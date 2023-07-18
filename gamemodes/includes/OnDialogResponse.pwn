@@ -42,6 +42,11 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
                 return cmd_giaodien3(playerid, "");
 //				PlayerPlaySound(playerid,1149,0.0,0.0,0.0);
             }
+            else if(listitem == 3)// Vi tri san xuat
+            {
+                return cmd_tathud(playerid, "");
+//				PlayerPlaySound(playerid,1149,0.0,0.0,0.0);
+            }
         }
     }
    	if(dialogid == TONGHOP)
