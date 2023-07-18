@@ -240,6 +240,6 @@ stock giaodiennn(playerid) {
 
 	new days[1280];
 	format(days, sizeof(days), "%d.%d.%d", day, month, year);
-	TextDrawSetString(giaodien4, days);
+	TextDrawSetString(giaodienn4, days);
     return 1;
 }
