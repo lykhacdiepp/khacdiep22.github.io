@@ -2585,7 +2585,7 @@ public OnPlayerConnect(playerid) {
 	SetTimerEx("LoginCheckEx", 5000, 0, "i", playerid);
 
 	//RemoveBuildings(playerid);
-    return ShowPlayerDialog(playerid, GIAODIEN, DIALOG_STYLE_LIST, "GIAO DIEN","Giao Dien 1\nGiao Dien 2", "Chon", "Thoat");
+
 	return 1;
 }
 

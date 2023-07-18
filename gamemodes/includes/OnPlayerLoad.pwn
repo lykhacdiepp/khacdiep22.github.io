@@ -733,6 +733,7 @@ public OnPlayerLoad(playerid)
     format(string, sizeof(string), "Dang Nhap Thanh Cong {CC0033}%s", GetPlayerNameEx(playerid));
 	SendClientMessageEx(playerid, COLOR_WHITE, string);
 	SendClientMessageEx(playerid, COLOR_WHITE, "[Tin Nhan He Thong] {007700}C{006699}ong {6699FF}D{770000}ong GTA Viet Roleplay (Mobile) "SERVER_GM_TEXT"");
+    return ShowPlayerDialog(playerid, GIAODIEN, DIALOG_STYLE_LIST, "GIAO DIEN","Giao Dien 1\nGiao Dien 2", "Chon", "Thoat");
 
 
 	if(pMOTD[0]) { ShowPlayerDialog(playerid, PMOTDNOTICE, DIALOG_STYLE_MSGBOX, "Notice", pMOTD, "Dismiss", ""); }

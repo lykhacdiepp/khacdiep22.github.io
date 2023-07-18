@@ -1,6 +1,7 @@
-./includes/callbacks.pwn(2589) : ïðåäóïðåæäåíèå 225: íåäîñòèæèìûé êîä
+./includes/OnPlayerLoad.pwn(739) : ïðåäóïðåæäåíèå 225: íåäîñòèæèìûé êîä
 ./includes/callbacks.pwn(6189) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
 ./includes/Phone.pwn(266) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "nguoinhan" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+./includes/Phone.pwn(266) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "nguoinhan"
 ./includes/giaodien.pwn(76) : íåïðàâèëüíàÿ òàáóëÿöèÿ
 ./includes/giaodien.pwn(110) : ïðåäóïðåæäåíèå 225: íåäîñòèæèìûé êîä
 Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
