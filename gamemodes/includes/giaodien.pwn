@@ -56,7 +56,7 @@ TextDrawSetProportional(giaodienn3, 1);
 TextDrawSetShadow(giaodienn3, 1);
 TextDrawSetSelectable(giaodienn3, 0);
 
-giaodienn4 = TextDrawCreate(472.000000, 19.000000, "18.07.2023");
+giaodienn4 = TextDrawCreate(472.000000, 19.000000, "00/00/0000");
 TextDrawBackgroundColor(giaodienn4, -16711681);
 TextDrawFont(giaodienn4, 3);
 TextDrawLetterSize(giaodienn4, 0.440000, 1.300000);
@@ -96,7 +96,7 @@ TextDrawSetOutline(giaodien2, 1);
 TextDrawSetProportional(giaodien2, 1);
 TextDrawSetSelectable(giaodien2, 0);
 
-giaodien3 = TextDrawCreate(1.000000, 271.000000, "18.07.2023");
+giaodien3 = TextDrawCreate(1.000000, 271.000000, "00/00/00");
 TextDrawBackgroundColor(giaodien3, 255);
 TextDrawFont(giaodien3, 3);
 TextDrawLetterSize(giaodien3, 0.400000, 1.400000);
@@ -127,6 +127,67 @@ TextDrawSetOutline(giaodien5, 0);
 TextDrawSetProportional(giaodien5, 1);
 TextDrawSetShadow(giaodien5, 0);
 TextDrawSetSelectable(giaodien5, 0);
+
+    Textdraw0 = TextDrawCreate(276.000000, 5.000000, "vg:rp mobile");
+    TextDrawBackgroundColor(Textdraw0, -16711681);
+    TextDrawFont(Textdraw0, 3);
+    TextDrawLetterSize(Textdraw0, 0.500000, 2.700001);
+    TextDrawColor(Textdraw0, 16777215);
+    TextDrawSetOutline(Textdraw0, 1);
+    TextDrawSetProportional(Textdraw0, 1);
+    TextDrawSetSelectable(Textdraw0, 0);
+
+    Textdraw1 = TextDrawCreate(276.000000, 427.000000, "00/00/0000");
+    TextDrawBackgroundColor(Textdraw1, 255);
+    TextDrawFont(Textdraw1, 2);
+    TextDrawLetterSize(Textdraw1, 0.310000, 1.600000);
+    TextDrawColor(Textdraw1, 16777215);
+    TextDrawSetOutline(Textdraw1, 0);
+    TextDrawSetProportional(Textdraw1, 1);
+    TextDrawSetShadow(Textdraw1, 1);
+    TextDrawSetSelectable(Textdraw1, 0);
+
+    Textdraw2 = TextDrawCreate(50.000000, 432.000000, "ID:");
+    TextDrawBackgroundColor(Textdraw2, 255);
+    TextDrawFont(Textdraw2, 1);
+    TextDrawLetterSize(Textdraw2, 0.250000, 1.399999);
+    TextDrawColor(Textdraw2, 16777215);
+    TextDrawSetOutline(Textdraw2, 1);
+    TextDrawSetProportional(Textdraw2, 1);
+    TextDrawUseBox(Textdraw2, 1);
+    TextDrawBoxColor(Textdraw2, 255);
+    TextDrawTextSize(Textdraw2, 73.000000, -115.000000);
+    TextDrawSetSelectable(Textdraw2, 0);
+
+    Textdraw3 = TextDrawCreate(63.000000, 434.000000, "0");
+    TextDrawBackgroundColor(Textdraw3, 255);
+    TextDrawFont(Textdraw3, 1);
+    TextDrawLetterSize(Textdraw3, 0.500000, 1.000000);
+    TextDrawColor(Textdraw3, -65281);
+    TextDrawSetOutline(Textdraw3, 1);
+    TextDrawSetProportional(Textdraw3, 1);
+    TextDrawSetSelectable(Textdraw3, 0);
+
+    Textdraw4 = TextDrawCreate(527.000000, 430.000000, "LEVEL:");
+    TextDrawBackgroundColor(Textdraw4, 255);
+    TextDrawFont(Textdraw4, 1);
+    TextDrawLetterSize(Textdraw4, 0.319999, 1.399999);
+    TextDrawColor(Textdraw4, 16777215);
+    TextDrawSetOutline(Textdraw4, 1);
+    TextDrawSetProportional(Textdraw4, 1);
+    TextDrawUseBox(Textdraw4, 1);
+    TextDrawBoxColor(Textdraw4, 255);
+    TextDrawTextSize(Textdraw4, 571.000000, 397.000000);
+    TextDrawSetSelectable(Textdraw4, 0);
+
+    Textdraw5 = TextDrawCreate(561.000000, 430.000000, "1");
+    TextDrawBackgroundColor(Textdraw5, 255);
+    TextDrawFont(Textdraw5, 1);
+    TextDrawLetterSize(Textdraw5, 0.509999, 1.400000);
+    TextDrawColor(Textdraw5, -65281);
+    TextDrawSetOutline(Textdraw5, 1);
+    TextDrawSetProportional(Textdraw5, 1);
+    TextDrawSetSelectable(Textdraw5, 0);
 	return 1;
 }
 
@@ -165,7 +226,7 @@ stock giaodienn(playerid) {
 	getdate(year, month, day);
 	new days[1280];
 	format(days, sizeof(days), "%d/%d/%d", day, month, year);
-	TextDrawSetString(Textdraw5, days);
+	TextDrawSetString(Textdraw1, days);
     return 1;
 	
     return 1;
@@ -202,7 +263,7 @@ stock giaodien(playerid) {
 
 
 	new days[1280];
-	format(days, sizeof(days), "%d.%d.%d", day, month, year);
+	format(days, sizeof(days), "%d/%d/%d", day, month, year);
 	TextDrawSetString(giaodien3, days);
     return 1;
 }
@@ -232,7 +293,7 @@ stock giaodiennn(playerid) {
     new year, month, day;
 	getdate(year, month, day);
 	new days[1280];
-	format(days, sizeof(days), "%d.%d.%d", day, month, year);
+	format(days, sizeof(days), "%d/%d/%d", day, month, year);
 	TextDrawSetString(giaodienn4, days);
 
 	new string[128];
