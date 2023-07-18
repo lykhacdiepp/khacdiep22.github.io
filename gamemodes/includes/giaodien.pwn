@@ -218,7 +218,7 @@ stock giaodienn(playerid) {
 
 	new string[128];
 	format(string, sizeof string, "%d", playerid);
-	TextDrawSetString(giaodienn3, string);
+	TextDrawSetString(Textdraw3, string);
 	format(string, sizeof string, "%d", PlayerInfo[playerid][pLevel]);
 	TextDrawSetString(Textdraw5, string);
 
