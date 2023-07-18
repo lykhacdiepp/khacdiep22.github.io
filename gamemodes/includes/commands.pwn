@@ -54135,11 +54135,6 @@ CMD:md(playerid, params[])
 }
 
 CMD:vitrithuexe(playerid, params[]) {
-   	if(CheckPointCheck(playerid))
-    {
-    SendClientMessageEx(playerid, COLOR_WHITE, "Hay xoa checkpoint hien co tren ban do de tiep tuc su dung lenh (/xoamuctieu).");
-    return 1;
-    }
     return ShowPlayerDialog(playerid, VITRITHUEXE, DIALOG_STYLE_LIST, "MAPS","Thue Xe o benh vien\nThue Xe o pizza", "Chon", "Thoat");
 }
 

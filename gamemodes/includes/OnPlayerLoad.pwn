@@ -732,14 +732,16 @@ public OnPlayerLoad(playerid)
 	}
     format(string, sizeof(string), "Dang Nhap Thanh Cong {CC0033}%s", GetPlayerNameEx(playerid));
 	SendClientMessageEx(playerid, COLOR_WHITE, string);
-	SendClientMessageEx(playerid, COLOR_WHITE, "[Tin Nhan He Thong] {007700}C{006699}ong {6699FF}D{770000}ong GTA Viet Roleplay (Mobile) "SERVER_GM_TEXT"");
-    return ShowPlayerDialog(playerid, GIAODIEN, DIALOG_STYLE_LIST, "GIAO DIEN","Giao Dien 1\nGiao Dien 2", "Chon", "Thoat");
-
-
+	SendClientMessageEx(playerid, COLOR_WHITE, "[Tin Nhan He Thong] {007700}C{006699}ong {6699FF}D{770000}ong GTA Viet Roleplay  "SERVER_GM_TEXT"");
+	SendClientMessageEx(playerid, COLOR_YELLOW, "[UPDATE 1.3] {eee8aa}cap nhat tinh nang giao dien nguoi choi /giaodien de thay doi giao dien  "SERVER_GM_TEXT"");
+	SendClientMessageEx(playerid, COLOR_YELLOW, "[UPDATE 1.3] {eee8aa}cap nhat tinh nang danh ba dien thoai /danhba de su dung  "SERVER_GM_TEXT"");
+    ShowPlayerDialog(playerid, GIAODIEN, DIALOG_STYLE_LIST, "GIAO DIEN","Giao Dien 1\nGiao Dien 2", "Chon", "Thoat");
+    
 	if(pMOTD[0]) { ShowPlayerDialog(playerid, PMOTDNOTICE, DIALOG_STYLE_MSGBOX, "Notice", pMOTD, "Dismiss", ""); }
 	else if(GetPVarInt(playerid, "NullEmail")) {
 		ShowPlayerDialog(playerid, NULLEMAIL, DIALOG_STYLE_INPUT, "{3399FF}Dang ky E-Mail", "{FFFFFF}Xin vui long nhap dia chi E-mail hop le de lien ket voi tai khoan.\n\nLuu y: Cung cap mot dia chi email khong hop le tai khoan se bi cham dut tai khoan.", "Xac nhan", "Bo qua");
 	}
+//    return ShowPlayerDialog(playerid, GIAODIEN, DIALOG_STYLE_LIST, "GIAO DIEN","Giao Dien 1\nGiao Dien 2", "Chon", "Thoat");
 	
     SetUnreadMailsNotification(playerid);
     #if defined zombiemode
