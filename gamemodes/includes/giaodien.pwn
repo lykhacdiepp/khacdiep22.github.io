@@ -165,7 +165,7 @@ stock giaodienn(playerid) {
 	getdate(year, month, day);
 	new days[1280];
 	format(days, sizeof(days), "%d/%d/%d", day, month, year);
-	TextDrawSetString(giaodienn1, days);
+	TextDrawSetString(Textdraw5, days);
     return 1;
 	
     return 1;
