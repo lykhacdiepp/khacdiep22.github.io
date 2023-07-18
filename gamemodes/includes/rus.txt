@@ -1,7 +1,6 @@
-C:\Users\Administrator\Desktop\Hungpc\GvR\gamemodes\includes\giaodien.pwn(76) : íåïðàâèëüíàÿ òàáóëÿöèÿ
-C:\Users\Administrator\Desktop\Hungpc\GvR\pawno\include\YSI\y_amx.inc(264) : ïðåäóïðåæäåíèå: ðåêóðñèÿ â AMX_GetGlobal
-Äëÿ îòêëþ÷åíèÿ âûâîäà ðåêóðñèé: #pragma disablerecursion
+C:\Users\Administrator\Desktop\Hungpc\GvR\gamemodes\includes\giaodien.pwn(130) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Administrator\Desktop\Hungpc\GvR\gamemodes\includes\giaodien.pwn(209) : îøèáêà 021: èäåíòèôèêàòîð "giaodien" óæå îáúÿâëåí
 Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
 
 
-Ïðåäóïðåæäåíèé:1.
+Îøèáîê:1.

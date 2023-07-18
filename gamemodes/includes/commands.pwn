@@ -54139,7 +54139,7 @@ CMD:vitrithuexe(playerid, params[]) {
 }
 
 CMD:giaodien(playerid, params[]) {
-    return ShowPlayerDialog(playerid, GIAODIEN, DIALOG_STYLE_LIST, "GIAO DIEN","Giao Dien 1\nGiao Dien 2", "Chon", "Thoat");
+    return ShowPlayerDialog(playerid, GIAODIEN, DIALOG_STYLE_LIST, "GIAO DIEN","Giao Dien 1\nGiao Dien 2\nGiao Dien 3", "Chon", "Thoat");
 }
 
 CMD:map(playerid, params[]) {
@@ -54157,5 +54157,9 @@ CMD:giaodien2(playerid, params[])	{
 }
 CMD:giaodien1(playerid, params[])	{
 	giaodienn(playerid);
+	return 1;
+}
+CMD:giaodien3(playerid, params[])	{
+	giaodiennn(playerid);
 	return 1;
 }

@@ -735,7 +735,7 @@ public OnPlayerLoad(playerid)
 	SendClientMessageEx(playerid, COLOR_WHITE, "[Tin Nhan He Thong] {007700}C{006699}ong {6699FF}D{770000}ong GTA Viet Roleplay  "SERVER_GM_TEXT"");
 	SendClientMessageEx(playerid, COLOR_YELLOW, "[UPDATE 1.3] {eee8aa}cap nhat tinh nang giao dien nguoi choi /giaodien de thay doi giao dien  "SERVER_GM_TEXT"");
 	SendClientMessageEx(playerid, COLOR_YELLOW, "[UPDATE 1.3] {eee8aa}cap nhat tinh nang danh ba dien thoai /danhba de su dung  "SERVER_GM_TEXT"");
-    ShowPlayerDialog(playerid, GIAODIEN, DIALOG_STYLE_LIST, "GIAO DIEN","Giao Dien 1\nGiao Dien 2", "Chon", "Thoat");
+    ShowPlayerDialog(playerid, GIAODIEN, DIALOG_STYLE_LIST, "GIAO DIEN","Giao Dien 1\nGiao Dien 2\nGiao Dien 3", "Chon", "Thoat");
     
 	if(pMOTD[0]) { ShowPlayerDialog(playerid, PMOTDNOTICE, DIALOG_STYLE_MSGBOX, "Notice", pMOTD, "Dismiss", ""); }
 	else if(GetPVarInt(playerid, "NullEmail")) {

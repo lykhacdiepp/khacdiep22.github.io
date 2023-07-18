@@ -37,9 +37,9 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
                 return cmd_giaodien2(playerid, "");
 //				PlayerPlaySound(playerid,1149,0.0,0.0,0.0);
             }
-            else if(listitem == 1)// Vi tri san xuat
+            else if(listitem == 2)// Vi tri san xuat
             {
-                return cmd_vitrithuexe(playerid, "");
+                return cmd_giaodien3(playerid, "");
 //				PlayerPlaySound(playerid,1149,0.0,0.0,0.0);
             }
         }
@@ -58,7 +58,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
                 return cmd_timduong(playerid, "");
 //				PlayerPlaySound(playerid,1149,0.0,0.0,0.0);
             }
-            else if(listitem == 1)// Vi tri san xuat
+            else if(listitem == 2)// Vi tri san xuat
             {
                 return cmd_vitrithuexe(playerid, "");
 //				PlayerPlaySound(playerid,1149,0.0,0.0,0.0);

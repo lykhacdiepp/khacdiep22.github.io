@@ -2,16 +2,70 @@
 #include <a_samp>
 #include <YSI\y_hooks>
 
-
+//2
 new Text:giaodien0;
 new Text:giaodien1;
 new Text:giaodien2;
 new Text:giaodien3;
 new Text:giaodien4;
 new Text:giaodien5;
+//3
+new Text:giaodienn0;
+new Text:giaodienn1;
+new Text:giaodienn2;
+new Text:giaodienn3;
+new Text:giaodienn4;
 
 
     hook OnPlayerConnect(playerid)  {
+    //3
+giaodienn0 = TextDrawCreate(300.000000, 424.000000, "viet-game");
+TextDrawBackgroundColor(giaodienn0, 255);
+TextDrawFont(giaodienn0, 3);
+TextDrawLetterSize(giaodienn0, 0.350000, 1.700000);
+TextDrawColor(giaodienn0, -16776961);
+TextDrawSetOutline(giaodienn0, 1);
+TextDrawSetProportional(giaodienn0, 1);
+TextDrawSetSelectable(giaodienn0, 0);
+
+giaodienn1 = TextDrawCreate(16.000000, 431.000000, "id:");
+TextDrawBackgroundColor(giaodienn1, -65281);
+TextDrawFont(giaodienn1, 3);
+TextDrawLetterSize(giaodienn1, 0.300000, 1.400000);
+TextDrawColor(giaodienn1, 255);
+TextDrawSetOutline(giaodienn1, 1);
+TextDrawSetProportional(giaodienn1, 1);
+TextDrawSetSelectable(giaodienn1, 0);
+
+giaodienn2 = TextDrawCreate(31.000000, 433.000000, "0");
+TextDrawBackgroundColor(giaodienn2, -65281);
+TextDrawFont(giaodienn2, 3);
+TextDrawLetterSize(giaodienn2, 0.500000, 1.000000);
+TextDrawColor(giaodienn2, 255);
+TextDrawSetOutline(giaodienn2, 1);
+TextDrawSetProportional(giaodienn2, 1);
+TextDrawSetSelectable(giaodienn2, 0);
+
+giaodienn3 = TextDrawCreate(472.000000, 5.000000, "00:00");
+TextDrawBackgroundColor(giaodienn3, 255);
+TextDrawFont(giaodienn3, 3);
+TextDrawLetterSize(giaodienn3, 0.490000, 1.300000);
+TextDrawColor(giaodienn3, 16711935);
+TextDrawSetOutline(giaodienn3, 0);
+TextDrawSetProportional(giaodienn3, 1);
+TextDrawSetShadow(giaodienn3, 1);
+TextDrawSetSelectable(giaodienn3, 0);
+
+giaodienn4 = TextDrawCreate(472.000000, 19.000000, "18.07.2023");
+TextDrawBackgroundColor(giaodienn4, -16711681);
+TextDrawFont(giaodienn4, 3);
+TextDrawLetterSize(giaodienn4, 0.440000, 1.300000);
+TextDrawColor(giaodienn4, -1);
+TextDrawSetOutline(giaodienn4, 1);
+TextDrawSetProportional(giaodienn4, 1);
+TextDrawSetSelectable(giaodienn4, 0);
+    
+    //2
 giaodien0 = TextDrawCreate(300.000000, 424.000000, "00:00");
 TextDrawBackgroundColor(giaodien0, 255);
 TextDrawFont(giaodien0, 3);
@@ -86,17 +140,24 @@ stock giaodienn(playerid) {
     TextDrawHideForPlayer(playerid, giaodien2);
 	TextDrawHideForPlayer(playerid, giaodien3);
     TextDrawHideForPlayer(playerid, giaodien4);
+    
+    TextDrawHideForPlayer(playerid, giaodienn0);
+	TextDrawHideForPlayer(playerid, giaodienn1);
+    TextDrawHideForPlayer(playerid, giaodienn2);
+	TextDrawHideForPlayer(playerid, giaodienn3);
+    TextDrawHideForPlayer(playerid, giaodienn4);
+    
 
     TextDrawShowForPlayer(playerid, Textdraw0);
     TextDrawShowForPlayer(playerid, Textdraw1);
     TextDrawShowForPlayer(playerid, Textdraw2);
     TextDrawShowForPlayer(playerid, Textdraw3);
     TextDrawShowForPlayer(playerid, Textdraw4);
-    TextDrawShowForPlayer(playerid, Textdraw5);
+//    TextDrawShowForPlayer(playerid, Textdraw5);
 
 	new string[128];
 	format(string, sizeof string, "%d", playerid);
-	TextDrawSetString(Textdraw3, string);
+	TextDrawSetString(giaodienn3, string);
 	format(string, sizeof string, "%d", PlayerInfo[playerid][pLevel]);
 	TextDrawSetString(Textdraw5, string);
 
@@ -104,7 +165,7 @@ stock giaodienn(playerid) {
 	getdate(year, month, day);
 	new days[1280];
 	format(days, sizeof(days), "%d/%d/%d", day, month, year);
-	TextDrawSetString(Textdraw1, days);
+	TextDrawSetString(giaodienn1, days);
     return 1;
 	
     return 1;
@@ -116,7 +177,7 @@ stock giaodien(playerid) {
     TextDrawShowForPlayer(playerid, giaodien2);
 	TextDrawShowForPlayer(playerid, giaodien3);
     TextDrawShowForPlayer(playerid, giaodien4);
- //   TextDrawShowForPlayer(playerid, giaodien5);
+  //  TextDrawShowForPlayer(playerid, giaodien5);
     
     TextDrawHideForPlayer(playerid, Textdraw0);
     TextDrawHideForPlayer(playerid, Textdraw1);
@@ -124,12 +185,55 @@ stock giaodien(playerid) {
     TextDrawHideForPlayer(playerid, Textdraw3);
     TextDrawHideForPlayer(playerid, Textdraw4);
     TextDrawHideForPlayer(playerid, Textdraw5);
+    
+    TextDrawHideForPlayer(playerid, giaodienn0);
+	TextDrawHideForPlayer(playerid, giaodienn1);
+    TextDrawHideForPlayer(playerid, giaodienn2);
+	TextDrawHideForPlayer(playerid, giaodienn3);
+    TextDrawHideForPlayer(playerid, giaodienn4);
 
     new year, month, day;
 	getdate(year, month, day);
 	new string[128];
 	format(string, sizeof string, "%d", playerid);
 	TextDrawSetString(giaodien2, string);
+/*	format(string, sizeof string, "%d", PlayerInfo[playerid][pLevel]);
+	TextDrawSetString(Textdraw5, string);*/
+
+
+	new days[1280];
+	format(days, sizeof(days), "%d.%d.%d", day, month, year);
+	TextDrawSetString(giaodien3, days);
+    return 1;
+}
+stock giaodiennn(playerid) {
+
+    TextDrawShowForPlayer(playerid, giaodienn0);
+	TextDrawShowForPlayer(playerid, giaodienn1);
+    TextDrawShowForPlayer(playerid, giaodienn2);
+	TextDrawShowForPlayer(playerid, giaodienn3);
+    TextDrawShowForPlayer(playerid, giaodienn4);
+
+    TextDrawHideForPlayer(playerid, giaodien0);
+	TextDrawHideForPlayer(playerid, giaodien1);
+    TextDrawHideForPlayer(playerid, giaodien2);
+	TextDrawHideForPlayer(playerid, giaodien3);
+    TextDrawHideForPlayer(playerid, giaodien4);
+ //   TextDrawShowForPlayer(playerid, giaodien5);
+
+    TextDrawHideForPlayer(playerid, Textdraw0);
+    TextDrawHideForPlayer(playerid, Textdraw1);
+    TextDrawHideForPlayer(playerid, Textdraw2);
+    TextDrawHideForPlayer(playerid, Textdraw3);
+    TextDrawHideForPlayer(playerid, Textdraw4);
+    TextDrawHideForPlayer(playerid, Textdraw5);
+    
+
+    new year, month, day;
+	getdate(year, month, day);
+	new string[128];
+	format(string, sizeof string, "%d", playerid);
+	TextDrawSetString(giaodienn4, string);
 /*	format(string, sizeof string, "%d", PlayerInfo[playerid][pLevel]);
 	TextDrawSetString(Textdraw5, string);*/
 
