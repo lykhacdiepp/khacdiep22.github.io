@@ -153,7 +153,7 @@ stock giaodienn(playerid) {
     TextDrawShowForPlayer(playerid, Textdraw2);
     TextDrawShowForPlayer(playerid, Textdraw3);
     TextDrawShowForPlayer(playerid, Textdraw4);
-//    TextDrawShowForPlayer(playerid, Textdraw5);
+    TextDrawShowForPlayer(playerid, Textdraw5);
 
 	new string[128];
 	format(string, sizeof string, "%d", playerid);
