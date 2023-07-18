@@ -233,13 +233,13 @@ stock giaodiennn(playerid) {
 	getdate(year, month, day);
 	new string[128];
 	format(string, sizeof string, "%d", playerid);
-	TextDrawSetString(giaodienn4, string);
+	TextDrawSetString(giaodienn2, string);
 /*	format(string, sizeof string, "%d", PlayerInfo[playerid][pLevel]);
 	TextDrawSetString(Textdraw5, string);*/
 
 
 	new days[1280];
 	format(days, sizeof(days), "%d.%d.%d", day, month, year);
-	TextDrawSetString(giaodien3, days);
+	TextDrawSetString(giaodien4, days);
     return 1;
 }
