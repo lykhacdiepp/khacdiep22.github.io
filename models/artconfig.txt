@@ -1,0 +1,2 @@
+AddSimpleModel(-1,19379, -2001, "object.dff", "huongdan.txd");
+AddSimpleModel(-1,19379, -2002, "object.dff", "sukien.txd");

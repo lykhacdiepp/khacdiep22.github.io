@@ -2,7 +2,7 @@ new DASign = CreateDynamicObject(19482, -1442.3425, -1177.5278, 109.3145, 0.0000
 SetDynamicObjectMaterialText(DASign, 0, "DONAHUE ACRES", 80, "Myriad Pro", 40, 1, -65536, 0, 1);
 
 new devin = CreateDynamicObject(19477, 1654.4132, 1460.9488, 1145.5061, 0.0000, 0.0000, 0.0955);
-SetDynamicObjectMaterialText(devin, 0, "DEVIN", 60, "Times New Roman", 0, 1, -16776961, 0, 1);
+SetDynamicObjectMaterialText(devin, 0, "Dawkin", 60, "Times New Roman", 0, 1, -16776961, 0, 1);
 
 new statue_nick = CreateDynamicObject(19477, 1654.7705, 1458.2836, 1145.4669, 0.0000, 0.0000, 14.9819);
 SetDynamicObjectMaterialText(statue_nick, 0, "NICK", 60, "Times New Roman", 24, 1, -8092540, 0, 1);

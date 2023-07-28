@@ -1,6 +1,6 @@
 /* ---------------------------------
-         FCNPC Plugin PAWN include
-
+	 FCNPC Plugin PAWN include
+		
 - File: FCNPC.inc
 - Author: OrMisicL
 ---------------------------------*/
@@ -12,17 +12,19 @@
 #pragma library FCNPC
 
 // Definitions
-#define MOVE_TYPE_WALK          0
-#define MOVE_TYPE_RUN           1
-#define MOVE_TYPE_SPRINT        2
-#define MOVE_TYPE_DRIVE         3
+#define INVALID_ENTITY_ID	(0xFFFF)
 
-#define MAX_NODES                       64
+#define MOVE_TYPE_WALK		0
+#define MOVE_TYPE_RUN		1
+#define MOVE_TYPE_SPRINT	2
+#define MOVE_TYPE_DRIVE		3
 
-#define NODE_TYPE_NONE          (-1)
-#define NODE_TYPE_PED           0
-#define NODE_TYPE_VEHICLE       1
-#define NODE_TYPE_BOAT          2
+#define MAX_NODES			64
+
+#define NODE_TYPE_NONE		(-1)
+#define NODE_TYPE_PED		0
+#define NODE_TYPE_VEHICLE	1
+#define NODE_TYPE_BOAT		2
 
 // Callbacks
 forward FCNPC_OnCreate(npcid);
@@ -30,8 +32,9 @@ forward FCNPC_OnSpawn(npcid);
 forward FCNPC_OnRespawn(npcid);
 forward FCNPC_OnDeath(npcid, killerid, weaponid);
 
-forward FCNPC_OnVehicleEntryComplete(npcid, vehicleid, seat);
-forward FCNPC_OnVehicleExitComplete(npcid);
+// Temporarily disabled until a further notice
+/*forward FCNPC_OnVehicleEntryComplete(npcid, vehicleid, seat);
+forward FCNPC_OnVehicleExitComplete(npcid);*/
 
 forward FCNPC_OnReachDestination(npcid);
 forward FCNPC_OnFinishPlayback(npcid);
@@ -44,7 +47,7 @@ forward FCNPC_OnFinishNode(npcid);
 
 // Natives
 native FCNPC_SetUpdateRate(rate);
-native FCNPC_InitZMap(filename[]);
+native FCNPC_InitZMap(file[]);
 
 native FCNPC_Create(name[]);
 native FCNPC_Destroy(npcid);
@@ -96,8 +99,10 @@ native FCNPC_IsAiming(npcid);
 native FCNPC_IsShooting(npcid);
 native FCNPC_IsReloading(npcid);
 
-native FCNPC_EnterVehicle(npcid, vehicleid, seatid, type);
-native FCNPC_ExitVehicle(npcid);
+// Temporarily disabled until a further notice
+/*native FCNPC_EnterVehicle(npcid, vehicleid, seatid, type);
+native FCNPC_ExitVehicle(npcid);*/
+
 native FCNPC_PutInVehicle(npcid, vehicleid, seatid);
 native FCNPC_RemoveFromVehicle(npcid);
 native FCNPC_GetVehicleID(npcid);

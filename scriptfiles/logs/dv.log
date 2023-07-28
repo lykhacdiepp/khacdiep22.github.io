@@ -1,239 +1,59 @@
-[2020/12/17 - 18:10:29] GsViet has created a dynamic vehicle.
-[2020/12/17 - 18:10:29] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 1
-[2020/12/17 - 18:12:16] GsViet has created a dynamic vehicle.
-[2020/12/17 - 18:12:16] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 2
-[2020/12/17 - 18:12:20] GsViet has created a dynamic vehicle.
-[2020/12/17 - 18:12:20] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 3
-[2020/12/17 - 18:13:18] GsViet has created a dynamic vehicle.
-[2020/12/17 - 18:13:18] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 4
-[2020/12/17 - 18:13:21] GsViet has created a dynamic vehicle.
-[2020/12/17 - 18:13:22] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 5
-[2020/12/17 - 18:13:26] GsViet has created a dynamic vehicle.
-[2020/12/17 - 18:13:26] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 6
-[2020/12/18 - 4:36:17] GsViet has edited DV Slot 3 - 161 groupid 4.
-[2020/12/18 - 4:37:31] GsViet has edited DV Slot 2 - 160 groupid 4.
-[2020/12/18 - 4:38:05] GsViet has edited DV Slot 1 - 159 groupid 4.
-[2020/12/18 - 4:44:12] GsViet has edited DV Slot 4 - 162 groupid 4.
-[2020/12/18 - 4:45:52] GsViet has edited DV Slot 5 - 163 groupid 4.
-[2020/12/18 - 5:38:06] GsViet has edited DV Slot 6 - 164 groupid 4.
-[2020/12/18 - 6:24:34] GsViet has created a dynamic vehicle.
-[2020/12/18 - 6:24:34] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 7
-[2020/12/18 - 6:28:50] GsViet has edited DV Slot 7 - 165 vtype 1 1.
-[2020/12/18 - 6:29:28] GsViet has edited DV Slot 7 - 165 vip 1 1.
-[2020/12/18 - 6:29:36] GsViet has edited DV Slot 7 - 165 divid 1 1.
-[2020/12/18 - 6:30:36] GsViet has edited DV Slot 7 - 165 divid 1 0.
-[2020/12/18 - 6:31:06] GsViet has edited DV Slot 7 - 165 upkeep 1 1.
-[2020/12/18 - 6:31:18] GsViet has edited DV Slot 7 - 165 rank 1 1.
-[2020/12/18 - 6:31:31] GsViet has edited DV Slot 7 - 165 vw 1 1.
-[2020/12/18 - 6:31:34] GsViet has edited DV Slot 7 - 165 vw 1 1.
-[2020/12/18 - 6:31:44] GsViet has edited DV Slot 7 - 165 delete  1 1.
-[2020/12/18 - 6:47:44] GsViet has created a dynamic vehicle.
-[2020/12/18 - 6:47:44] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 7
-[2020/12/18 - 6:48:50] GsViet has edited DV Slot 7 - 165 delete 1.
-[2020/12/18 - 6:49:21] GsViet has created a dynamic vehicle.
-[2020/12/18 - 6:49:21] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 7
-[2020/12/18 - 6:49:34] GsViet has created a dynamic vehicle.
-[2020/12/18 - 6:49:34] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 8
-[2020/12/18 - 6:49:41] GsViet has created a dynamic vehicle.
-[2020/12/18 - 6:49:41] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 9
-[2020/12/18 - 6:49:56] GsViet has edited DV Slot 9 - 167 delete 1.
-[2020/12/18 - 6:49:59] GsViet has edited DV Slot 8 - 166 delete 1.
-[2020/12/18 - 6:50:03] GsViet has edited DV Slot 7 - 165 delete 1.
-[2020/12/18 - 6:50:41] GsViet has created a dynamic vehicle.
-[2020/12/18 - 6:50:41] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 7
-[2020/12/18 - 6:50:56] GsViet has created a dynamic vehicle.
-[2020/12/18 - 6:50:56] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 8
-[2020/12/18 - 6:50:58] GsViet has created a dynamic vehicle.
-[2020/12/18 - 6:50:58] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 9
-[2020/12/18 - 6:51:15] GsViet has edited DV Slot 9 - 167 groupid.
-[2020/12/18 - 6:51:43] GsViet has edited DV Slot 9 - 167 groupid 1.
-[2020/12/18 - 6:51:50] GsViet has edited DV Slot 8 - 166 groupid 1.
-[2020/12/18 - 6:51:53] GsViet has edited DV Slot 7 - 165 groupid 1.
-[2020/12/18 - 6:52:33] GsViet has edited DV Slot 7 - 165 delete 1.
-[2020/12/18 - 6:52:40] GsViet has created a dynamic vehicle.
-[2020/12/18 - 6:52:40] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 7
-[2020/12/18 - 6:52:50] GsViet has edited DV Slot 7 - 165 groupid 1.
-[2020/12/18 - 6:53:43] GsViet has edited DV Slot 7 - 165 upkeep 1 1.
-[2020/12/18 - 6:53:54] GsViet has edited DV Slot 7 - 165 upkeep 1 0.
-[2020/12/18 - 6:53:57] GsViet has edited DV Slot 7 - 165 upkeep 0 0.
-[2020/12/18 - 6:54:27] GsViet has edited DV Slot 7 - 165 divid 1 0.
-[2020/12/18 - 6:55:10] GsViet has edited DV Slot 7 - 165 vw 1 324.
-[2020/12/18 - 6:56:34] GsViet has edited DV Slot 7 - 165 delete 1 1.
-[2020/12/18 - 6:57:08] GsViet has created a dynamic vehicle.
-[2020/12/18 - 6:57:08] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 7
-[2020/12/18 - 6:57:29] GsViet has edited DV Slot 7 - 165 vtype 1 1.
-[2020/12/18 - 6:57:37] GsViet has edited DV Slot 7 - 165 vtype 0.
-[2020/12/18 - 6:58:07] GsViet has edited DV Slot 7 - 165 groupid 1.
-[2020/12/18 - 7:01:15] GsViet has created a dynamic vehicle.
-[2020/12/18 - 7:01:15] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 10
-[2020/12/18 - 7:02:33] GsViet has edited DV Slot 10 - 169 groupid 1.
-[2020/12/18 - 7:02:41] GsViet has created a dynamic vehicle.
-[2020/12/18 - 7:02:41] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 11
-[2020/12/18 - 7:02:48] GsViet has edited DV Slot 11 - 170 groupid 1.
-[2020/12/18 - 7:04:16] GsViet has created a dynamic vehicle.
-[2020/12/18 - 7:04:16] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 12
-[2020/12/18 - 7:04:50] GsViet has edited DV Slot 12 - 171 groupid 1.
-[2020/12/18 - 7:04:58] GsViet has created a dynamic vehicle.
-[2020/12/18 - 7:04:58] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 13
-[2020/12/18 - 7:05:06] GsViet has edited DV Slot 13 - 172 groupid 1.
-[2020/12/18 - 7:05:36] GsViet has created a dynamic vehicle.
-[2020/12/18 - 7:05:36] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 14
-[2020/12/18 - 7:05:44] GsViet has edited DV Slot 14 - 173 groupid 1.
-[2020/12/18 - 7:07:02] GsViet has created a dynamic vehicle.
-[2020/12/18 - 7:07:02] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 15
-[2020/12/18 - 7:07:08] GsViet has edited DV Slot 15 - 174 groupid 1.
-[2020/12/18 - 7:31:11] GsViet has created a dynamic vehicle.
-[2020/12/18 - 7:31:11] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 16
-[2020/12/18 - 7:31:20] GsViet has created a dynamic vehicle.
-[2020/12/18 - 7:31:20] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 18
-[2020/12/18 - 7:31:24] GsViet has created a dynamic vehicle.
-[2020/12/18 - 7:31:24] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 19
-[2020/12/18 - 7:31:53] GsViet has edited DV Slot 16 - 175 groupid.
-[2020/12/18 - 7:32:02] GsViet has edited DV Slot 16 - 175 groupid 17.
-[2020/12/18 - 7:32:09] GsViet has edited DV Slot 18 - 176 groupid 17.
-[2020/12/18 - 7:32:13] GsViet has edited DV Slot 19 - 177 groupid 17.
-[2020/12/18 - 23:12:03] GsViet has created a dynamic vehicle.
-[2020/12/18 - 23:12:03] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 1
-[2020/12/18 - 23:12:18] GsViet has created a dynamic vehicle.
-[2020/12/18 - 23:12:18] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 2
-[2020/12/18 - 23:12:22] GsViet has created a dynamic vehicle.
-[2020/12/18 - 23:12:22] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 3
-[2020/12/18 - 23:12:29] GsViet has created a dynamic vehicle.
-[2020/12/18 - 23:12:29] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 4
-[2020/12/18 - 23:12:33] GsViet has created a dynamic vehicle.
-[2020/12/18 - 23:12:33] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 5
-[2020/12/18 - 23:12:35] GsViet has created a dynamic vehicle.
-[2020/12/18 - 23:12:35] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 6
-[2020/12/18 - 23:13:11] GsViet has edited DV Slot 1 - 162 groupid 4.
-[2020/12/18 - 23:13:36] GsViet has edited DV Slot 2 - 163 groupid  4.
-[2020/12/18 - 23:13:59] GsViet has edited DV Slot 3 - 164 groupid 4.
-[2020/12/18 - 23:14:26] GsViet has edited DV Slot 6 - 167 groupid 4.
-[2020/12/18 - 23:14:57] GsViet has edited DV Slot 4 - 165 groupid 4.
-[2020/12/18 - 23:15:25] GsViet has edited DV Slot 5 - 166 groupid 4.
-[2020/12/18 - 23:22:40] GsViet has created a dynamic vehicle.
-[2020/12/18 - 23:22:40] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 7
-[2020/12/18 - 23:22:55] GsViet has created a dynamic vehicle.
-[2020/12/18 - 23:22:55] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 8
-[2020/12/18 - 23:23:30] GsViet has created a dynamic vehicle.
-[2020/12/18 - 23:23:30] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 9
-[2020/12/18 - 23:34:10] Daniel James has created a dynamic vehicle.
-[2020/12/18 - 23:34:10] Daniel James's DV Creation query has returned - attempting to spawn vehicle - SQL ID 10
-[2020/12/18 - 23:35:40] Daniel James has edited DV Slot 10 - 172 delete.
-[2020/12/18 - 23:35:50] Daniel James has created a dynamic vehicle.
-[2020/12/18 - 23:35:50] Daniel James's DV Creation query has returned - attempting to spawn vehicle - SQL ID 10
-[2020/12/18 - 23:36:57] Daniel James has edited DV Slot 10 - 172 groupid 1.
-[2020/12/18 - 23:37:05] GsViet has created a dynamic vehicle.
-[2020/12/18 - 23:37:05] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 11
-[2020/12/18 - 23:37:47] GsViet has created a dynamic vehicle.
-[2020/12/18 - 23:37:47] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 12
-[2020/12/18 - 23:38:28] GsViet has created a dynamic vehicle.
-[2020/12/18 - 23:38:28] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 13
-[2020/12/18 - 23:38:31] GsViet has created a dynamic vehicle.
-[2020/12/18 - 23:38:31] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 14
-[2020/12/18 - 23:39:35] GsViet has created a dynamic vehicle.
-[2020/12/18 - 23:39:35] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 15
-[2020/12/18 - 23:39:51] Daniel James has edited DV Slot 14 - 176 delete.
-[2020/12/18 - 23:40:06] Daniel James has edited DV Slot 13 - 175 delete.
-[2020/12/18 - 23:40:16] Daniel James has edited DV Slot 12 - 174 delte.
-[2020/12/18 - 23:40:20] Daniel James has edited DV Slot 12 - 174 delete.
-[2020/12/18 - 23:40:32] Daniel James has edited DV Slot 11 - 173 delete.
-[2020/12/18 - 23:40:33] GsViet has created a dynamic vehicle.
-[2020/12/18 - 23:40:33] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 11
-[2020/12/18 - 23:40:41] Daniel James has edited DV Slot 11 - 173 delete.
-[2020/12/18 - 23:40:49] GsViet has created a dynamic vehicle.
-[2020/12/18 - 23:40:49] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 11
-[2020/12/18 - 23:41:00] GsViet has created a dynamic vehicle.
-[2020/12/18 - 23:41:00] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 12
-[2020/12/18 - 23:41:03] Daniel James has edited DV Slot 15 - 177 delete.
-[2020/12/18 - 23:41:41] Daniel James has edited DV Slot 7 - 165 delete.
-[2020/12/18 - 23:41:51] Daniel James has edited DV Slot 6 - 164 delete.
-[2020/12/18 - 23:42:13] Daniel James has edited DV Slot 8 - 166 delete.
-[2020/12/18 - 23:43:56] GsViet has edited DV Slot 12 - 174 delste.
-[2020/12/18 - 23:43:57] Daniel James has created a dynamic vehicle.
-[2020/12/18 - 23:43:57] Daniel James's DV Creation query has returned - attempting to spawn vehicle - SQL ID 6
-[2020/12/18 - 23:44:01] GsViet has edited DV Slot 12 - 174 delete.
-[2020/12/18 - 23:44:09] GsViet has edited DV Slot 11 - 173 delete.
-[2020/12/18 - 23:44:13] Daniel James has edited DV Slot 6 - 164 delete.
-[2020/12/18 - 23:44:17] GsViet has edited DV Slot 10 - 172 dete.
-[2020/12/18 - 23:44:18] Daniel James has created a dynamic vehicle.
-[2020/12/18 - 23:44:18] Daniel James's DV Creation query has returned - attempting to spawn vehicle - SQL ID 6
-[2020/12/18 - 23:44:23] GsViet has edited DV Slot 10 - 172 delete.
-[2020/12/18 - 23:44:55] Daniel James has created a dynamic vehicle.
-[2020/12/18 - 23:44:55] Daniel James's DV Creation query has returned - attempting to spawn vehicle - SQL ID 7
-[2020/12/19 - 8:44:16] GsViet has edited DV Slot 7 - 165 groupid 1.
-[2020/12/19 - 8:44:52] GsViet has edited DV Slot 7 - 165 groupid 1.
-[2020/12/19 - 8:45:14] GsViet has edited DV Slot 6 - 164 groupid 1.
-[2020/12/19 - 8:48:51] GsViet has edited DV Slot 9 - 174 delete.
-[2020/12/19 - 21:43:27] Daniel James has created a dynamic vehicle.
-[2020/12/19 - 21:43:27] Daniel James's DV Creation query has returned - attempting to spawn vehicle - SQL ID 8
-[2020/12/19 - 21:44:10] Daniel James has created a dynamic vehicle.
-[2020/12/19 - 21:44:10] Daniel James's DV Creation query has returned - attempting to spawn vehicle - SQL ID 9
-[2020/12/19 - 21:44:36] Daniel James has created a dynamic vehicle.
-[2020/12/19 - 21:44:36] Daniel James's DV Creation query has returned - attempting to spawn vehicle - SQL ID 10
-[2020/12/19 - 21:45:46] Daniel James has created a dynamic vehicle.
-[2020/12/19 - 21:45:46] Daniel James's DV Creation query has returned - attempting to spawn vehicle - SQL ID 11
-[2020/12/19 - 22:10:04] GsViet has created a dynamic vehicle.
-[2020/12/19 - 22:10:04] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 12
-[2020/12/19 - 22:10:17] GsViet has created a dynamic vehicle.
-[2020/12/19 - 22:10:17] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 13
-[2020/12/19 - 22:10:51] GsViet has edited DV Slot 12 - 175 delete.
-[2020/12/19 - 22:10:58] GsViet has created a dynamic vehicle.
-[2020/12/19 - 22:10:58] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 12
-[2020/12/19 - 22:11:23] GsViet has edited DV Slot 12 - 175 groupid 1.
-[2020/12/19 - 22:11:50] GsViet has edited DV Slot 13 - 176 groupid 1.
-[2020/12/19 - 22:13:45] GsViet has edited DV Slot 13 - 176 maxhealth .
-[2020/12/19 - 22:13:59] GsViet has edited DV Slot 13 - 176 maxhealth 2000.
-[2020/12/19 - 22:14:11] GsViet has edited DV Slot 13 - 176 health 2000.
-[2020/12/19 - 22:14:15] GsViet has edited DV Slot 13 - 176 health 2000 1.
-[2020/12/19 - 22:14:20] GsViet has edited DV Slot 13 - 176 health 2000 2.
-[2020/12/19 - 22:16:11] GsViet has created a dynamic vehicle.
-[2020/12/19 - 22:16:11] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 14
-[2020/12/19 - 22:16:26] GsViet has edited DV Slot 14 - 181 delete.
-[2020/12/19 - 22:16:36] GsViet has created a dynamic vehicle.
-[2020/12/19 - 22:16:36] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 14
-[2020/12/19 - 22:16:38] GsViet has created a dynamic vehicle.
-[2020/12/19 - 22:16:39] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 15
-[2020/12/19 - 22:17:48] GsViet has created a dynamic vehicle.
-[2020/12/19 - 22:17:48] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 16
-[2020/12/19 - 22:18:02] GsViet has edited DV Slot 14 - 181 groupid 1.
-[2020/12/19 - 22:18:07] GsViet has edited DV Slot 15 - 182 groupid 1.
-[2020/12/19 - 22:18:11] GsViet has edited DV Slot 16 - 183 groupid 1.
-[2020/12/19 - 22:21:24] GsViet has edited DV Slot 16 - 183 rank 7.
-[2020/12/19 - 22:24:01] GsViet has edited DV Slot 13 - 176 rank 2.
-[2020/12/19 - 22:24:05] GsViet has edited DV Slot 12 - 175 rank 2.
-[2020/12/19 - 22:24:19] GsViet has edited DV Slot 14 - 181 rank 3.
-[2020/12/19 - 22:24:23] GsViet has edited DV Slot 15 - 182 rank 3.
-[2020/12/19 - 22:33:29] GsViet has created a dynamic vehicle.
-[2020/12/19 - 22:33:29] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 18
-[2020/12/19 - 22:33:35] GsViet has created a dynamic vehicle.
-[2020/12/19 - 22:33:35] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 19
-[2020/12/19 - 22:34:02] GsViet has edited DV Slot 18 - 187 groupid 17.
-[2020/12/19 - 22:34:06] GsViet has edited DV Slot 19 - 188 groupid 17.
-[2020/12/27 - 13:38:19] GsViet has created a dynamic vehicle.
-[2020/12/27 - 13:38:19] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 20
-[2020/12/27 - 13:38:59] GsViet has created a dynamic vehicle.
-[2020/12/27 - 13:38:59] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 21
-[2020/12/27 - 13:39:30] GsViet has edited DV Slot 21 - 172 groupid 1.
-[2020/12/27 - 13:39:36] GsViet has edited DV Slot 20 - 171 groupid 1.
-[2020/12/27 - 13:41:55] GsViet has edited DV Slot 20 - 171 maxhealth 3000.
-[2020/12/27 - 13:48:54] GsViet has created a dynamic vehicle.
-[2020/12/27 - 13:48:54] GsViet's DV Creation query has returned - attempting to spawn vehicle - SQL ID 22
-[2020/12/27 - 13:49:31] GsViet has edited DV Slot 22 - 172 maxhealth 3000.
-[2020/12/27 - 13:52:58] GsViet has edited DV Slot 22 - 172 rank 3.
-[2020/12/27 - 13:54:44] GsViet has edited DV Slot 7 - 173 maxhealth.
-[2020/12/27 - 13:54:48] GsViet has edited DV Slot 7 - 173 maxhealth 2000.
-[2020/12/27 - 13:54:59] GsViet has edited DV Slot 6 - 164 maxhealth 2000.
-[2020/12/27 - 13:55:15] GsViet has edited DV Slot 12 - 165 maxhealth 2500.
-[2020/12/27 - 13:55:19] GsViet has edited DV Slot 13 - 166 maxhealth 2500.
-[2020/12/27 - 13:55:35] GsViet has edited DV Slot 14 - 167 maxhealth 3000.
-[2020/12/27 - 13:55:39] GsViet has edited DV Slot 15 - 168 maxhealth 3000.
-[2020/12/27 - 13:55:48] GsViet has edited DV Slot 16 - 169 maxhealth 8000.
-[2020/12/27 - 13:57:25] GsViet has edited DV Slot 1 - 159 maxhealth 1500.
-[2020/12/27 - 13:57:31] GsViet has edited DV Slot 2 - 160 maxhealth 1500.
-[2020/12/27 - 13:57:40] GsViet has edited DV Slot 3 - 161 maxhealth 1500.
-[2020/12/27 - 13:57:45] GsViet has edited DV Slot 4 - 162 maxhealth 1500.
-[2020/12/27 - 13:57:49] GsViet has edited DV Slot 5 - 163 maxhealth 1500.
-[2020/12/27 - 13:58:57] GsViet has edited DV Slot 18 - 170 maxhealth 3000.
-[2020/12/27 - 13:59:04] GsViet has edited DV Slot 19 - 171 maxhealth 3000.
-[2020/12/27 - 13:59:15] GsViet has edited DV Slot 18 - 170 maxhealth 2000.
-[2020/12/27 - 13:59:18] GsViet has edited DV Slot 19 - 171 maxhealth 2000.
+[2022/7/28 - 8:25:17] Viet Cong has edited DV Slot 54 - 133 delete.
+[2022/7/28 - 8:27:45] Viet Cong has edited DV Slot 62 - 138 delete.
+[2022/7/28 - 8:27:55] Viet Cong has edited DV Slot 61 - 137 delete.
+[2022/7/28 - 8:28:18] Viet Cong has edited DV Slot 57 - 134 delete.
+[2022/7/28 - 8:30:37] Viet Cong has created a dynamic vehicle.
+[2022/7/28 - 8:30:37] Viet Cong's DV Creation query has returned - attempting to spawn vehicle - SQL ID 47
+[2022/7/28 - 8:30:42] Viet Cong has created a dynamic vehicle.
+[2022/7/28 - 8:30:42] Viet Cong's DV Creation query has returned - attempting to spawn vehicle - SQL ID 48
+[2022/7/28 - 8:31:06] Viet Cong has edited DV Slot 47 - 134 delete.
+[2022/7/28 - 8:32:01] Viet Cong has edited DV Slot 48 - 137 groupid 1.
+[2022/7/28 - 8:32:24] Viet Cong has created a dynamic vehicle.
+[2022/7/28 - 8:32:24] Viet Cong's DV Creation query has returned - attempting to spawn vehicle - SQL ID 47
+[2022/7/28 - 8:33:09] Viet Cong has edited DV Slot 47 - 137 groupid 1.
+[2022/7/28 - 8:33:31] Viet Cong has created a dynamic vehicle.
+[2022/7/28 - 8:33:31] Viet Cong's DV Creation query has returned - attempting to spawn vehicle - SQL ID 49
+[2022/7/28 - 8:33:33] Viet Cong has created a dynamic vehicle.
+[2022/7/28 - 8:33:33] Viet Cong's DV Creation query has returned - attempting to spawn vehicle - SQL ID 50
+[2022/7/28 - 8:33:35] Viet Cong has created a dynamic vehicle.
+[2022/7/28 - 8:33:35] Viet Cong's DV Creation query has returned - attempting to spawn vehicle - SQL ID 51
+[2022/7/28 - 8:35:51] Viet Cong has edited DV Slot 49 - 143 groupid 1.
+[2022/7/28 - 8:38:05] Viet Cong has edited DV Slot 50 - 144 groupid 1.
+[2022/7/28 - 8:38:55] Viet Cong has edited DV Slot 51 - 145 groupid 1.
+[2022/7/28 - 8:41:45] Viet Cong has created a dynamic vehicle.
+[2022/7/28 - 8:41:45] Viet Cong's DV Creation query has returned - attempting to spawn vehicle - SQL ID 52
+[2022/7/28 - 8:42:17] Viet Cong has edited DV Slot 52 - 146 groupid 1.
+[2022/7/28 - 8:42:24] Viet Cong has edited DV Slot 52 - 146 groupid 1.
+[2022/7/28 - 8:42:30] Viet Cong has created a dynamic vehicle.
+[2022/7/28 - 8:42:30] Viet Cong's DV Creation query has returned - attempting to spawn vehicle - SQL ID 53
+[2022/7/28 - 8:42:48] Viet Cong has created a dynamic vehicle.
+[2022/7/28 - 8:42:48] Viet Cong's DV Creation query has returned - attempting to spawn vehicle - SQL ID 54
+[2022/7/28 - 8:43:00] Viet Cong has edited DV Slot 53 - 147 groupid 1.
+[2022/7/28 - 8:43:28] Viet Cong has edited DV Slot 54 - 148 delete.
+[2022/7/28 - 12:53:06] Kido has created a dynamic vehicle.
+[2022/7/28 - 12:53:06] Kido's DV Creation query has returned - attempting to spawn vehicle - SQL ID 54
+[2022/7/28 - 12:53:11] Kido has created a dynamic vehicle.
+[2022/7/28 - 12:53:11] Kido's DV Creation query has returned - attempting to spawn vehicle - SQL ID 55
+[2022/7/28 - 12:53:20] Kido has created a dynamic vehicle.
+[2022/7/28 - 12:53:20] Kido's DV Creation query has returned - attempting to spawn vehicle - SQL ID 57
+[2022/7/28 - 12:55:22] Thai Vinh has edited DV Slot 57 - 127 faction 9.
+[2022/7/28 - 12:55:34] Kido has edited DV Slot 54 - 125 groupid.
+[2022/7/28 - 12:55:43] Thai Vinh has edited DV Slot 57 - 127 groupid 9.
+[2022/7/28 - 12:55:51] Kido has edited DV Slot 54 - 125 groupid 9.
+[2022/7/28 - 12:56:23] Thai Vinh has edited DV Slot 54 - 125 groupid 9.
+[2022/7/28 - 12:56:56] Thai Vinh has edited DV Slot 55 - 126 groupid 9.
+[2022/7/28 - 12:58:09] Thai Vinh has created a dynamic vehicle.
+[2022/7/28 - 12:58:09] Thai Vinh's DV Creation query has returned - attempting to spawn vehicle - SQL ID 58
+[2022/7/29 - 3:14:34] gm01 has created a dynamic vehicle.
+[2022/7/29 - 3:14:35] gm01's DV Creation query has returned - attempting to spawn vehicle - SQL ID 59
+[2022/7/29 - 3:14:41] gm01 has created a dynamic vehicle.
+[2022/7/29 - 3:14:41] gm01's DV Creation query has returned - attempting to spawn vehicle - SQL ID 61
+[2022/7/31 - 2:24:07] Kido Tino has edited DV Slot 48 - 116 rank 0.
+[2022/7/31 - 12:38:21] GL 02 has created a dynamic vehicle.
+[2022/7/31 - 12:38:21] GL 02's DV Creation query has returned - attempting to spawn vehicle - SQL ID 62
+[2022/7/31 - 12:38:50] GL 02 has edited DV Slot 62 - 140 maxhealth 99999999.
+[2022/7/31 - 12:39:15] GL 02 has edited DV Slot 62 - 140 family 2.
+[2022/7/31 - 12:41:36] GL 02 has edited DV Slot 62 - 140 delete.
+[2022/7/31 - 12:57:49] GL 02 has created a dynamic vehicle.
+[2022/7/31 - 12:57:49] GL 02's DV Creation query has returned - attempting to spawn vehicle - SQL ID 62
+[2022/7/31 - 13:00:33] GL 02 has edited DV Slot 62 - 140 delete.

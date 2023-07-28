@@ -1,0 +1,27 @@
+D:\VGC leme\GTA VIET RP\gamemodes\includes\core\NEWB.pwn(35) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+D:\VGC leme\GTA VIET RP\gamemodes\includes\core\NEWB.pwn(5) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+D:\VGC leme\GTA VIET RP\gamemodes\includes\core\NEWB.pwn(7) : ïðåäóïðåæäåíèå 235: public-ôóíêöèÿ íóæäàåòñÿ â îïåðåæàþùåì îáúÿâëåíèè (èäåíòèôèêàòîð "OnDialogResponse")
+D:\VGC leme\GTA VIET RP\gamemodes\includes\core\NEWB.pwn(12) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "strlen"
+D:\VGC leme\GTA VIET RP\gamemodes\includes\core\NEWB.pwn(13) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+D:\VGC leme\GTA VIET RP\gamemodes\includes\core\NEWB.pwn(14) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "ShowPlayerDialog"
+D:\VGC leme\GTA VIET RP\gamemodes\includes\core\NEWB.pwn(18) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "strcpy"
+D:\VGC leme\GTA VIET RP\gamemodes\includes\core\NEWB.pwn(19) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "format"
+D:\VGC leme\GTA VIET RP\gamemodes\includes\core\NEWB.pwn(19) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+D:\VGC leme\GTA VIET RP\gamemodes\includes\core\NEWB.pwn(19) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+D:\VGC leme\GTA VIET RP\gamemodes\includes\core\NEWB.pwn(19) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "GetPlayerNameEx"
+D:\VGC leme\GTA VIET RP\gamemodes\includes\core\NEWB.pwn(20) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "SendHelperMessage"
+D:\VGC leme\GTA VIET RP\gamemodes\includes\core\NEWB.pwn(21) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "SetPVarInt"
+D:\VGC leme\GTA VIET RP\gamemodes\includes\core\NEWB.pwn(22) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "SetPVarString"
+D:\VGC leme\GTA VIET RP\gamemodes\includes\core\NEWB.pwn(23) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "SendClientMessageEx"
+D:\VGC leme\GTA VIET RP\gamemodes\includes\core\NEWB.pwn(24) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "NewbieTimer"
+D:\VGC leme\GTA VIET RP\gamemodes\includes\core\NEWB.pwn(24) : ïðåäóïðåæäåíèå 215: âûðàæåíèå íå èìååò ýôôåêòà
+D:\VGC leme\GTA VIET RP\gamemodes\includes\core\NEWB.pwn(24) : îøèáêà 001: îæèäàëñÿ òîêåí ";", íî íàéäåí "]"
+D:\VGC leme\GTA VIET RP\gamemodes\includes\core\NEWB.pwn(24) : îøèáêà 029: íåïðàâèëüíîå âûðàæåíèå, ïðèíÿò íîëü
+D:\VGC leme\GTA VIET RP\gamemodes\includes\core\NEWB.pwn(24) : ôàòàëüíàÿ îøèáêà 107: ñëèøêîì ìíîãî îøèáîê íà îäíîé ñòðîêå
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:15.

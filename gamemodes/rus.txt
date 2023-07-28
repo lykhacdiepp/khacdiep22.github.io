@@ -1,9 +1,23 @@
-./includes/callbacks.pwn(6189) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
-./includes/Phone.pwn(266) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "nguoinhan" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
-./includes/Phone.pwn(266) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "nguoinhan"
-./includes/giaodien.pwn(131) : íåïðàâèëüíàÿ òàáóëÿöèÿ
-./includes/giaodien.pwn(232) : ïðåäóïðåæäåíèå 225: íåäîñòèæèìûé êîä
+./includes/core/command.pwn(2820) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/core/command.pwn(9371) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/core/command.pwn(57632) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/core/callbacks.pwn(376) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/core/callbacks.pwn(375) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "string"
+./includes/core/callbacks.pwn(375) -- (379) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/core/callbacks.pwn(381) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/core/callbacks.pwn(384) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/core/callbacks.pwn(386) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/core/callbacks.pwn(385) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "string"
+./includes/core/callbacks.pwn(3101) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/core/callbacks.pwn(3251) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/core/streamer.pwn(837) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/core/streamer.pwn(845) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/core/streamer.pwn(1022) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/core/streamer.pwn(1080) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/core/streamer.pwn(1084) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/core/variables.pwn(68) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "EngineStatus"
+./includes/core/variables.pwn(30) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "Gtaaepro3"
+./includes/core/variables.pwn(69) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "SPEEDO"
+./includes/core/variables.pwn(59) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "Vehicle_Colour"
 Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
 
-
-Ïðåäóïðåæäåíèé:3.

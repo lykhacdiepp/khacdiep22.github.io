@@ -1,6 +1,0 @@
-C:\Users\Administrator\Desktop\Hungpc\GvR\gamemodes\includes\giaodien.pwn(130) : íåïðàâèëüíàÿ òàáóëÿöèÿ
-C:\Users\Administrator\Desktop\Hungpc\GvR\gamemodes\includes\giaodien.pwn(209) : îøèáêà 021: èäåíòèôèêàòîð "giaodien" óæå îáúÿâëåí
-Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
-
-
-Îøèáîê:1.

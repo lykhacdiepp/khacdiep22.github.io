@@ -1,245 +1,157 @@
-[2020/12/18 - 22:10:50] Daniel James has changed BusinessID 1's Exterior to X:-1676.149414 Y:432.218750 Z:7.179687
-[2020/12/18 - 22:11:53] Daniel James has changed BusinessID 1's Price to $1.
-[2020/12/18 - 22:12:54] Daniel James has changed BusinessID 1's Type to Tram xang (1).
-[2020/12/20 - 11:51:57] GsViet has changed BusinessID 1's Exterior to X:-1674.514160 Y:406.815612 Z:7.398437
-[2020/12/20 - 11:52:28] GsViet has changed BusinessID 1's Exterior to X:-1676.334716 Y:432.030303 Z:7.179687
-[2020/12/20 - 11:53:34] GsViet has edited business ID 1's name to Tram Xang.
-[2020/12/20 - 11:57:51] GsViet has changed BusinessID 1's Interior to X:5.719027 Y:-31.652332 Z:1003.549438
-[2020/12/20 - 11:58:04] GsViet has edited BusinessID 1's CustomInterior.
-[2020/12/20 - 11:58:14] GsViet has edited BusinessID 1's CustomExterior.
-[2020/12/20 - 12:00:02] Tram Xang da tao ra mot tram xang cho  ()
-[2020/12/20 - 12:00:14] Tram Xang da tao ra mot tram xang cho  ()
-[2020/12/20 - 12:01:12] GsViet thay doi vi tri tram gas 0 cho cua hang 1
-[2020/12/20 - 12:01:24] GsViet thay doi vi tri tram gas 0 cho cua hang 1
-[2020/12/20 - 12:01:37] GsViet thay doi vi tri tram gas 0 cho cua hang 1
-[2020/12/20 - 12:01:48] GsViet thay doi vi tri tram gas 0 cho cua hang 1
-[2020/12/20 - 12:02:16] GsViet thay doi vi tri tram gas 0 cho cua hang 1
-[2020/12/20 - 12:06:47] GsViet thay doi vi tri tram gas 0 cho cua hang 1
-[2020/12/20 - 12:07:25] GsViet da thay doi cong suat tram gas 0 cho Tram Xang (1) den 999999.00
-[2020/12/20 - 12:07:33] GsViet da thay doi cong suat tram gas 0 cho Tram Xang (1) den 999999.00
-[2020/12/20 - 12:07:37] GsViet da thay doi cong suat tram gas 1 cho Tram Xang (1) den 999999.00
-[2020/12/20 - 12:07:58] GsViet thay doi vi tri tram gas 0 cho cua hang 1
-[2020/12/20 - 12:08:20] GsViet da thay doi cong suat tram gas 0 cho Tram Xang (1) den 999999.00
-[2020/12/20 - 12:08:33] GsViet thay doi vi tri tram gas 0 cho cua hang 1
-[2020/12/20 - 12:09:11] Admin  xoa tram ga cua hang 
-[2020/12/20 - 12:09:46] Tram Xang da tao ra mot tram xang cho  ()
-[2020/12/20 - 12:10:11] GsViet da thay doi cong suat tram gas 1 cho Tram Xang (1) den 999999.00
-[2020/12/20 - 12:16:29] GsViet da thay doi luong khi gas 0 cho Tram Xang (1) den 999999.00
-[2020/12/20 - 12:16:41] GsViet da thay doi luong khi gas 1 cho Tram Xang (1) den 999999.00
-[2020/12/20 - 12:22:56] GsViet has changed BusinessID 0's Exterior to X:-1701.520385 Y:1257.388549 Z:7.179687
-[2020/12/20 - 12:25:34] GsViet has changed BusinessID 1's Type to Khong xac dinh (0).
-[2020/12/20 - 12:25:39] GsViet has changed BusinessID 2's Type to Khong xac dinh (0).
-[2020/12/20 - 12:26:03] GsViet has changed BusinessID 0's Type to Shop quan ao (2).
-[2020/12/20 - 12:26:20] GsViet has changed BusinessID 0's Type to 24/7 (8).
-[2020/12/20 - 12:27:11] GsViet has edited business ID 1's name to Cua Hang Xang Dau.
-[2020/12/20 - 12:27:55] GsViet has changed BusinessID 1's Price to $1215752191.
-[2020/12/20 - 12:28:05] GsViet has changed BusinessID 1's Price to $999999999.
-[2020/12/20 - 12:28:42] GsViet has changed BusinessID 1's Type to Tram xang (1).
-[2020/12/20 - 12:29:12] GsViet has changed BusinessID 0's Price to $999999999.
-[2020/12/20 - 12:32:14] GsViet has changed BusinessID 1's Interior to X:6.010827 Y:-30.423955 Z:1003.549438
-[2020/12/20 - 12:33:08] GsViet has changed BusinessID 0's Interior to X:5.921252 Y:-31.494190 Z:1003.549438
-[2020/12/20 - 12:33:21] GsViet has edited BusinessID 0's CustomInterior.
-[2020/12/20 - 12:33:29] GsViet has edited BusinessID 0's CustomExterior.
-[2020/12/20 - 12:36:42] GsViet has changed BusinessID 0's Inventory Capacity to 99999.
-[2020/12/20 - 12:36:57] GsViet has changed BusinessID 0's Inventory to 99999.
-[2020/12/20 - 12:40:00] GsViet has changed BusinessID 1's Inventory to 99999.
-[2020/12/20 - 12:41:30] GsViet has changed BusinessID 2's Exterior to X:-1722.082763 Y:1359.621337 Z:7.185316
-[2020/12/20 - 12:41:42] GsViet has changed BusinessID 2's Type to Shop quan ao (2).
-[2020/12/20 - 12:41:44] GsViet has changed BusinessID 2's Type to Tram xang (1).
-[2020/12/20 - 12:41:46] GsViet has changed BusinessID 2's Type to Nha hang (3).
-[2020/12/20 - 12:42:08] GsViet has changed BusinessID 2's Price to $999999999.
-[2020/12/20 - 12:43:27] GsViet has changed BusinessID 2's Interior to X:372.121032 Y:-133.119247 Z:1001.492187
-[2020/12/20 - 12:43:56] GsViet has edited BusinessID 2's CustomInterior.
-[2020/12/20 - 12:44:02] GsViet has edited BusinessID 2's CustomExterior.
-[2020/12/20 - 12:44:31] GsViet has changed BusinessID 2's Inventory to 99999.
-[2020/12/20 - 12:49:36] GsViet has changed BusinessID 2's Months to 0
-[2020/12/20 - 12:50:30] GsViet has changed BusinessID 2's Price to $1.
-[2020/12/20 - 22:26:43] GsViet has changed BusinessID 3's Exterior to X:-1644.010131 Y:1204.589721 Z:7.250000
-[2020/12/20 - 22:26:52] GsViet has changed BusinessID 3's Type to Tram xang (1).
-[2020/12/20 - 22:26:55] GsViet has changed BusinessID 3's Type to Shop quan ao (2).
-[2020/12/20 - 22:26:57] GsViet has changed BusinessID 3's Type to Nha hang (3).
-[2020/12/20 - 22:27:56] GsViet has changed BusinessID 3's Type to Dai ly xe moi (5).
-[2020/12/20 - 22:28:45] GsViet has changed BusinessID 3's Price to $1.
-[2020/12/20 - 22:29:47] GsViet has edited business ID 3's name to Dai Ly Xe Moi.
-[2020/12/20 - 22:29:59] GsViet has edited business ID 3's name to Shop Xe.
-[2020/12/20 - 22:39:08] GsViet has changed BusinessID 3's Inventory to 99999.
-[2020/12/20 - 22:47:47] GsViet has deleted BusinessID 3.
-[2020/12/20 - 22:49:16] GsViet has changed BusinessID 3's Exterior to X:-1643.366455 Y:1203.616455 Z:7.250000
-[2020/12/20 - 22:49:28] GsViet has changed BusinessID 3's Type to Dai ly xe moi (5).
-[2020/12/20 - 22:51:19] GsViet has deleted BusinessID 3.
-[2020/12/20 - 22:51:29] GsViet has changed BusinessID 3's Exterior to X:-1643.864746 Y:1203.602050 Z:7.250000
-[2020/12/20 - 22:51:36] GsViet has changed BusinessID 3's Type to Dai ly xe moi (5).
-[2020/12/20 - 22:52:38] GsViet has deleted BusinessID 3.
-[2020/12/20 - 23:00:03] GsViet has deleted BusinessID 3.
-[2020/12/20 - 23:01:12] GsViet has deleted BusinessID 3.
-[2020/12/20 - 23:03:20] GsViet has deleted BusinessID 3.
-[2020/12/20 - 23:09:38] Gsviet has changed BusinessID 3's Exterior to X:-1643.602539 Y:1204.166625 Z:7.250000
-[2020/12/20 - 23:11:00] Gsviet has changed BusinessID 3's Type to Dai ly xe moi (5).
-[2020/12/20 - 23:13:18] Gsviet has changed BusinessID 3's Price to $1.
-[2020/12/20 - 23:13:53] Gsviet has deleted BusinessID 3.
-[2020/12/20 - 23:14:02] Gsviet has changed BusinessID 4's Exterior to X:-1643.182373 Y:1203.842651 Z:7.250000
-[2020/12/20 - 23:14:28] Gsviet has changed BusinessID 4's Price to $1.
-[2020/12/20 - 23:14:48] Gsviet has changed BusinessID 4's Type to Dai ly xe moi (5).
-[2020/12/20 - 23:16:57] Gsviet has changed BusinessID 4's Inventory to 99999.
-[2020/12/20 - 23:27:05] Gsviet has deleted BusinessID 4.
-[2020/12/22 - 0:03:16] gsviet has changed BusinessID 3's Exterior to X:-1642.861694 Y:1203.756835 Z:7.250000
-[2020/12/22 - 0:04:25] gsviet has changed BusinessID 3's Type to Dai ly xe moi (5).
-[2020/12/22 - 0:12:10] gsviet has changed BusinessID 3's Price to $1.
-[2020/12/22 - 0:12:28] gsviet has changed BusinessID 3's Price to $11.
-[2020/12/22 - 0:13:08] gsviet has changed BusinessID 5's Exterior to X:-1643.328002 Y:1203.865600 Z:7.250000
-[2020/12/22 - 0:13:19] gsviet has changed BusinessID 5's Price to $1.
-[2020/12/22 - 0:13:37] gsviet has changed BusinessID 5's Type to Tram xang (1).
-[2020/12/22 - 0:13:41] gsviet has changed BusinessID 5's Type to Dai ly xe moi (5).
-[2020/12/22 - 0:14:10] gsviet has deleted BusinessID 3.
-[2020/12/22 - 0:14:52] gsviet has changed BusinessID 5's Exterior to X:-1653.270874 Y:1204.921508 Z:7.952849
-[2020/12/22 - 0:16:48] gsviet has changed BusinessID 5's Exterior to X:-1643.407226 Y:1203.713745 Z:7.250000
-[2020/12/22 - 0:18:08] gsviet has changed BusinessID 5's Inventory to 99999.
-[2020/12/22 - 0:18:45] gsviet has changed BusinessID 5's Type to Dai ly xe moi (5).
-[2020/12/22 - 0:18:53] gsviet has changed BusinessID 5's Inventory to 99999.
-[2020/12/22 - 0:20:10] gsviet has edited business ID 5's name to Shop Xe.
-[2020/12/22 - 10:39:24] GsViet has deleted BusinessID 5.
-[2020/12/22 - 10:41:11] GsViet has changed BusinessID 3's Exterior to X:-1628.647338 Y:1201.583862 Z:7.039062
-[2020/12/22 - 10:41:28] GsViet has changed BusinessID 3's Type to Tram xang (1).
-[2020/12/22 - 10:41:35] GsViet has changed BusinessID 3's Type to Shop quan ao (2).
-[2020/12/22 - 10:45:42] GsViet has changed BusinessID 3's Interior to X:207.620880 Y:-111.239433 Z:1005.132812
-[2020/12/22 - 10:50:25] GsViet has changed BusinessID 3's Type to Tram xang (1).
-[2020/12/22 - 10:50:28] GsViet has changed BusinessID 3's Type to Shop quan ao (2).
-[2020/12/22 - 10:50:32] GsViet has changed BusinessID 3's Type to Shop quan ao (2).
-[2020/12/22 - 10:50:34] GsViet has changed BusinessID 3's Type to Nha hang (3).
-[2020/12/22 - 10:50:37] GsViet has changed BusinessID 3's Type to Shop quan ao (2).
-[2020/12/22 - 10:52:17] GsViet has changed BusinessID 3's Price to $1.
-[2020/12/22 - 10:53:00] GsViet has deleted BusinessID 3.
-[2020/12/22 - 10:53:08] GsViet has changed BusinessID 3's Exterior to X:-1628.647338 Y:1201.583862 Z:7.039062
-[2020/12/22 - 10:54:55] GsViet has changed BusinessID 3's Type to Shop quan ao (2).
-[2020/12/22 - 10:57:31] GsViet has changed BusinessID 4's Exterior to X:-1629.760742 Y:1202.680664 Z:7.039062
-[2020/12/22 - 10:57:43] GsViet has changed BusinessID 4's Type to Shop quan ao (2).
-[2020/12/22 - 10:57:49] GsViet has changed BusinessID 4's Exterior to X:-1633.336303 Y:1207.617065 Z:7.039062
-[2020/12/22 - 10:58:43] GsViet has changed BusinessID 4's Interior to X:204.393661 Y:-168.857055 Z:1000.523437
-[2020/12/22 - 11:00:06] GsViet has changed BusinessID 5's Exterior to X:-1622.369628 Y:1209.940429 Z:7.039062
-[2020/12/22 - 11:01:12] GsViet has changed BusinessID 5's Price to $9999999.
-[2020/12/22 - 11:01:15] GsViet has changed BusinessID 5's Price to $999999999.
-[2020/12/22 - 11:02:37] GsViet has changed BusinessID 5's Interior to X:-25.286630 Y:-139.507049 Z:1003.546875
-[2020/12/22 - 11:02:59] GsViet has changed BusinessID 3's Type to Khong xac dinh (0).
-[2020/12/22 - 11:03:08] GsViet has changed BusinessID 5's Type to Nha hang (3).
-[2020/12/22 - 11:04:16] GsViet has changed BusinessID 5's Price to $1.
-[2020/12/22 - 11:04:46] GsViet has changed BusinessID 5's Inventory to 99999.
-[2020/12/22 - 11:07:19] GsViet has changed BusinessID 5's Exterior to X:-2586.187255 Y:552.781311 Z:14.609375
-[2020/12/22 - 11:08:50] GsViet has changed BusinessID 3's Exterior to X:-1883.504028 Y:865.165649 Z:35.171875
-[2020/12/22 - 11:09:04] GsViet has changed BusinessID 3's Type to Shop quan ao (2).
-[2020/12/22 - 11:12:21] GsViet has changed BusinessID 4's Exterior to X:-2430.424560 Y:-109.317466 Z:35.312515
-[2020/12/22 - 11:13:13] GsViet has changed BusinessID 5's Exterior to X:-2586.013183 Y:553.070068 Z:14.609375
-[2020/12/23 - 23:10:55] gsviet has changed BusinessID 2's Type to Khong xac dinh (0).
-[2020/12/23 - 23:11:06] gsviet has changed BusinessID 2's Type to Tram xang (1).
-[2020/12/23 - 23:11:10] gsviet has changed BusinessID 2's Type to Khong xac dinh (0).
-[2020/12/23 - 23:11:18] gsviet has changed BusinessID 2's Type to Shop quan ao (2).
-[2020/12/23 - 23:11:21] gsviet has changed BusinessID 2's Type to Nha hang (3).
-[2020/12/24 - 11:17:03] gsviet has changed BusinessID 1's Inventory to 99999.
-[2020/12/24 - 11:22:26] gsviet has changed BusinessID 6's Exterior to X:-1912.344238 Y:828.098999 Z:35.225551
-[2020/12/24 - 11:22:42] gsviet has changed BusinessID 6's Price to $999999.
-[2020/12/24 - 11:22:46] gsviet has changed BusinessID 6's Price to $99999999.
-[2020/12/24 - 11:22:49] gsviet has changed BusinessID 6's Price to $999999999.
-[2020/12/24 - 11:23:01] gsviet has changed BusinessID 6's Type to Tram xang (1).
-[2020/12/24 - 11:23:04] gsviet has changed BusinessID 6's Type to Shop quan ao (2).
-[2020/12/24 - 11:23:06] gsviet has changed BusinessID 6's Type to Nha hang (3).
-[2020/12/24 - 11:29:20] gsviet has changed BusinessID 6's Interior to X:363.127502 Y:-75.419151 Z:1001.507812
-[2020/12/24 - 11:29:54] gsviet has changed BusinessID 6's Inventory to 99999.
-[2020/12/24 - 11:30:46] gsviet has changed BusinessID 6's Price to $1.
-[2020/12/25 - 13:21:49] gsviet has changed BusinessID 5's Exterior to X:-1816.512451 Y:617.561950 Z:35.171875
-[2020/12/25 - 14:02:08] gsviet has changed BusinessID 7's Exterior to X:-2301.467041 Y:-158.117630 Z:35.320312
-[2020/12/25 - 14:02:15] gsviet has changed BusinessID 7's Exterior to X:-2300.901611 Y:-158.490798 Z:35.320312
-[2020/12/25 - 14:02:27] gsviet has changed BusinessID 7's Type to Tram xang (1).
-[2020/12/25 - 14:02:38] gsviet has changed BusinessID 7's Type to Shop quan ao (2).
-[2020/12/25 - 14:02:43] gsviet has changed BusinessID 7's Type to Nha hang (3).
-[2020/12/25 - 14:02:44] gsviet has changed BusinessID 7's Type to Shop vu khi (4).
-[2020/12/25 - 14:02:47] gsviet has changed BusinessID 7's Type to Dai ly xe moi (5).
-[2020/12/25 - 14:02:50] gsviet has changed BusinessID 7's Type to Dai ly xe cu (6).
-[2020/12/25 - 14:02:53] gsviet has changed BusinessID 7's Type to Tram sua xe (7).
-[2020/12/25 - 14:02:56] gsviet has changed BusinessID 7's Type to 24/7 (8).
-[2020/12/25 - 14:03:00] gsviet has changed BusinessID 7's Type to Bar (9).
-[2020/12/25 - 14:03:03] gsviet has changed BusinessID 7's Type to Club (10).
-[2020/12/25 - 14:03:07] gsviet has changed BusinessID 7's Type to Shop nguoi lon (11).
-[2020/12/25 - 14:03:11] gsviet has changed BusinessID 7's Type to Gym (12).
-[2020/12/25 - 14:06:22] gsviet has changed BusinessID 7's Interior to X:773.853088 Y:-78.096252 Z:1000.661682
-[2020/12/25 - 14:06:44] gsviet has edited BusinessID 7's CustomExterior.
-[2020/12/25 - 14:06:55] gsviet has edited BusinessID 7's CustomInterior.
-[2020/12/25 - 14:07:45] gsviet has changed BusinessID 7's Price to $1.
-[2020/12/25 - 14:10:33] gsviet has changed BusinessID 7's gym entry fee to 10000.
-[2020/12/25 - 14:11:39] gsviet has changed BusinessID 7's gym type to 1.
-[2020/12/25 - 14:16:07] gsviet has changed BusinessID 7's gym type to 1.
-[2020/12/25 - 14:21:35] gsviet has changed BusinessID 7's Type to Shop nguoi lon (11).
-[2020/12/25 - 14:21:38] gsviet has changed BusinessID 7's Type to Gym (12).
-[2020/12/25 - 14:23:04] Daniel James has changed BusinessID 7's Type to Gym (12).
-[2020/12/25 - 16:21:52] gsviet has changed BusinessID 8's Exterior to X:-2336.288818 Y:-167.469894 Z:35.554687
-[2020/12/25 - 16:22:00] gsviet has changed BusinessID 8's Type to Gym (12).
-[2020/12/25 - 16:22:02] gsviet has changed BusinessID 8's Type to Khong xac dinh (13).
-[2020/12/25 - 16:22:07] gsviet has changed BusinessID 8's Type to Khong xac dinh (14).
-[2020/12/25 - 16:22:11] gsviet has changed BusinessID 8's Type to Club (10).
-[2020/12/25 - 16:22:18] gsviet has changed BusinessID 8's Type to Bar (9).
-[2020/12/25 - 16:30:12] gsviet has changed BusinessID 8's Interior to X:-2636.336425 Y:1402.481689 Z:906.460937
-[2020/12/25 - 16:46:28] gsviet has changed BusinessID 8's Price to $1.
-[2020/12/25 - 16:47:16] gsviet has changed BusinessID 8's Price to $1.
-[2020/12/25 - 16:47:50] gsviet has changed BusinessID 8's Price to $1.
-[2020/12/25 - 16:50:01] gsviet has deleted BusinessID 8.
-[2020/12/25 - 16:50:08] gsviet has changed BusinessID 8's Exterior to X:-2335.649658 Y:-166.805664 Z:35.554687
-[2020/12/25 - 16:51:35] gsviet has changed BusinessID 8's Type to Bar (9).
-[2020/12/25 - 16:55:07] gsviet has changed BusinessID 8's Inventory to 99999.
-[2020/12/25 - 22:34:52] GsViet has changed BusinessID 9's Exterior to X:-2326.295898 Y:-170.617523 Z:35.320312
-[2020/12/25 - 22:35:10] GsViet has changed BusinessID 9's Type to Gym (12).
-[2020/12/25 - 22:35:11] GsViet has changed BusinessID 9's Type to Khong xac dinh (13).
-[2020/12/25 - 22:35:13] GsViet has changed BusinessID 9's Type to Shop quan ao (2).
-[2020/12/25 - 22:35:15] GsViet has changed BusinessID 9's Type to Nha hang (3).
-[2020/12/25 - 22:35:17] GsViet has changed BusinessID 9's Type to Shop vu khi (4).
-[2020/12/25 - 22:35:19] GsViet has changed BusinessID 9's Type to Shop vu khi (4).
-[2020/12/25 - 22:35:21] GsViet has changed BusinessID 9's Type to Dai ly xe moi (5).
-[2020/12/25 - 22:35:23] GsViet has changed BusinessID 9's Type to Dai ly xe cu (6).
-[2020/12/25 - 22:35:27] GsViet has changed BusinessID 9's Type to Tram sua xe (7).
-[2020/12/25 - 22:36:07] GsViet has changed BusinessID 9's Price to $1.
-[2020/12/25 - 22:40:42] GsViet has changed BusinessID 9's Grade to 1
-[2020/12/25 - 22:41:20] GsViet has changed BusinessID 9's Type to Bar (9).
-[2020/12/25 - 22:41:23] GsViet has changed BusinessID 9's Type to 24/7 (8).
-[2020/12/25 - 22:41:27] GsViet has changed BusinessID 9's Type to Club (10).
-[2020/12/25 - 22:44:14] GsViet has deleted BusinessID 9.
-[2020/12/26 - 11:40:52] GsViet has changed BusinessID 9's Exterior to X:-2389.081542 Y:492.374694 Z:29.921815
-[2020/12/26 - 11:41:06] GsViet has changed BusinessID 9's Type to Dai ly xe moi (5).
-[2020/12/26 - 11:41:10] GsViet has changed BusinessID 9's Type to Bar (9).
-[2020/12/26 - 11:41:12] GsViet has changed BusinessID 9's Type to 24/7 (8).
-[2020/12/26 - 11:41:14] GsViet has changed BusinessID 9's Type to Club (10).
-[2020/12/26 - 11:41:16] GsViet has changed BusinessID 9's Type to Shop nguoi lon (11).
-[2020/12/26 - 11:41:19] GsViet has changed BusinessID 9's Type to Gym (12).
-[2020/12/26 - 11:41:23] GsViet has changed BusinessID 9's Type to Shop vu khi (4).
-[2020/12/26 - 11:41:26] GsViet has changed BusinessID 9's Type to Dai ly xe moi (5).
-[2020/12/26 - 11:41:29] GsViet has changed BusinessID 9's Type to Nha hang (3).
-[2020/12/26 - 11:41:32] GsViet has changed BusinessID 9's Type to Dai ly xe cu (6).
-[2020/12/26 - 11:41:35] GsViet has changed BusinessID 9's Type to Tram sua xe (7).
-[2020/12/26 - 11:43:15] GsViet has changed BusinessID 9's Inventory to 99999.
-[2020/12/26 - 11:46:20] GsViet has changed BusinessID 9's Supply Point to X:-2389.457031 Y:492.676544 Z:29.925069
-[2020/12/26 - 11:46:28] GsViet has changed BusinessID 9's Supply Point to X:-2389.319824 Y:492.663208 Z:29.923337
-[2020/12/26 - 11:48:09] GsViet has deleted BusinessID 9.
-[2020/12/26 - 12:38:19] GsViet has changed BusinessID 9's Exterior to X:-2342.895751 Y:-167.733230 Z:35.554687
-[2020/12/26 - 12:38:29] GsViet has changed BusinessID 9's Type to Tram xang (1).
-[2020/12/26 - 12:38:32] GsViet has changed BusinessID 9's Type to Nha hang (3).
-[2020/12/26 - 12:43:11] GsViet has changed BusinessID 9's Interior to X:376.752044 Y:-193.099731 Z:1000.632812
-[2020/12/26 - 12:43:35] GsViet has changed BusinessID 9's Inventory to 99999.
-[2020/12/26 - 12:45:35] GsViet has edited BusinessID 9's CustomExterior.
-[2020/12/26 - 12:45:42] GsViet has edited BusinessID 9's CustomInterior.
-[2020/12/27 - 14:24:02] GsViet has changed BusinessID 7's gym entry fee to 0.
-[2020/12/27 - 14:24:07] GsViet has changed BusinessID 7's gym entry fee to 1000.
-[2020/12/27 - 14:24:29] GsViet has changed BusinessID 7's gym type to 2.
-[2023/7/18 - 8:08:37] Diep has changed BusinessID 1's Exterior to X:-2442.493652 Y:755.237365 Z:35.171875
-[2023/7/18 - 8:08:40] Diep has changed BusinessID 1's Exterior to X:-2442.682373 Y:755.418395 Z:35.171875
-[2023/7/18 - 8:08:50] Diep has changed BusinessID 0's Exterior to X:-2442.253173 Y:755.418518 Z:35.171875
-[2023/7/18 - 8:09:08] Diep has deleted BusinessID 0.
-[2023/7/18 - 8:09:32] Diep has changed BusinessID 1's Type to Tram xang (1).
-[2023/7/18 - 8:09:35] Diep has changed BusinessID 1's Type to Shop quan ao (2).
-[2023/7/18 - 8:09:36] Diep has changed BusinessID 1's Type to Nha hang (3).
-[2023/7/18 - 8:09:38] Diep has changed BusinessID 1's Type to Shop vu khi (4).
-[2023/7/18 - 8:09:41] Diep has changed BusinessID 1's Type to Dai ly xe moi (5).
-[2023/7/18 - 8:09:43] Diep has changed BusinessID 1's Type to Tram sua xe (7).
-[2023/7/18 - 8:09:45] Diep has changed BusinessID 1's Type to 24/7 (8).
-[2023/7/18 - 8:15:00] diep has changed BusinessID 1's Interior to X:-27.352848 Y:-58.266418 Z:1003.546875
-[2023/7/18 - 8:15:19] diep has changed BusinessID 1's Interior to X:-27.413379 Y:-58.272197 Z:1003.546875
-[2023/7/18 - 8:16:35] diep has changed BusinessID 1's Inventory to 0.
-[2023/7/18 - 8:16:42] diep has changed BusinessID 1's Inventory to 9999999.
-[2023/7/18 - 8:17:01] diep has changed BusinessID 1's Inventory to 1.
-[2023/7/18 - 8:18:06] diep has changed BusinessID 1's Inventory Capacity to 0.
-[2023/7/18 - 8:18:12] diep has changed BusinessID 1's Inventory Capacity to 20.
+[2021/7/1 - 14:29:56] Nguyen Thjen Phong has changed BusinessID 19's Exterior to X:1235.025146 Y:360.251495 Z:19.554687
+[2021/7/1 - 14:30:00] Nguyen Thjen Phong has changed BusinessID 19's Type to Khong xac dinh (0).
+[2021/7/1 - 14:30:01] Nguyen Thjen Phong has changed BusinessID 19's Type to Dai ly xe moi (5).
+[2021/7/1 - 14:30:03] Nguyen Thjen Phong has changed BusinessID 19's Type to Nha hang (3).
+[2021/7/1 - 14:30:05] Nguyen Thjen Phong has changed BusinessID 19's Type to Bar (9).
+[2021/7/1 - 14:30:07] Nguyen Thjen Phong has changed BusinessID 19's Type to 24/7 (8).
+[2021/7/1 - 14:30:58] Nguyen Thjen Phong has changed BusinessID 19's Interior to X:-27.241264 Y:-31.753499 Z:1003.557250
+[2022/7/28 - 8:11:08] Khac Diep has changed BusinessID 3's Exterior to X:1367.433105 Y:248.125503 Z:19.566932
+[2022/7/28 - 8:11:12] Khac Diep has changed BusinessID 3's Exterior to X:1367.542358 Y:248.256942 Z:19.566932
+[2022/7/28 - 8:14:48] Khac Diep has changed BusinessID 79's Exterior to X:2269.956054 Y:83.046463 Z:26.053821
+[2022/7/28 - 8:15:38] Khac Diep has deleted BusinessID 79.
+[2022/7/28 - 8:26:04] Khac Diep has changed BusinessID 11's Exterior to X:1310.728515 Y:329.938415 Z:19.914062
+[2022/7/28 - 10:16:11] Tommy Williame has changed BusinessID 1's Exterior to X:1235.063354 Y:360.235687 Z:19.554687
+[2022/7/28 - 10:16:20] Tommy Williame has changed BusinessID 1's Exterior to X:1235.124877 Y:360.208526 Z:19.554687
+[2022/7/28 - 12:05:15] Tommy Williame has deleted BusinessID 6.
+[2022/7/28 - 12:05:35] Tommy Williame has deleted BusinessID 7.
+[2022/7/28 - 12:05:43] Tommy Williame has deleted BusinessID 8.
+[2022/7/28 - 12:05:56] Tommy Williame has deleted BusinessID 10.
+[2022/7/28 - 12:09:59] Tommy Williame has changed BusinessID 6's Exterior to X:681.603271 Y:-473.346221 Z:16.536296
+[2022/7/28 - 12:10:29] Tommy Williame has changed BusinessID 1's Type to Khong xac dinh (0).
+[2022/7/28 - 12:10:31] Tommy Williame has changed BusinessID 2's Type to Khong xac dinh (0).
+[2022/7/28 - 12:10:33] Tommy Williame has changed BusinessID 3's Type to Khong xac dinh (0).
+[2022/7/28 - 12:10:36] Tommy Williame has changed BusinessID 6's Type to Khong xac dinh (0).
+[2022/7/28 - 12:10:37] Tommy Williame has changed BusinessID 8's Type to Khong xac dinh (0).
+[2022/7/28 - 12:10:39] Tommy Williame has changed BusinessID 10's Type to Khong xac dinh (0).
+[2022/7/28 - 12:10:49] Tommy Williame has changed BusinessID 6's Type to Tram xang (1).
+[2022/7/28 - 12:10:53] Tommy Williame has changed BusinessID 6's Type to Shop quan ao (2).
+[2022/7/28 - 12:10:55] Tommy Williame has changed BusinessID 6's Type to Nha hang (3).
+[2022/7/28 - 12:10:56] Tommy Williame has changed BusinessID 6's Type to Shop vu khi (4).
+[2022/7/28 - 12:10:57] Tommy Williame has changed BusinessID 6's Type to Dai ly xe moi (5).
+[2022/7/28 - 12:10:59] Tommy Williame has changed BusinessID 6's Type to Dai ly xe cu (6).
+[2022/7/28 - 12:47:25] Kido has edited business ID 1's name to Test.
+[2022/7/28 - 12:47:46] Kido has edited business ID 1's name to Cua Hang 24/7.
+[2022/7/28 - 12:48:48] Kido has changed BusinessID 1's Type to Tram xang (1).
+[2022/7/28 - 12:48:52] Kido has changed BusinessID 1's Type to Shop quan ao (2).
+[2022/7/28 - 12:48:55] Kido has changed BusinessID 1's Type to Nha hang (3).
+[2022/7/28 - 12:48:58] Kido has changed BusinessID 1's Type to Shop vu khi (4).
+[2022/7/28 - 12:49:00] Kido has changed BusinessID 1's Type to Dai ly xe moi (5).
+[2022/7/28 - 12:49:03] Kido has changed BusinessID 1's Type to Dai ly xe cu (6).
+[2022/7/28 - 12:49:05] Kido has changed BusinessID 1's Type to Tram sua xe (7).
+[2022/7/28 - 12:49:09] Kido has changed BusinessID 1's Type to 24/7 (8).
+[2022/7/28 - 13:15:37] Kido has changed BusinessID 11's Price to $1316134911.
+[2022/7/28 - 13:15:43] Kido has changed BusinessID 11's Price to $99999.
+[2022/7/28 - 13:15:45] Kido has changed BusinessID 11's Price to $9999999.
+[2022/7/28 - 13:15:47] Kido has changed BusinessID 11's Price to $99999999.
+[2022/7/28 - 23:41:20] gm01 has changed BusinessID 1's Price to $1.
+[2022/7/29 - 2:32:45] GL 02 has changed BusinessID 17's Price to $999999999.
+[2022/7/29 - 2:33:24] GL 02 has changed BusinessID 17's Interior to X:662.868469 Y:-573.326843 Z:16.335937
+[2022/7/29 - 2:38:48] GL 02 has changed BusinessID 1's Interior to X:662.638488 Y:-573.391479 Z:16.335937
+[2022/7/29 - 2:39:11] GL 02 has changed BusinessID 1's Interior to X:662.802368 Y:-575.442565 Z:16.335937
+[2022/7/29 - 2:41:39] GL 02 has changed BusinessID 1's Interior to X:666.480285 Y:-573.713806 Z:16.335937
+[2022/7/29 - 2:53:13] gm01 has changed BusinessID 3's Type to Tram xang (1).
+[2022/7/29 - 2:53:15] gm01 has changed BusinessID 3's Type to Shop quan ao (2).
+[2022/7/29 - 2:53:17] gm01 has changed BusinessID 3's Type to Nha hang (3).
+[2022/7/29 - 21:44:04] Viet Cong has deleted BusinessID 6.
+[2022/7/29 - 21:44:18] Viet Cong has changed BusinessID 6's Exterior to X:681.548583 Y:-473.346252 Z:16.536296
+[2022/7/29 - 21:44:26] Viet Cong has deleted BusinessID 6.
+[2022/7/29 - 21:44:39] Viet Cong has changed BusinessID 2's Exterior to X:681.608703 Y:-473.347320 Z:16.536296
+[2022/7/29 - 21:44:43] Viet Cong has changed BusinessID 2's Exterior to X:681.581909 Y:-473.345977 Z:16.536296
+[2022/7/29 - 21:46:15] Viet Cong has changed BusinessID 2's Type to 24/7 (8).
+[2022/7/29 - 21:46:18] Viet Cong has changed BusinessID 2's Type to Tram sua xe (7).
+[2022/7/29 - 21:46:20] Viet Cong has changed BusinessID 2's Type to Dai ly xe cu (6).
+[2022/7/29 - 21:46:23] Viet Cong has changed BusinessID 2's Type to Dai ly xe cu (6).
+[2022/7/30 - 21:48:40] GL 02 has changed BusinessID 3's Type to Tram xang (1).
+[2022/7/30 - 21:48:43] GL 02 has changed BusinessID 3's Type to Shop quan ao (2).
+[2022/7/30 - 21:48:45] GL 02 has changed BusinessID 3's Type to Nha hang (3).
+[2022/7/30 - 21:48:49] GL 02 has changed BusinessID 3's Type to Dai ly xe moi (5).
+[2022/7/30 - 21:48:50] GL 02 has changed BusinessID 3's Type to Shop vu khi (4).
+[2022/7/30 - 21:48:55] GL 02 has changed BusinessID 3's Type to Nha hang (3).
+[2022/7/30 - 21:49:20] GL 02 has deleted BusinessID 3.
+[2022/7/30 - 21:49:34] GL 02 has changed BusinessID 3's Exterior to X:1367.577636 Y:248.158370 Z:19.566932
+[2022/7/30 - 21:49:52] GL 02 has deleted BusinessID 3.
+[2022/7/30 - 21:49:58] GL 02 has changed BusinessID 4's Exterior to X:1367.535156 Y:248.318252 Z:19.566932
+[2022/7/30 - 21:50:17] GL 02 has changed BusinessID 4's Type to Nha hang (3).
+[2022/7/30 - 21:50:32] GL 02 has changed BusinessID 4's Price to $50000000.
+[2022/7/31 - 0:21:53] GL 02 has changed BusinessID 4's Type to Dai ly xe moi (5).
+[2022/7/31 - 0:21:55] GL 02 has changed BusinessID 4's Type to Dai ly xe cu (6).
+[2022/7/31 - 0:21:58] GL 02 has changed BusinessID 4's Type to Tram sua xe (7).
+[2022/7/31 - 0:22:01] GL 02 has changed BusinessID 4's Type to 24/7 (8).
+[2022/7/31 - 0:22:05] GL 02 has changed BusinessID 4's Type to Bar (9).
+[2022/7/31 - 0:22:08] GL 02 has changed BusinessID 4's Type to Club (10).
+[2022/7/31 - 0:22:11] GL 02 has changed BusinessID 4's Type to Shop nguoi lon (11).
+[2022/7/31 - 0:22:13] GL 02 has changed BusinessID 4's Type to Gym (12).
+[2022/7/31 - 0:22:16] GL 02 has changed BusinessID 4's Type to Khong xac dinh (13).
+[2022/7/31 - 0:22:18] GL 02 has changed BusinessID 4's Type to Khong xac dinh (14).
+[2022/7/31 - 0:22:21] GL 02 has changed BusinessID 4's Type to Tram xang (1).
+[2022/7/31 - 0:22:24] GL 02 has changed BusinessID 4's Type to Shop quan ao (2).
+[2022/7/31 - 0:22:27] GL 02 has changed BusinessID 4's Type to Nha hang (3).
+[2022/7/31 - 0:24:22] GL 02 has changed BusinessID 3's Exterior to X:-1676.362426 Y:431.331909 Z:7.179687
+[2022/7/31 - 0:24:26] GL 02 has changed BusinessID 3's Exterior to X:-1675.989746 Y:432.101715 Z:7.179687
+[2022/7/31 - 0:24:46] GL 02 has changed BusinessID 1's Supply Point to X:-1676.170166 Y:432.197967 Z:7.179687
+[2022/7/31 - 0:24:50] GL 02 has changed BusinessID 2's Supply Point to X:-1676.170166 Y:432.197967 Z:7.179687
+[2022/7/31 - 0:25:09] GL 02 has changed BusinessID 1's safe to 0.
+[2022/7/31 - 0:25:31] GL 02 has changed BusinessID 3's Grade to 0
+[2022/7/31 - 0:25:45] GL 02 has changed BusinessID 3's Grade to 0
+[2022/7/31 - 0:25:48] GL 02 has changed BusinessID 3's Grade to 1
+[2022/7/31 - 0:25:55] GL 02 has changed BusinessID 3's Grade to 3
+[2022/7/31 - 0:26:14] GL 02 has edited BusinessID 3's CustomInterior.
+[2022/7/31 - 0:26:38] GL 02 has changed BusinessID 4's Interior to X:372.270843 Y:-132.830688 Z:1001.492187
+[2022/7/31 - 0:26:42] GL 02 has changed BusinessID 4's Interior to X:372.435516 Y:-133.504852 Z:1001.492187
+[2022/7/31 - 0:52:20] GL 02 has edited business ID 4's name to Cua Hang Pizza.
+[2022/7/31 - 0:54:02] GL 02 has changed BusinessID 3's Exterior to X:1367.592773 Y:248.121475 Z:19.566932
+[2022/7/31 - 0:54:10] GL 02 has changed BusinessID 3's Exterior to X:1367.541992 Y:248.272491 Z:19.566932
+[2022/7/31 - 0:54:26] GL 02 has changed BusinessID 3's Type to Dai ly xe cu (6).
+[2022/7/31 - 0:54:28] GL 02 has changed BusinessID 3's Type to Nha hang (3).
+[2022/7/31 - 0:54:42] GL 02 has edited business ID 3's name to Cua Hang Pizza.
+[2022/7/31 - 0:54:51] GL 02 has changed BusinessID 3's Price to $999999999.
+[2022/7/31 - 1:09:59] GL 02 has changed BusinessID 1's Price to $999999999.
+[2022/7/31 - 1:11:57] GL 02 has changed BusinessID 6's Exterior to X:-1640.958740 Y:1203.632446 Z:7.234873
+[2022/7/31 - 1:12:07] GL 02 has changed BusinessID 6's Exterior to X:-1642.246337 Y:1203.607299 Z:7.245188
+[2022/7/31 - 1:12:28] GL 02 has changed BusinessID 6's Type to Dai ly xe cu (6).
+[2022/7/31 - 1:12:32] GL 02 has changed BusinessID 6's Type to Dai ly xe moi (5).
+[2022/7/31 - 1:12:49] GL 02 has changed BusinessID 6's Price to $1.
+[2022/7/31 - 1:13:45] GL 02 has changed BusinessID 6's Interior to X:-1659.496093 Y:1208.219970 Z:13.671875
+[2022/7/31 - 1:16:06] GL 02 has edited business ID 6's name to Cua Hang Xe Cuc Vjp.
+[2022/7/31 - 1:16:53] GL 02 has edited business ID 3's name to Cua Hang Pizza.
+[2022/7/31 - 1:17:04] GL 02 has edited business ID 3's name to Cua Hang Pizza.
+[2022/7/31 - 1:17:05] GL 02 has edited business ID 3's name to Cua Hang Pizza.
+[2022/7/31 - 1:17:35] GL 02 has changed BusinessID 3's Months to 0
+[2022/7/31 - 12:21:00] GL 02 has changed BusinessID 3's Exterior to X:1365.113891 Y:250.042434 Z:19.566932
+[2022/7/31 - 12:21:14] GL 02 has deleted BusinessID 3.
+[2022/7/31 - 12:25:43] GL 02 has changed BusinessID 3's Exterior to X:1359.705200 Y:205.056213 Z:19.755516
+[2022/7/31 - 12:25:54] GL 02 has changed BusinessID 3's Type to Tram xang (1).
+[2022/7/31 - 12:25:56] GL 02 has changed BusinessID 3's Type to Shop quan ao (2).
+[2022/7/31 - 12:26:01] GL 02 has changed BusinessID 3's Type to Nha hang (3).
+[2022/7/31 - 12:26:03] GL 02 has changed BusinessID 3's Type to Shop vu khi (4).
+[2022/7/31 - 12:26:24] GL 02 has changed BusinessID 3's Type to Dai ly xe moi (5).
+[2022/7/31 - 12:26:28] GL 02 has changed BusinessID 3's Type to Khong xac dinh (0).
+[2022/7/31 - 12:26:30] GL 02 has changed BusinessID 3's Type to Dai ly xe cu (6).
+[2022/7/31 - 12:26:33] GL 02 has changed BusinessID 3's Type to Tram sua xe (7).
+[2022/7/31 - 12:26:35] GL 02 has changed BusinessID 3's Type to 24/7 (8).
+[2022/8/3 - 21:09:18] Viet cuto has changed BusinessID 1's Exterior to X:-2442.685058 Y:755.418395 Z:35.171875
+[2022/8/3 - 21:10:45] Viet cuto has changed BusinessID 2's Exterior to X:-2413.818115 Y:1.388677 Z:35.320312
+[2022/8/6 - 13:05:45] Viet Cuto has changed BusinessID 1's Interior to X:662.645629 Y:-573.283752 Z:16.335937
+[2022/8/6 - 13:07:26] Viet Cuto has changed BusinessID 3's Exterior to X:-2551.494873 Y:552.102416 Z:14.609375
+[2022/8/6 - 13:07:36] Viet Cuto has changed BusinessID 3's Exterior to X:-2551.589355 Y:552.100830 Z:14.609375
+[2022/8/6 - 13:08:38] Viet Cuto has changed BusinessID 4's Exterior to X:-1720.946655 Y:1359.770507 Z:7.187500
+[2022/8/6 - 13:09:25] Viet Cuto has deleted BusinessID 5.
+[2022/8/6 - 13:10:01] Viet Cuto has deleted BusinessID 6.
+[2022/8/6 - 13:11:16] Viet Cuto has changed BusinessID 8's Exterior to X:-1676.198486 Y:432.169097 Z:7.179687
+[2022/8/6 - 13:11:30] Viet Cuto has deleted BusinessID 8.
+[2022/8/6 - 13:11:58] Viet Cuto has changed BusinessID 8's Exterior to X:-1676.180664 Y:432.182891 Z:7.179687
+[2022/8/6 - 13:11:59] Viet Cuto has changed BusinessID 9's Exterior to X:-1676.180664 Y:432.182891 Z:7.179687
+[2022/8/6 - 13:12:03] Viet Cuto has deleted BusinessID 8.
+[2022/8/6 - 13:16:24] Viet Cuto has changed BusinessID 11's Exterior to X:-2373.775146 Y:910.165283 Z:45.445312
+[2022/8/6 - 13:19:17] Viet Cuto has changed BusinessID 13's Exterior to X:-2586.367675 Y:552.100280 Z:14.609375
+[2022/8/6 - 13:22:48] Viet Cuto has deleted BusinessID 15.
+[2022/8/6 - 13:23:46] Viet Cuto has changed BusinessID 16's Exterior to X:-2034.893920 Y:148.517532 Z:28.835937
+[2022/8/6 - 13:23:54] Viet Cuto has changed BusinessID 16's Exterior to X:-2034.897216 Y:148.552520 Z:28.835937
+[2022/8/6 - 13:28:38] Viet Cuto has changed BusinessID 5's Exterior to X:-1640.659057 Y:1203.160278 Z:7.231288
+[2022/8/6 - 13:29:18] Viet Cuto has changed BusinessID 5's Type to Tram xang (1).
+[2022/8/6 - 13:29:19] Viet Cuto has changed BusinessID 5's Type to Tram xang (1).
+[2022/8/6 - 13:29:20] Viet Cuto has changed BusinessID 5's Type to Shop quan ao (2).
+[2022/8/6 - 13:29:22] Viet Cuto has changed BusinessID 5's Type to Nha hang (3).
+[2022/8/6 - 13:29:23] Viet Cuto has changed BusinessID 5's Type to Shop vu khi (4).
+[2022/8/6 - 13:29:24] Viet Cuto has changed BusinessID 5's Type to Dai ly xe moi (5).
+[2022/8/7 - 21:25:41] GL 02 has edited business ID 4's name to Cua Hang Pizza.
